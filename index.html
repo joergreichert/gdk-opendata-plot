@@ -76,14 +76,14 @@
   <body>
     <div id="map"></div>
     <div id="state-legend" class="legend">
-      <h3>Gieß den Kiez Kennzahlen</h3>
+      <h3>Leipzig Giesst Kennzahlen</h3>
       <p><em>Vegetationsperiode 2021 (März bis Oktober)</em></p>
       <hr style="opacity: 0.4;" />
       <div id="dynamic">
-        <p style="background-color: #35de89; opacity: 0.8; color: white; padding: 0.5em 1em 0.5em 1em; display: inline-flex; margin: 0.5em 0 0 0"><strong>Berlin</strong></p>
-        <p>∑ Gegossene Bäume: <strong><span id="sumBaumBerlin"></span></strong></p>
-        <p>∑ Gießungen: <strong><span id="sumGiessBerlin"></span></strong></p>
-        <p>∑ Wassermenge: <strong><span id="sumWasserBerlin"></span>Liter</strong></p>
+        <p style="background-color: #35de89; opacity: 0.8; color: white; padding: 0.5em 1em 0.5em 1em; display: inline-flex; margin: 0.5em 0 0 0"><strong>Leipzig</strong></p>
+        <p>∑ Gegossene Bäume: <strong><span id="sumBaumLeipzig"></span></strong></p>
+        <p>∑ Gießungen: <strong><span id="sumGiessLeipzig"></span></strong></p>
+        <p>∑ Wassermenge: <strong><span id="sumWasserLeipzig"></span>Liter</strong></p>
       </div>
       <hr style="opacity: 0.4;" />
       <p style="background-color: #35de89; opacity: 0.8; color: white; padding: 0.5em 1em 0.5em 1em; display: inline-flex; margin: 0.5em 0 0 0">
@@ -95,16 +95,16 @@
     </div>
     <script>
       mapboxgl.accessToken =
-        "pk.eyJ1IjoianVsaWF6ZXQiLCJhIjoiY2trdmhkdmE0MXNidjJ1cGZhaXVrZDE1NSJ9.I0eyCt352bKnMo50n4cDIQ";
+        "pk.eyJ1Ijoic2FubnNpZSIsImEiOiJja2FndTc0ajAwOXlwMnBvNGl6dW16MjVpIn0.2vuHVqIK5bDNcoWMmi3VtQ";
       var map;
       map = new mapboxgl.Map({
         container: "map", // container id
         style: "mapbox://styles/mapbox/light-v9",
-        center: [13.430168, 52.489868], // starting position ([lng, lat] close to Hermannplatz
-        zoom: 15, // starting zoom
+        center: [12.3742236, 51.3399028],
+        zoom: 11, // starting zoom
         pitch: 45,
         maxZoom: 18,
-        minZoom: 10,
+        minZoom: 9,
       });
 
       var bezirkID = null;
@@ -129,7 +129,7 @@
       // helper function
       function numberFormat(num) {
         return (
-          num
+          Number(num)
             .toFixed(0) // always two decimal digits
             .replace('.', ',') // replace decimal point character with ,
             .replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1.')
@@ -137,7 +137,7 @@
       }
 
       let kiezname;
-      let trees; 
+      let trees;
       let sumB = 0;
       let sumG = 0;
       let sumW = 0
@@ -146,23 +146,23 @@
         trees = Object.values(geojson) // object
         trees = trees[1] // array
 
-        // +++ calculate numbers for Berlin
+        // +++ calculate numbers for Leipzig
         sumB = trees.length;
         trees.forEach(function(feature){
-              sumG = sumG + feature.properties.anzahlG;
-              sumW = sumW + feature.properties.wassersumme;
+              sumG = sumG + Number(feature.properties.anzahlg);
+              sumW = sumW + Number(feature.properties.wassersumme);
             })
 
-        const sumBaumBerlin = document.getElementById("sumBaumBerlin");
-        sumBaumBerlin.innerHTML = numberFormat(sumB);    
-        const sumGiessBerlin = document.getElementById("sumGiessBerlin");
-        sumGiessBerlin.innerHTML = numberFormat(sumG);
-        const sumWasserBerlin = document.getElementById("sumWasserBerlin");
-        sumWasserBerlin.innerHTML = numberFormat(sumW);
+        const sumBaumLeipzig = document.getElementById("sumBaumLeipzig");
+        sumBaumLeipzig.innerHTML = numberFormat(sumB);
+        const sumGiessLeipzig = document.getElementById("sumGiessLeipzig");
+        sumGiessLeipzig.innerHTML = numberFormat(sumG);
+        const sumWasserLeipzig = document.getElementById("sumWasserLeipzig");
+        sumWasserLeipzig.innerHTML = numberFormat(sumW);
       })
 
 
-// // Berlin
+// // Leipzig
 //       let gemeindeTrees = allTrees.filter((tree) => (tree.Gemeinde_name === kiezname));
 
 // // Gemeinde
@@ -182,7 +182,7 @@
 
         map.addSource("watered-trees", {
           type: "vector",
-          url: "mapbox://juliazet.azwgfjip",
+          url: "mapbox://sannsie.0iduf7nl",
         });
 
         map.addSource("watered-trees-geojson", {
@@ -222,7 +222,7 @@
           id: "watered-trees",
           type: "circle",
           source: "watered-trees",
-          "source-layer": "wateredTreesSum_MidSep-0lqlgu",
+          "source-layer": "wateredTreesSum_MidSep-bfcet0",
           paint: {
             // Make circles larger as the user zooms from z12 to z22.
             "circle-radius": {
@@ -259,7 +259,7 @@
       });
 
       // var calculated = false;
-      // // calculate Berlin data
+      // // calculate Leipzig data
       // map.on('idle',function(){
       //   if(map.isSourceLoaded("watered-trees") && calculated == false){
       //   const features = map.querySourceFeatures('watered-trees', {sourceLayer:'wateredTreesSum_MidSep-0lqlgu'});
@@ -278,16 +278,16 @@
       //   let sumG = 0;
       //   let sumW = 0;
       //   arrayUniqueByKey.forEach(function(feature){
-      //     sumG = sumG + feature.properties.anzahlG;
-      //     sumW = sumW + feature.properties.wassersumme;
+      //     sumG = sumG + Number(feature.properties.anzahlg);
+      //     sumW = sumW + Number(feature.properties.wassersumme);
       //   })
-      //   const sumGiessBerlin = document.getElementById("sumGiessBerlin");
-      //   sumGiessBerlin.innerHTML = sumG;
+      //   const sumGiessLeipzig = document.getElementById("sumGiessLeipzig");
+      //   sumGiessLeipzig.innerHTML = sumG;
 
-      //   const sumWasserBerlin = document.getElementById("sumWasserBerlin");
-      //   sumWasserBerlin.innerHTML = sumW;
+      //   const sumWasserLeipzig = document.getElementById("sumWasserLeipzig");
+      //   sumWasserLeipzig.innerHTML = sumW;
       //   calculated = true;
-      //   }        
+      //   }
       // })
 
       // When the user moves their mouse over the state-fill layer, we'll update the
@@ -308,7 +308,7 @@
           );
         }
 
-        kiezname = e.features[0].properties.Gemeinde_name;
+        kiezname = e.features[0].properties.Name;
         const kieznameElement = document.getElementById("kiezname");
         kieznameElement.innerHTML = kiezname;
 
@@ -319,22 +319,22 @@
         let sumWBezirk = 0
 
         bezirkTrees.forEach(function(feature){
-          sumGBezirk = sumGBezirk + feature.properties.anzahlG;
-          sumWBezirk = sumWBezirk + feature.properties.wassersumme;
+          sumGBezirk = sumGBezirk + Number(feature.properties.anzahlg);
+          sumWBezirk = sumWBezirk + Number(feature.properties.wassersumme);
         })
 
         let ratioBaum = sumBBezirk/sumB*100;
-        ratioBaum = ratioBaum.toFixed(2); 
+        ratioBaum = ratioBaum.toFixed(2);
 
         let ratioGiess = sumGBezirk/sumG*100;
-        ratioGiess = ratioGiess.toFixed(2); 
+        ratioGiess = ratioGiess.toFixed(2);
 
         let ratioWasser =sumWBezirk/sumW*100;
-        ratioWasser = ratioWasser.toFixed(2); 
+        ratioWasser = ratioWasser.toFixed(2);
 
 
         const sumBaumBezirk = document.getElementById("sumBaumBezirk");
-        sumBaumBezirk.innerHTML = numberFormat(sumBBezirk) + " (" + ratioBaum +"%)";    
+        sumBaumBezirk.innerHTML = numberFormat(sumBBezirk) + " (" + ratioBaum +"%)";
         const sumGiessBezirk = document.getElementById("sumGiessBezirk");
         sumGiessBezirk.innerHTML = numberFormat(sumGBezirk) + " (" + ratioGiess +"%)";
         const sumWasserBezirk = document.getElementById("sumWasserBezirk");
@@ -368,9 +368,8 @@
         let coordinates = e.features[0].geometry.coordinates.slice();
         let artdtsch = e.features[0].properties.artdtsch;
         let strname = e.features[0].properties.strname;
-        let hausnr = e.features[0].properties.hausnr;
         let wassersumme = e.features[0].properties.wassersumme;
-        let anzahlG = e.features[0].properties.anzahlG;
+        let anzahlg = e.features[0].properties.anzahlg;
         let alter = e.features[0].properties.standalter;
 
         // Ensure that if the map is zoomed out such that multiple
@@ -391,14 +390,12 @@
               " Jahre) " +
               "</strong></p>" +
               "<p><b> Anzahl Gießungen: " +
-              anzahlG +
+              anzahlg +
               "</b></p>" +
               "<p><b> Erhaltene Wassermenge: " +
               wassersumme +
               " Liter</b></p><p>" +
               strname +
-              " Nr. " +
-              hausnr +
               "</p>"
           )
           .addTo(map);
