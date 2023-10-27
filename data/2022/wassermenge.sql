@@ -14,5 +14,5 @@ select
   sum(w.amount::int) as wassersumme,
   count(w) as anzahlg
 from trees t join trees_watered w on t.id = w.tree_id
-where w.timestamp >= '20220301' and w.timestamp < '20220930'
+where w.timestamp >= '20220301' and w.timestamp < '20221001'
 group by t.id

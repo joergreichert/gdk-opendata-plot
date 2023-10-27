@@ -1,0 +1,4925 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.401927868939756, 51.33420261363568]
+            },
+            "properties": {
+                "id": "id-28473",
+                "artdtsch": "Gefülltblühende Rosskastanie",
+                "artbot": "Aesculus hippocastanum 'Baumannii'",
+                "gattungdeutsch": "Aesculus",
+                "strname": "Reichpietschstraße",
+                "pflanzjahr": "1999",
+                "standalter": "22",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "22203",
+                "wassermenge": "10",
+                "wassersumme": "130",
+                "anzahlg": "15"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.402069273118764, 51.33418011894985]
+            },
+            "properties": {
+                "id": "id-28474",
+                "artdtsch": "Berg-Ahorn",
+                "artbot": "Acer pseudoplatanus",
+                "gattungdeutsch": "Acer",
+                "strname": "Reichpietschstraße",
+                "pflanzjahr": "1960",
+                "standalter": "61",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "22204",
+                "wassermenge": "10",
+                "wassersumme": "160",
+                "anzahlg": "19"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.382290844152289, 51.307059992942186]
+            },
+            "properties": {
+                "id": "id-19602",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Meusdorfer Straße",
+                "pflanzjahr": "2006",
+                "standalter": "15",
+                "bezirk": "Connewitz",
+                "standortnr": "33561",
+                "wassermenge": "10",
+                "wassersumme": "310",
+                "anzahlg": "32"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.37496644358961, 51.34390550819202]
+            },
+            "properties": {
+                "id": "id-56537",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Richard-Wagner-Straße",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Zentrum",
+                "standortnr": "73387",
+                "wassermenge": "10",
+                "wassersumme": "50",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.336530180439476, 51.33467146858312]
+            },
+            "properties": {
+                "id": "id-59411",
+                "artdtsch": "Woll-Apfel",
+                "artbot": "Malus tschonoskii",
+                "gattungdeutsch": "Malus",
+                "strname": "Birkenstraße",
+                "pflanzjahr": "2018",
+                "standalter": "3",
+                "bezirk": "Lindenau",
+                "standortnr": "75278",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.33322947690217, 51.33808036956594]
+            },
+            "properties": {
+                "id": "id-12674",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Rietschelstraße",
+                "pflanzjahr": "2001",
+                "standalter": "20",
+                "bezirk": "Altlindenau",
+                "standortnr": "54835",
+                "wassermenge": "10",
+                "wassersumme": "50",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.320077818374626, 51.34604688444697]
+            },
+            "properties": {
+                "id": "id-10551",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "William-Zipperer-Straße",
+                "pflanzjahr": "2007",
+                "standalter": "14",
+                "bezirk": "Leutzsch",
+                "standortnr": "54826",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.371440384779985, 51.30714112614092]
+            },
+            "properties": {
+                "id": "id-19446",
+                "artdtsch": "Feld-Ahorn 'Elsrijk'",
+                "artbot": "Acer campestre 'Elsrijk'",
+                "gattungdeutsch": "Acer",
+                "strname": "Mathildenstraße",
+                "pflanzjahr": "2007",
+                "standalter": "14",
+                "bezirk": "Connewitz",
+                "standortnr": "41627",
+                "wassermenge": "25",
+                "wassersumme": "40",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.345365230180434, 51.327745596406125]
+            },
+            "properties": {
+                "id": "id-9038",
+                "artdtsch": "Linde",
+                "artbot": "Tilia species",
+                "gattungdeutsch": "Tilia",
+                "strname": "Holbeinstraße",
+                "pflanzjahr": "1905",
+                "standalter": "116",
+                "bezirk": "Schleußig",
+                "standortnr": "40598",
+                "wassermenge": "50",
+                "wassersumme": "100",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.340511294909504, 51.322751518768385]
+            },
+            "properties": {
+                "id": "id-8724",
+                "artdtsch": "Straßen-Robinie",
+                "artbot": "Robinia pseudoacacia 'Monophylla'",
+                "gattungdeutsch": "Robinia",
+                "strname": "Brockhausstraße",
+                "pflanzjahr": "2005",
+                "standalter": "16",
+                "bezirk": "Schleußig",
+                "standortnr": "40787",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.40308790985476, 51.32901506675946]
+            },
+            "properties": {
+                "id": "id-23494",
+                "artdtsch": "Baumhasel",
+                "artbot": "Corylus colurna",
+                "gattungdeutsch": "Corylus",
+                "strname": "Kröbelstraße",
+                "pflanzjahr": "1990",
+                "standalter": "31",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "22601",
+                "wassermenge": "5",
+                "wassersumme": "20",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.3895688834358, 51.32538846139927]
+            },
+            "properties": {
+                "id": "id-22789",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Straße des 18. Oktober",
+                "pflanzjahr": "2006",
+                "standalter": "15",
+                "bezirk": "Zentrum-Südost",
+                "standortnr": "30322",
+                "wassermenge": "5",
+                "wassersumme": "5",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.30195076606226, 51.357268308188885]
+            },
+            "properties": {
+                "id": "id-12244",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Zusestraße",
+                "pflanzjahr": "2004",
+                "standalter": "17",
+                "bezirk": "Böhlitz-Ehrenberg",
+                "standortnr": "58462",
+                "wassermenge": "25",
+                "wassersumme": "25",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.41103071570898, 51.37327487083211]
+            },
+            "properties": {
+                "id": "id-47626",
+                "artdtsch": "Chinesische Wildbirne 'Chanticleer'",
+                "artbot": "Pyrus calleryana 'Chanticleer'",
+                "gattungdeutsch": "Pyrus",
+                "strname": "Mockauer Straße",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Mockau-Süd",
+                "standortnr": "10388",
+                "wassermenge": "50",
+                "wassersumme": "95",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.408662954971847, 51.37059653393788]
+            },
+            "properties": {
+                "id": "id-36088",
+                "artdtsch": "Kaiser-Linde",
+                "artbot": "Tilia x vulgaris 'Pallida'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Gontardweg",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Mockau-Süd",
+                "standortnr": "2110",
+                "wassermenge": "50",
+                "wassersumme": "490",
+                "anzahlg": "32"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.372585449227197, 51.3499004955837]
+            },
+            "properties": {
+                "id": "id-29322",
+                "artdtsch": "Platane",
+                "artbot": "Platanus x acerifolia",
+                "gattungdeutsch": "Platanus",
+                "strname": "Pfaffendorfer Straße",
+                "pflanzjahr": "2012",
+                "standalter": "9",
+                "bezirk": "Zentrum-Nord",
+                "standortnr": "13161",
+                "wassermenge": "50",
+                "wassersumme": "85",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.371323743473825, 51.31916979833254]
+            },
+            "properties": {
+                "id": "id-59931",
+                "artdtsch": "Blumen-Esche",
+                "artbot": "Fraxinus ornus",
+                "gattungdeutsch": "Fraxinus",
+                "strname": "Kochstraße",
+                "pflanzjahr": "2018",
+                "standalter": "3",
+                "bezirk": "Südvorstadt",
+                "standortnr": "75691",
+                "wassermenge": "10",
+                "wassersumme": "60",
+                "anzahlg": "6"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.403631569355712, 51.333028920597194]
+            },
+            "properties": {
+                "id": "id-28403",
+                "artdtsch": "Gefülltblühende Rosskastanie",
+                "artbot": "Aesculus hippocastanum 'Baumannii'",
+                "gattungdeutsch": "Aesculus",
+                "strname": "Eilenburger Straße",
+                "pflanzjahr": "2005",
+                "standalter": "16",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "22464",
+                "wassermenge": "5",
+                "wassersumme": "5",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.343038304107077, 51.32553826199965]
+            },
+            "properties": {
+                "id": "id-8819",
+                "artdtsch": "Straßen-Robinie",
+                "artbot": "Robinia pseudoacacia 'Monophylla'",
+                "gattungdeutsch": "Robinia",
+                "strname": "Brockhausstraße",
+                "pflanzjahr": "2005",
+                "standalter": "16",
+                "bezirk": "Schleußig",
+                "standortnr": "40858",
+                "wassermenge": "50",
+                "wassersumme": "50",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.372987077599756, 51.31761384258101]
+            },
+            "properties": {
+                "id": "id-59909",
+                "artdtsch": "Französischer Ahorn",
+                "artbot": "Acer monspessulanum",
+                "gattungdeutsch": "Acer",
+                "strname": "Steinstraße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Südvorstadt",
+                "standortnr": "75768",
+                "wassermenge": "25",
+                "wassersumme": "50",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.333406570359932, 51.338121639408186]
+            },
+            "properties": {
+                "id": "id-12673",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Rietschelstraße",
+                "pflanzjahr": "2000",
+                "standalter": "21",
+                "bezirk": "Altlindenau",
+                "standortnr": "54834",
+                "wassermenge": "25",
+                "wassersumme": "50",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.345671032476274, 51.32727557396215]
+            },
+            "properties": {
+                "id": "id-8970",
+                "artdtsch": "Hopfenbuche",
+                "artbot": "Ostrya carpinifolia",
+                "gattungdeutsch": "Ostrya",
+                "strname": "Könneritzstraße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Schleußig",
+                "standortnr": "39570",
+                "wassermenge": "10",
+                "wassersumme": "100",
+                "anzahlg": "10"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.293654891030734, 51.35919162979956]
+            },
+            "properties": {
+                "id": "300",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Leipziger Straße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Böhlitz-Ehrenberg",
+                "standortnr": "57084",
+                "wassermenge": "10",
+                "wassersumme": "50",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.41134547347516, 51.346631195050925]
+            },
+            "properties": {
+                "id": "id-31477",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Mariannenstraße",
+                "pflanzjahr": "1997",
+                "standalter": "24",
+                "bezirk": "Volkmarsdorf",
+                "standortnr": "8360",
+                "wassermenge": "50",
+                "wassersumme": "175",
+                "anzahlg": "6"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.419078163055845, 51.34492020080866]
+            },
+            "properties": {
+                "id": "id-31104",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Eisenbahnstraße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Volkmarsdorf",
+                "standortnr": "8935",
+                "wassermenge": "50",
+                "wassersumme": "500",
+                "anzahlg": "10"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.406023968819213, 51.33192245172911]
+            },
+            "properties": {
+                "id": "id-30311",
+                "artdtsch": "Kegelförmiger Spitz-Ahorn",
+                "artbot": "Acer platanoides 'Emerald Queen'",
+                "gattungdeutsch": "Acer",
+                "strname": "Riebeckstraße",
+                "pflanzjahr": "1996",
+                "standalter": "25",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "22106",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.374721272285566, 51.34391107315734]
+            },
+            "properties": {
+                "id": "id-56530",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Richard-Wagner-Straße",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Zentrum",
+                "standortnr": "73388",
+                "wassermenge": "10",
+                "wassersumme": "50",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.408517469740692, 51.37038663325118]
+            },
+            "properties": {
+                "id": "id-35934",
+                "artdtsch": "Winter-Linde 'Roelvo'",
+                "artbot": "Tilia cordata 'Roelvo'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Gontardweg",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Mockau-Süd",
+                "standortnr": "2112",
+                "wassermenge": "5",
+                "wassersumme": "5",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.40087864397004, 51.334407410521436]
+            },
+            "properties": {
+                "id": "id-28465",
+                "artdtsch": "Gefülltblühende Rosskastanie",
+                "artbot": "Aesculus hippocastanum 'Baumannii'",
+                "gattungdeutsch": "Aesculus",
+                "strname": "Reichpietschstraße",
+                "pflanzjahr": "1999",
+                "standalter": "22",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "22196",
+                "wassermenge": "10",
+                "wassersumme": "30",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.426730400663507, 51.30462005373673]
+            },
+            "properties": {
+                "id": "137",
+                "artdtsch": "Gefülltblühende Vogel-Kirsche",
+                "artbot": "Prunus avium 'Plena'",
+                "gattungdeutsch": "Prunus",
+                "strname": "Bockstraße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Probstheida",
+                "standortnr": "26155",
+                "wassermenge": "25",
+                "wassersumme": "65",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.377832014221086, 51.36266128268348]
+            },
+            "properties": {
+                "id": "1197",
+                "artdtsch": "Feld-Ahorn ''Huibers Elegant'",
+                "artbot": "Acer campestre 'Huibers Elegant'",
+                "gattungdeutsch": "Acer",
+                "strname": "Wilhelm-Sammet-Straße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Gohlis-Mitte",
+                "standortnr": "77007",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.380503775310196, 51.30997662963301]
+            },
+            "properties": {
+                "id": "id-19710",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Arno-Nitzsche-Straße",
+                "pflanzjahr": "2011",
+                "standalter": "10",
+                "bezirk": "Connewitz",
+                "standortnr": "31839",
+                "wassermenge": "10",
+                "wassersumme": "60",
+                "anzahlg": "6"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.37573898069235, 51.342738403405725]
+            },
+            "properties": {
+                "id": "id-53071",
+                "artdtsch": "Säulen-Eiche 'Fastigiata Koster'",
+                "artbot": "Quercus robur 'Fastigiata Koster'",
+                "gattungdeutsch": "Quercus",
+                "strname": "Katharinenstraße",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Zentrum",
+                "standortnr": "71042",
+                "wassermenge": "50",
+                "wassersumme": "80",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.311283236240019, 51.33113373531985]
+            },
+            "properties": {
+                "id": "id-12427",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Demmeringstraße",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Neulindenau",
+                "standortnr": "46226",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.354896198963543, 51.33062405997763]
+            },
+            "properties": {
+                "id": "id-55497",
+                "artdtsch": "Holländische Linde",
+                "artbot": "Tilia x vulgaris",
+                "gattungdeutsch": "Tilia",
+                "strname": "Max-Reger-Allee",
+                "pflanzjahr": "2011",
+                "standalter": "10",
+                "bezirk": "Zentrum-West",
+                "standortnr": "71134",
+                "wassermenge": "50",
+                "wassersumme": "75",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.374609282281977, 51.343913148691136]
+            },
+            "properties": {
+                "id": "id-56529",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Richard-Wagner-Straße",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Zentrum",
+                "standortnr": "73389",
+                "wassermenge": "25",
+                "wassersumme": "50",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.327957803355321, 51.328377545777265]
+            },
+            "properties": {
+                "id": "id-7889",
+                "artdtsch": "Platane",
+                "artbot": "Platanus x acerifolia",
+                "gattungdeutsch": "Platanus",
+                "strname": "Gießerstraße",
+                "pflanzjahr": "2005",
+                "standalter": "16",
+                "bezirk": "Plagwitz",
+                "standortnr": "44418",
+                "wassermenge": "10",
+                "wassersumme": "15",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.345934465374786, 51.375364769840616]
+            },
+            "properties": {
+                "id": "id-44445",
+                "artdtsch": "Kaiser-Linde",
+                "artbot": "Tilia x vulgaris 'Pallida'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Max-Liebermann-Straße",
+                "pflanzjahr": "2006",
+                "standalter": "15",
+                "bezirk": "Möckern",
+                "standortnr": "59068",
+                "wassermenge": "10",
+                "wassersumme": "30",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.267840493454774, 51.305139294762334]
+            },
+            "properties": {
+                "id": "id-973",
+                "artdtsch": "Ess-Kastanie",
+                "artbot": "Castanea sativa",
+                "gattungdeutsch": "Castanea",
+                "strname": "Miltitzer Allee",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Lausen-Grünau",
+                "standortnr": "49289",
+                "wassermenge": "50",
+                "wassersumme": "75",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.371300694560423, 51.31889271292189]
+            },
+            "properties": {
+                "id": "id-59933",
+                "artdtsch": "Blumen-Esche",
+                "artbot": "Fraxinus ornus",
+                "gattungdeutsch": "Fraxinus",
+                "strname": "Kochstraße",
+                "pflanzjahr": "2018",
+                "standalter": "3",
+                "bezirk": "Südvorstadt",
+                "standortnr": "75693",
+                "wassermenge": "10",
+                "wassersumme": "60",
+                "anzahlg": "7"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.343688579764791, 51.37550892503641]
+            },
+            "properties": {
+                "id": "id-44336",
+                "artdtsch": "Zierkirsche",
+                "artbot": "Prunus x schmittii",
+                "gattungdeutsch": "Prunus",
+                "strname": "Defoestraße",
+                "pflanzjahr": "2006",
+                "standalter": "15",
+                "bezirk": "Möckern",
+                "standortnr": "60671",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.375413597154079, 51.3425444827068]
+            },
+            "properties": {
+                "id": "id-53077",
+                "artdtsch": "Säulen-Eiche 'Fastigiata Koster'",
+                "artbot": "Quercus robur 'Fastigiata Koster'",
+                "gattungdeutsch": "Quercus",
+                "strname": "Katharinenstraße",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Zentrum",
+                "standortnr": "71048",
+                "wassermenge": "50",
+                "wassersumme": "70",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.401754277732959, 51.33339550599325]
+            },
+            "properties": {
+                "id": "id-58787",
+                "artdtsch": "Ulme Rebona",
+                "artbot": "Ulmus 'Rebona'",
+                "gattungdeutsch": "Ulmus",
+                "strname": "Eilenburger Straße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "74534",
+                "wassermenge": "25",
+                "wassersumme": "220",
+                "anzahlg": "13"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.401464410149403, 51.33344861218907]
+            },
+            "properties": {
+                "id": "id-28292",
+                "artdtsch": "Ulme Rebona",
+                "artbot": "Ulmus 'Rebona'",
+                "gattungdeutsch": "Ulmus",
+                "strname": "Eilenburger Straße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "22434",
+                "wassermenge": "5",
+                "wassersumme": "20",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.323723103531085, 51.32583397855802]
+            },
+            "properties": {
+                "id": "id-56922",
+                "artdtsch": "Zerr-Eiche",
+                "artbot": "Quercus cerris",
+                "gattungdeutsch": "Quercus",
+                "strname": "Markranstädter Straße",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Plagwitz",
+                "standortnr": "73656",
+                "wassermenge": "50",
+                "wassersumme": "135",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.325029749048307, 51.38868464052484]
+            },
+            "properties": {
+                "id": "id-44071",
+                "artdtsch": "Zierkirsche",
+                "artbot": "Prunus x schmittii",
+                "gattungdeutsch": "Prunus",
+                "strname": "Sandweg",
+                "pflanzjahr": "2003",
+                "standalter": "18",
+                "bezirk": "Lindenthal",
+                "standortnr": "62135",
+                "wassermenge": "25",
+                "wassersumme": "95",
+                "anzahlg": "8"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.37164410476104, 51.307064035115104]
+            },
+            "properties": {
+                "id": "id-19420",
+                "artdtsch": "Feld-Ahorn 'Elsrijk'",
+                "artbot": "Acer campestre 'Elsrijk'",
+                "gattungdeutsch": "Acer",
+                "strname": "Mathildenstraße",
+                "pflanzjahr": "2007",
+                "standalter": "14",
+                "bezirk": "Connewitz",
+                "standortnr": "41646",
+                "wassermenge": "50",
+                "wassersumme": "60",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.375736657635708, 51.34280166935621]
+            },
+            "properties": {
+                "id": "id-53070",
+                "artdtsch": "Säulen-Eiche 'Fastigiata Koster'",
+                "artbot": "Quercus robur 'Fastigiata Koster'",
+                "gattungdeutsch": "Quercus",
+                "strname": "Katharinenstraße",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Zentrum",
+                "standortnr": "71041",
+                "wassermenge": "50",
+                "wassersumme": "90",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.418654453556957, 51.3449391002645]
+            },
+            "properties": {
+                "id": "id-31111",
+                "artdtsch": "Säulen-Ahorn",
+                "artbot": "Acer platanoides 'Columnare'",
+                "gattungdeutsch": "Acer",
+                "strname": "Eisenbahnstraße",
+                "pflanzjahr": "1999",
+                "standalter": "22",
+                "bezirk": "Volkmarsdorf",
+                "standortnr": "8931",
+                "wassermenge": "5",
+                "wassersumme": "5",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.412866586924316, 51.333384933369736]
+            },
+            "properties": {
+                "id": "1139",
+                "artdtsch": "Schmalkronige Stadt-Ulme 'Regal'",
+                "artbot": "Ulmus 'Regal'",
+                "gattungdeutsch": "Ulmus",
+                "strname": "Franckestraße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Anger-Crottendorf",
+                "standortnr": "20225",
+                "wassermenge": "10",
+                "wassersumme": "30",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.47262294732119, 51.360532511458274]
+            },
+            "properties": {
+                "id": "id-57982",
+                "artdtsch": "Spitz-Ahorn 'Farlake's Green'",
+                "artbot": "Acer platanoides 'Farlake's Green'",
+                "gattungdeutsch": "Acer",
+                "strname": "Goldene Hufe",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Heiterblick",
+                "standortnr": "73631",
+                "wassermenge": "25",
+                "wassersumme": "25",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.371478490971612, 51.30705437956752]
+            },
+            "properties": {
+                "id": "id-19436",
+                "artdtsch": "Feld-Ahorn 'Elsrijk'",
+                "artbot": "Acer campestre 'Elsrijk'",
+                "gattungdeutsch": "Acer",
+                "strname": "Mathildenstraße",
+                "pflanzjahr": "2007",
+                "standalter": "14",
+                "bezirk": "Connewitz",
+                "standortnr": "41648",
+                "wassermenge": "25",
+                "wassersumme": "65",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.31735700781372, 51.331011759740115]
+            },
+            "properties": {
+                "id": "id-55429",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Lützner Straße",
+                "pflanzjahr": "2014",
+                "standalter": "7",
+                "bezirk": "Neulindenau",
+                "standortnr": "74480",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.397779825904049, 51.347412522634876]
+            },
+            "properties": {
+                "id": "1384",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Mariannenstraße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Neustadt-Neuschönefeld",
+                "standortnr": "8216",
+                "wassermenge": "50",
+                "wassersumme": "110",
+                "anzahlg": "7"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.400452383786826, 51.333648384774236]
+            },
+            "properties": {
+                "id": "id-28307",
+                "artdtsch": "Ulme Rebona",
+                "artbot": "Ulmus 'Rebona'",
+                "gattungdeutsch": "Ulmus",
+                "strname": "Eilenburger Straße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "22446",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.401322349106714, 51.33347513885237]
+            },
+            "properties": {
+                "id": "id-28278",
+                "artdtsch": "Ulme Rebona",
+                "artbot": "Ulmus 'Rebona'",
+                "gattungdeutsch": "Ulmus",
+                "strname": "Eilenburger Straße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "22429",
+                "wassermenge": "5",
+                "wassersumme": "5",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.398390206165594, 51.33894897176543]
+            },
+            "properties": {
+                "id": "id-29026",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Crusiusstraße",
+                "pflanzjahr": "2018",
+                "standalter": "3",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "21827",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.383828675328154, 51.363037092866]
+            },
+            "properties": {
+                "id": "id-55210",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Haferkornstraße",
+                "pflanzjahr": "2010",
+                "standalter": "11",
+                "bezirk": "Eutritzsch",
+                "standortnr": "70863",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.40442000780343, 51.34641247309643]
+            },
+            "properties": {
+                "id": "1377",
+                "artdtsch": "Gleditschie 'Skyline'",
+                "artbot": "Gleditsia triacanthos 'Skyline'",
+                "gattungdeutsch": "Gleditsia",
+                "strname": "Ludwigstraße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Neustadt-Neuschönefeld",
+                "standortnr": "8457",
+                "wassermenge": "5",
+                "wassersumme": "5",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.417847716728756, 51.32355916298737]
+            },
+            "properties": {
+                "id": "id-25959",
+                "artdtsch": "Chinesische Wildbirne 'Chanticleer'",
+                "artbot": "Pyrus calleryana 'Chanticleer'",
+                "gattungdeutsch": "Pyrus",
+                "strname": "Papiermühlstraße",
+                "pflanzjahr": "2006",
+                "standalter": "15",
+                "bezirk": "Stötteritz",
+                "standortnr": "23904",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.414596669799758, 51.354193033799504]
+            },
+            "properties": {
+                "id": "id-35123",
+                "artdtsch": "Spitz-Ahorn",
+                "artbot": "Acer platanoides",
+                "gattungdeutsch": "Acer",
+                "strname": "Kohlweg",
+                "pflanzjahr": "1920",
+                "standalter": "101",
+                "bezirk": "Schönefeld-Abtnaundorf",
+                "standortnr": "11448",
+                "wassermenge": "25",
+                "wassersumme": "70",
+                "anzahlg": "6"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.372409036412865, 51.31763747318805]
+            },
+            "properties": {
+                "id": "id-59911",
+                "artdtsch": "Französischer Ahorn",
+                "artbot": "Acer monspessulanum",
+                "gattungdeutsch": "Acer",
+                "strname": "Steinstraße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Südvorstadt",
+                "standortnr": "75766",
+                "wassermenge": "25",
+                "wassersumme": "50",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.402227804058086, 51.3341492799758]
+            },
+            "properties": {
+                "id": "id-28475",
+                "artdtsch": "Berg-Ahorn",
+                "artbot": "Acer pseudoplatanus",
+                "gattungdeutsch": "Acer",
+                "strname": "Reichpietschstraße",
+                "pflanzjahr": "1960",
+                "standalter": "61",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "22205",
+                "wassermenge": "10",
+                "wassersumme": "155",
+                "anzahlg": "20"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.34167509310045, 51.33577336321452]
+            },
+            "properties": {
+                "id": "id-13161",
+                "artdtsch": "Platane",
+                "artbot": "Platanus x acerifolia",
+                "gattungdeutsch": "Platanus",
+                "strname": "Bowmanstraße",
+                "pflanzjahr": "2005",
+                "standalter": "16",
+                "bezirk": "Altlindenau",
+                "standortnr": "44363",
+                "wassermenge": "10",
+                "wassersumme": "15",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.265494416932597, 51.30664014569065]
+            },
+            "properties": {
+                "id": "id-59302",
+                "artdtsch": "Hopfenbuche",
+                "artbot": "Ostrya carpinifolia",
+                "gattungdeutsch": "Ostrya",
+                "strname": "Königsteinstraße",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Lausen-Grünau",
+                "standortnr": "75036",
+                "wassermenge": "50",
+                "wassersumme": "75",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.346080918353433, 51.32849286596424]
+            },
+            "properties": {
+                "id": "id-9135",
+                "artdtsch": "Hopfenbuche",
+                "artbot": "Ostrya carpinifolia",
+                "gattungdeutsch": "Ostrya",
+                "strname": "Könneritzstraße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Schleußig",
+                "standortnr": "39616",
+                "wassermenge": "50",
+                "wassersumme": "95",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.407390324624087, 51.34660231575021]
+            },
+            "properties": {
+                "id": "1363",
+                "artdtsch": "Hopfenbuche",
+                "artbot": "Ostrya carpinifolia",
+                "gattungdeutsch": "Ostrya",
+                "strname": "Hildegardstraße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Volkmarsdorf",
+                "standortnr": "5626",
+                "wassermenge": "50",
+                "wassersumme": "110",
+                "anzahlg": "7"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.415806110761526, 51.32398503378685]
+            },
+            "properties": {
+                "id": "id-25911",
+                "artdtsch": "Chinesische Wildbirne 'Chanticleer'",
+                "artbot": "Pyrus calleryana 'Chanticleer'",
+                "gattungdeutsch": "Pyrus",
+                "strname": "Schwarzackerstraße",
+                "pflanzjahr": "2001",
+                "standalter": "20",
+                "bezirk": "Stötteritz",
+                "standortnr": "26171",
+                "wassermenge": "25",
+                "wassersumme": "35",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.345088284197978, 51.32617829825455]
+            },
+            "properties": {
+                "id": "id-8992",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Könneritzstraße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Schleußig",
+                "standortnr": "39587",
+                "wassermenge": "25",
+                "wassersumme": "225",
+                "anzahlg": "21"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.354862602500075, 51.33069390436684]
+            },
+            "properties": {
+                "id": "id-9376",
+                "artdtsch": "Holländische Linde",
+                "artbot": "Tilia x vulgaris",
+                "gattungdeutsch": "Tilia",
+                "strname": "Max-Reger-Allee",
+                "pflanzjahr": "2011",
+                "standalter": "10",
+                "bezirk": "Zentrum-West",
+                "standortnr": "38447",
+                "wassermenge": "50",
+                "wassersumme": "75",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.315968906854476, 51.34657802278769]
+            },
+            "properties": {
+                "id": "id-58978",
+                "artdtsch": "Säulen-Eiche 'Fastigiata Koster'",
+                "artbot": "Quercus robur 'Fastigiata Koster'",
+                "gattungdeutsch": "Quercus",
+                "strname": "Weinbergstraße",
+                "pflanzjahr": "2019",
+                "standalter": "2",
+                "bezirk": "Leutzsch",
+                "standortnr": "75863",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.307287709744672, 51.33022318906621]
+            },
+            "properties": {
+                "id": "id-58709",
+                "artdtsch": "Brabanter Silber-Linde",
+                "artbot": "Tilia tomentosa 'Brabant'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Hafenstraße",
+                "pflanzjahr": "2014",
+                "standalter": "7",
+                "bezirk": "Schönau",
+                "standortnr": "74429",
+                "wassermenge": "25",
+                "wassersumme": "25",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.36482733378237, 51.37034917906043]
+            },
+            "properties": {
+                "id": "id-17827",
+                "artdtsch": "Spitz-Ahorn 'Farlake's Green'",
+                "artbot": "Acer platanoides 'Farlake's Green'",
+                "gattungdeutsch": "Acer",
+                "strname": "Landsberger Straße",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Gohlis-Mitte",
+                "standortnr": "60038",
+                "wassermenge": "50",
+                "wassersumme": "365",
+                "anzahlg": "13"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.265124178120262, 51.30657536981773]
+            },
+            "properties": {
+                "id": "id-59303",
+                "artdtsch": "Hopfenbuche",
+                "artbot": "Ostrya carpinifolia",
+                "gattungdeutsch": "Ostrya",
+                "strname": "Königsteinstraße",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Lausen-Grünau",
+                "standortnr": "75035",
+                "wassermenge": "50",
+                "wassersumme": "75",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.376555844576295, 51.31008778070621]
+            },
+            "properties": {
+                "id": "id-19673",
+                "artdtsch": "Spitz-Ahorn Fairview",
+                "artbot": "Acer platanoides 'Fairview'",
+                "gattungdeutsch": "Acer",
+                "strname": "Bernhard-Göring-Straße",
+                "pflanzjahr": "2015",
+                "standalter": "6",
+                "bezirk": "Connewitz",
+                "standortnr": "30667",
+                "wassermenge": "10",
+                "wassersumme": "15",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.326141736739089, 51.339612821843275]
+            },
+            "properties": {
+                "id": "id-58969",
+                "artdtsch": "Baumartige Felsenbirne 'Robin Hill'",
+                "artbot": "Amelanchier arborea 'Robin Hill'",
+                "gattungdeutsch": "Amelanchier",
+                "strname": "Calvisiusstraße",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Altlindenau",
+                "standortnr": "75399",
+                "wassermenge": "25",
+                "wassersumme": "25",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.376877700544888, 51.36306469408474]
+            },
+            "properties": {
+                "id": "1158",
+                "artdtsch": "Feld-Ahorn ''Huibers Elegant'",
+                "artbot": "Acer campestre 'Huibers Elegant'",
+                "gattungdeutsch": "Acer",
+                "strname": "Wilhelm-Sammet-Straße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Gohlis-Mitte",
+                "standortnr": "75904",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.376267153915007, 51.36326992860748]
+            },
+            "properties": {
+                "id": "1160",
+                "artdtsch": "Feld-Ahorn ''Huibers Elegant'",
+                "artbot": "Acer campestre 'Huibers Elegant'",
+                "gattungdeutsch": "Acer",
+                "strname": "Wilhelm-Sammet-Straße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Gohlis-Mitte",
+                "standortnr": "77012",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.427025481790524, 51.34589856211707]
+            },
+            "properties": {
+                "id": "id-31585",
+                "artdtsch": "Baumhasel",
+                "artbot": "Corylus colurna",
+                "gattungdeutsch": "Corylus",
+                "strname": "Püchauer Straße",
+                "pflanzjahr": "2007",
+                "standalter": "14",
+                "bezirk": "Sellerhausen-Stünz",
+                "standortnr": "22707",
+                "wassermenge": "10",
+                "wassersumme": "20",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.397766956455303, 51.33409661145102]
+            },
+            "properties": {
+                "id": "id-28282",
+                "artdtsch": "Rosskastanie",
+                "artbot": "Aesculus hippocastanum",
+                "gattungdeutsch": "Aesculus",
+                "strname": "Eilenburger Straße",
+                "pflanzjahr": "1970",
+                "standalter": "51",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "22422",
+                "wassermenge": "50",
+                "wassersumme": "80",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.415736472087701, 51.32412065482012]
+            },
+            "properties": {
+                "id": "id-25909",
+                "artdtsch": "Chinesische Wildbirne 'Chanticleer'",
+                "artbot": "Pyrus calleryana 'Chanticleer'",
+                "gattungdeutsch": "Pyrus",
+                "strname": "Schwarzackerstraße",
+                "pflanzjahr": "2001",
+                "standalter": "20",
+                "bezirk": "Stötteritz",
+                "standortnr": "26173",
+                "wassermenge": "10",
+                "wassersumme": "50",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.411256990960235, 51.34677664984637]
+            },
+            "properties": {
+                "id": "id-31515",
+                "artdtsch": "Amberbaum 'Paarl'",
+                "artbot": "Liquidambar styraciflua 'Paarl'",
+                "gattungdeutsch": "Liquidambar",
+                "strname": "Idastraße",
+                "pflanzjahr": "2015",
+                "standalter": "6",
+                "bezirk": "Volkmarsdorf",
+                "standortnr": "5688",
+                "wassermenge": "50",
+                "wassersumme": "200",
+                "anzahlg": "6"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.345433915164831, 51.327282338779476]
+            },
+            "properties": {
+                "id": "id-9085",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Könneritzstraße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Schleußig",
+                "standortnr": "40878",
+                "wassermenge": "25",
+                "wassersumme": "35",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.349267243025471, 51.34029155957503]
+            },
+            "properties": {
+                "id": "id-13522",
+                "artdtsch": "Linde",
+                "artbot": "Tilia species",
+                "gattungdeutsch": "Tilia",
+                "strname": "Jahnallee",
+                "pflanzjahr": "1920",
+                "standalter": "101",
+                "bezirk": "Zentrum-Nordwest",
+                "standortnr": "35664",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.369047511141742, 51.31040806654998]
+            },
+            "properties": {
+                "id": "id-6982",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Windscheidstraße",
+                "pflanzjahr": "1995",
+                "standalter": "26",
+                "bezirk": "Connewitz",
+                "standortnr": "42605",
+                "wassermenge": "25",
+                "wassersumme": "50",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.267537185863342, 51.30509047984731]
+            },
+            "properties": {
+                "id": "id-971",
+                "artdtsch": "Haus-Apfel  'Ontario'",
+                "artbot": "Malus domestica 'Ontario'",
+                "gattungdeutsch": "Malus",
+                "strname": "Miltitzer Allee",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Lausen-Grünau",
+                "standortnr": "49287",
+                "wassermenge": "50",
+                "wassersumme": "75",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.325116090884745, 51.38862887081659]
+            },
+            "properties": {
+                "id": "312",
+                "artdtsch": "Zierkirsche",
+                "artbot": "Prunus x schmittii",
+                "gattungdeutsch": "Prunus",
+                "strname": "Sandweg",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Lindenthal",
+                "standortnr": "62151",
+                "wassermenge": "25",
+                "wassersumme": "110",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.340602907939166, 51.322889861195634]
+            },
+            "properties": {
+                "id": "id-8734",
+                "artdtsch": "Gleditschie 'Skyline'",
+                "artbot": "Gleditsia triacanthos 'Skyline'",
+                "gattungdeutsch": "Gleditsia",
+                "strname": "Brockhausstraße",
+                "pflanzjahr": "2021",
+                "standalter": "0",
+                "bezirk": "Schleußig",
+                "standortnr": "40785",
+                "wassermenge": "25",
+                "wassersumme": "110",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.362989576822642, 51.33847662635765]
+            },
+            "properties": {
+                "id": "id-14813",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Friedrich-Ebert-Straße",
+                "pflanzjahr": "2005",
+                "standalter": "16",
+                "bezirk": "Zentrum-West",
+                "standortnr": "35950",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.39769178562406, 51.347382144689035]
+            },
+            "properties": {
+                "id": "id-30047",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Mariannenstraße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Neustadt-Neuschönefeld",
+                "standortnr": "8210",
+                "wassermenge": "50",
+                "wassersumme": "80",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.425313718825342, 51.304498057138]
+            },
+            "properties": {
+                "id": "id-20678",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Prager Straße",
+                "pflanzjahr": "2019",
+                "standalter": "2",
+                "bezirk": "Probstheida",
+                "standortnr": "20967",
+                "wassermenge": "50",
+                "wassersumme": "60",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.371338501220201, 51.319358465663235]
+            },
+            "properties": {
+                "id": "id-59930",
+                "artdtsch": "Blumen-Esche",
+                "artbot": "Fraxinus ornus",
+                "gattungdeutsch": "Fraxinus",
+                "strname": "Kochstraße",
+                "pflanzjahr": "2019",
+                "standalter": "2",
+                "bezirk": "Südvorstadt",
+                "standortnr": "75690",
+                "wassermenge": "10",
+                "wassersumme": "45",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.37802829500928, 51.362552623524216]
+            },
+            "properties": {
+                "id": "1143",
+                "artdtsch": "Feld-Ahorn ''Huibers Elegant'",
+                "artbot": "Acer campestre 'Huibers Elegant'",
+                "gattungdeutsch": "Acer",
+                "strname": "Wilhelm-Sammet-Straße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Gohlis-Mitte",
+                "standortnr": "58648",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.380802583424378, 51.306164793774855]
+            },
+            "properties": {
+                "id": "id-19617",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Bornaische Straße",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Connewitz",
+                "standortnr": "33326",
+                "wassermenge": "10",
+                "wassersumme": "20",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.378383336186713, 51.36235829827202]
+            },
+            "properties": {
+                "id": "1142",
+                "artdtsch": "Feld-Ahorn ''Huibers Elegant'",
+                "artbot": "Acer campestre 'Huibers Elegant'",
+                "gattungdeutsch": "Acer",
+                "strname": "Wilhelm-Sammet-Straße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Gohlis-Mitte",
+                "standortnr": "58647",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.327151374720707, 51.325429384662044]
+            },
+            "properties": {
+                "id": "id-7556",
+                "artdtsch": "Chinesische Wildbirne 'Chanticleer'",
+                "artbot": "Pyrus calleryana 'Chanticleer'",
+                "gattungdeutsch": "Pyrus",
+                "strname": "Markranstädter Straße",
+                "pflanzjahr": "1999",
+                "standalter": "22",
+                "bezirk": "Plagwitz",
+                "standortnr": "44420",
+                "wassermenge": "25",
+                "wassersumme": "25",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.393854470206502, 51.33594895329281]
+            },
+            "properties": {
+                "id": "id-28555",
+                "artdtsch": "Amur-Traubenkirsche  'Amber Beauty'",
+                "artbot": "Prunus maackii 'Amber Beauty'",
+                "gattungdeutsch": "Prunus",
+                "strname": "Gerichtsweg",
+                "pflanzjahr": "2015",
+                "standalter": "6",
+                "bezirk": "Zentrum-Südost",
+                "standortnr": "21735",
+                "wassermenge": "50",
+                "wassersumme": "250",
+                "anzahlg": "11"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.33038155537889, 51.33056643617583]
+            },
+            "properties": {
+                "id": "id-7856",
+                "artdtsch": "Platane",
+                "artbot": "Platanus x acerifolia",
+                "gattungdeutsch": "Platanus",
+                "strname": "Karl-Heine-Straße",
+                "pflanzjahr": "2011",
+                "standalter": "10",
+                "bezirk": "Lindenau",
+                "standortnr": "39760",
+                "wassermenge": "25",
+                "wassersumme": "25",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.418541474674557, 51.344943444554595]
+            },
+            "properties": {
+                "id": "id-31100",
+                "artdtsch": "Säulen-Ahorn",
+                "artbot": "Acer platanoides 'Columnare'",
+                "gattungdeutsch": "Acer",
+                "strname": "Eisenbahnstraße",
+                "pflanzjahr": "1999",
+                "standalter": "22",
+                "bezirk": "Volkmarsdorf",
+                "standortnr": "8930",
+                "wassermenge": "5",
+                "wassersumme": "5",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.37508041454972, 51.363682327592755]
+            },
+            "properties": {
+                "id": "1164",
+                "artdtsch": "Feld-Ahorn ''Huibers Elegant'",
+                "artbot": "Acer campestre 'Huibers Elegant'",
+                "gattungdeutsch": "Acer",
+                "strname": "Wilhelm-Sammet-Straße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Gohlis-Mitte",
+                "standortnr": "77008",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.32751001963321, 51.31582697404352]
+            },
+            "properties": {
+                "id": "id-7085",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Windorfer Straße",
+                "pflanzjahr": "2003",
+                "standalter": "18",
+                "bezirk": "Kleinzschocher",
+                "standortnr": "41132",
+                "wassermenge": "50",
+                "wassersumme": "70",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.408444556500566, 51.370377554590455]
+            },
+            "properties": {
+                "id": "id-35935",
+                "artdtsch": "Winter-Linde 'Roelvo'",
+                "artbot": "Tilia cordata 'Roelvo'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Gontardweg",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Mockau-Süd",
+                "standortnr": "2113",
+                "wassermenge": "50",
+                "wassersumme": "60",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.267524636046351, 51.30516402967125]
+            },
+            "properties": {
+                "id": "id-1222",
+                "artdtsch": "Haus-Apfel  'Roter Boskoop'",
+                "artbot": "Malus domestica 'Roter Boskoop'",
+                "gattungdeutsch": "Malus",
+                "strname": "Miltitzer Allee",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Lausen-Grünau",
+                "standortnr": "49323",
+                "wassermenge": "50",
+                "wassersumme": "75",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.332454151685194, 51.33699879072152]
+            },
+            "properties": {
+                "id": "id-12753",
+                "artdtsch": "Woll-Apfel",
+                "artbot": "Malus tschonoskii",
+                "gattungdeutsch": "Malus",
+                "strname": "Gemeindeamtsstraße",
+                "pflanzjahr": "2009",
+                "standalter": "12",
+                "bezirk": "Altlindenau",
+                "standortnr": "54987",
+                "wassermenge": "5",
+                "wassersumme": "5",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.375189609207057, 51.3439005286111]
+            },
+            "properties": {
+                "id": "id-56539",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Richard-Wagner-Straße",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Zentrum",
+                "standortnr": "73385",
+                "wassermenge": "25",
+                "wassersumme": "30",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.345808617267153, 51.327975377085124]
+            },
+            "properties": {
+                "id": "id-8930",
+                "artdtsch": "Hopfenbuche",
+                "artbot": "Ostrya carpinifolia",
+                "gattungdeutsch": "Ostrya",
+                "strname": "Könneritzstraße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Schleußig",
+                "standortnr": "39624",
+                "wassermenge": "50",
+                "wassersumme": "100",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.32718036226391, 51.32551099382063]
+            },
+            "properties": {
+                "id": "id-7554",
+                "artdtsch": "Chinesische Wildbirne 'Chanticleer'",
+                "artbot": "Pyrus calleryana 'Chanticleer'",
+                "gattungdeutsch": "Pyrus",
+                "strname": "Markranstädter Straße",
+                "pflanzjahr": "1999",
+                "standalter": "22",
+                "bezirk": "Plagwitz",
+                "standortnr": "44419",
+                "wassermenge": "25",
+                "wassersumme": "25",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.37212158470286, 51.31764945755735]
+            },
+            "properties": {
+                "id": "id-59912",
+                "artdtsch": "Französischer Ahorn",
+                "artbot": "Acer monspessulanum",
+                "gattungdeutsch": "Acer",
+                "strname": "Steinstraße",
+                "pflanzjahr": "2018",
+                "standalter": "3",
+                "bezirk": "Südvorstadt",
+                "standortnr": "75765",
+                "wassermenge": "25",
+                "wassersumme": "60",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.3219993, 51.3229162]
+            },
+            "properties": {
+                "id": "2023",
+                "artdtsch": "Vogelbeeren",
+                "artbot": "NULL",
+                "gattungdeutsch": "NULL",
+                "strname": "NULL",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "NULL",
+                "standortnr": "osm_6057707031",
+                "wassermenge": "5",
+                "wassersumme": "5",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.401072758447544, 51.33437448507135]
+            },
+            "properties": {
+                "id": "id-28466",
+                "artdtsch": "Berg-Ahorn",
+                "artbot": "Acer pseudoplatanus",
+                "gattungdeutsch": "Acer",
+                "strname": "Reichpietschstraße",
+                "pflanzjahr": "1960",
+                "standalter": "61",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "22197",
+                "wassermenge": "10",
+                "wassersumme": "20",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.377730497447242, 51.31033796750722]
+            },
+            "properties": {
+                "id": "id-19544",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Arno-Nitzsche-Straße",
+                "pflanzjahr": "2012",
+                "standalter": "9",
+                "bezirk": "Connewitz",
+                "standortnr": "31819",
+                "wassermenge": "10",
+                "wassersumme": "30",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.335568749274165, 51.3342830788107]
+            },
+            "properties": {
+                "id": "id-59419",
+                "artdtsch": "Amberbaum",
+                "artbot": "Liquidambar styraciflua",
+                "gattungdeutsch": "Liquidambar",
+                "strname": "Siemeringstraße",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Lindenau",
+                "standortnr": "75081",
+                "wassermenge": "10",
+                "wassersumme": "390",
+                "anzahlg": "39"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.345529885951171, 51.32760407573865]
+            },
+            "properties": {
+                "id": "id-8933",
+                "artdtsch": "Japanischer Schnurbaum",
+                "artbot": "Sophora japonica",
+                "gattungdeutsch": "Sophora",
+                "strname": "Holbeinstraße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Schleußig",
+                "standortnr": "39602",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.3225454, 51.3238323]
+            },
+            "properties": {
+                "id": "1993",
+                "artdtsch": "Schwarzer Holunder",
+                "artbot": "NULL",
+                "gattungdeutsch": "NULL",
+                "strname": "NULL",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "NULL",
+                "standortnr": "osm_6057706783",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.371351004382888, 51.319506249261146]
+            },
+            "properties": {
+                "id": "id-59929",
+                "artdtsch": "Blumen-Esche",
+                "artbot": "Fraxinus ornus",
+                "gattungdeutsch": "Fraxinus",
+                "strname": "Kochstraße",
+                "pflanzjahr": "2019",
+                "standalter": "2",
+                "bezirk": "Südvorstadt",
+                "standortnr": "75689",
+                "wassermenge": "10",
+                "wassersumme": "45",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.34576473952287, 51.32745263419255]
+            },
+            "properties": {
+                "id": "id-8937",
+                "artdtsch": "Baumhasel",
+                "artbot": "Corylus colurna",
+                "gattungdeutsch": "Corylus",
+                "strname": "Könneritzstraße",
+                "pflanzjahr": "1985",
+                "standalter": "36",
+                "bezirk": "Schleußig",
+                "standortnr": "39606",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.414598523721015, 51.354364139905954]
+            },
+            "properties": {
+                "id": "id-35122",
+                "artdtsch": "Feld-Ahorn 'Elsrijk'",
+                "artbot": "Acer campestre 'Elsrijk'",
+                "gattungdeutsch": "Acer",
+                "strname": "Kohlweg",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Schönefeld-Abtnaundorf",
+                "standortnr": "11446",
+                "wassermenge": "50",
+                "wassersumme": "120",
+                "anzahlg": "7"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.345738266225387, 51.327406433783544]
+            },
+            "properties": {
+                "id": "id-8938",
+                "artdtsch": "Hopfenbuche",
+                "artbot": "Ostrya carpinifolia",
+                "gattungdeutsch": "Ostrya",
+                "strname": "Könneritzstraße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Schleußig",
+                "standortnr": "39607",
+                "wassermenge": "10",
+                "wassersumme": "20",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.403021165030637, 51.32901232684778]
+            },
+            "properties": {
+                "id": "id-23493",
+                "artdtsch": "Baumhasel",
+                "artbot": "Corylus colurna",
+                "gattungdeutsch": "Corylus",
+                "strname": "Kröbelstraße",
+                "pflanzjahr": "1990",
+                "standalter": "31",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "22600",
+                "wassermenge": "5",
+                "wassersumme": "20",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.344081562976703, 51.37521959643384]
+            },
+            "properties": {
+                "id": "id-44328",
+                "artdtsch": "Gefülltblühende Rosskastanie",
+                "artbot": "Aesculus hippocastanum 'Baumannii'",
+                "gattungdeutsch": "Aesculus",
+                "strname": "Verlängerte Max-Liebermann-Straße",
+                "pflanzjahr": "2006",
+                "standalter": "15",
+                "bezirk": "Möckern",
+                "standortnr": "42726",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.326650265250489, 51.33615090632945]
+            },
+            "properties": {
+                "id": "id-58826",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Demmeringstraße",
+                "pflanzjahr": "2014",
+                "standalter": "7",
+                "bezirk": "Altlindenau",
+                "standortnr": "74558",
+                "wassermenge": "5",
+                "wassersumme": "5",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.369242798163066, 51.31044105753674]
+            },
+            "properties": {
+                "id": "id-6991",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Windscheidstraße",
+                "pflanzjahr": "1998",
+                "standalter": "23",
+                "bezirk": "Connewitz",
+                "standortnr": "42621",
+                "wassermenge": "50",
+                "wassersumme": "100",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.34535577481519, 51.32756388094247]
+            },
+            "properties": {
+                "id": "id-9012",
+                "artdtsch": "Hopfenbuche",
+                "artbot": "Ostrya carpinifolia",
+                "gattungdeutsch": "Ostrya",
+                "strname": "Holbeinstraße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Schleußig",
+                "standortnr": "40632",
+                "wassermenge": "25",
+                "wassersumme": "25",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.322191, 51.3233505]
+            },
+            "properties": {
+                "id": "2007",
+                "artdtsch": "Vogelbeere",
+                "artbot": "NULL",
+                "gattungdeutsch": "NULL",
+                "strname": "NULL",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "NULL",
+                "standortnr": "osm_6057707006",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.315090220205692, 51.345903101081454]
+            },
+            "properties": {
+                "id": "1221",
+                "artdtsch": "Säulen-Eiche",
+                "artbot": "Quercus robur 'Fastigiata'",
+                "gattungdeutsch": "Quercus",
+                "strname": "Benediktusstraße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Leutzsch",
+                "standortnr": "76981",
+                "wassermenge": "25",
+                "wassersumme": "105",
+                "anzahlg": "7"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.323841808727861, 51.32582100235487]
+            },
+            "properties": {
+                "id": "id-56921",
+                "artdtsch": "Zerr-Eiche",
+                "artbot": "Quercus cerris",
+                "gattungdeutsch": "Quercus",
+                "strname": "Markranstädter Straße",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Plagwitz",
+                "standortnr": "73655",
+                "wassermenge": "50",
+                "wassersumme": "170",
+                "anzahlg": "6"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.408501624659284, 51.3467830557761]
+            },
+            "properties": {
+                "id": "id-31219",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Mariannenstraße",
+                "pflanzjahr": "1997",
+                "standalter": "24",
+                "bezirk": "Volkmarsdorf",
+                "standortnr": "8344",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.377545635010634, 51.362815501895405]
+            },
+            "properties": {
+                "id": "1144",
+                "artdtsch": "Feld-Ahorn ''Huibers Elegant'",
+                "artbot": "Acer campestre 'Huibers Elegant'",
+                "gattungdeutsch": "Acer",
+                "strname": "Wilhelm-Sammet-Straße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Gohlis-Mitte",
+                "standortnr": "58666",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.417562974882896, 51.32360936362826]
+            },
+            "properties": {
+                "id": "id-25952",
+                "artdtsch": "Chinesische Wildbirne 'Chanticleer'",
+                "artbot": "Pyrus calleryana 'Chanticleer'",
+                "gattungdeutsch": "Pyrus",
+                "strname": "Papiermühlstraße",
+                "pflanzjahr": "2001",
+                "standalter": "20",
+                "bezirk": "Stötteritz",
+                "standortnr": "23901",
+                "wassermenge": "50",
+                "wassersumme": "200",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.397776376362586, 51.34729093705687]
+            },
+            "properties": {
+                "id": "id-30025",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Mariannenstraße",
+                "pflanzjahr": "1999",
+                "standalter": "22",
+                "bezirk": "Neustadt-Neuschönefeld",
+                "standortnr": "8205",
+                "wassermenge": "50",
+                "wassersumme": "80",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.403137265482409, 51.33397078108801]
+            },
+            "properties": {
+                "id": "id-28481",
+                "artdtsch": "Gefülltblühende Rosskastanie",
+                "artbot": "Aesculus hippocastanum 'Baumannii'",
+                "gattungdeutsch": "Aesculus",
+                "strname": "Reichpietschstraße",
+                "pflanzjahr": "2004",
+                "standalter": "17",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "22211",
+                "wassermenge": "10",
+                "wassersumme": "30",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.427028470422314, 51.34600925342707]
+            },
+            "properties": {
+                "id": "id-31586",
+                "artdtsch": "Baumhasel",
+                "artbot": "Corylus colurna",
+                "gattungdeutsch": "Corylus",
+                "strname": "Püchauer Straße",
+                "pflanzjahr": "2007",
+                "standalter": "14",
+                "bezirk": "Sellerhausen-Stünz",
+                "standortnr": "22708",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.30653223043455, 51.33050522303045]
+            },
+            "properties": {
+                "id": "id-58705",
+                "artdtsch": "Sumpf-Eiche",
+                "artbot": "Quercus palustris",
+                "gattungdeutsch": "Quercus",
+                "strname": "Hafenstraße",
+                "pflanzjahr": "2014",
+                "standalter": "7",
+                "bezirk": "Schönau",
+                "standortnr": "74424",
+                "wassermenge": "25",
+                "wassersumme": "105",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.411472824395066, 51.34662420743015]
+            },
+            "properties": {
+                "id": "id-31478",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Mariannenstraße",
+                "pflanzjahr": "1997",
+                "standalter": "24",
+                "bezirk": "Volkmarsdorf",
+                "standortnr": "8361",
+                "wassermenge": "50",
+                "wassersumme": "150",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.3224289, 51.3239611]
+            },
+            "properties": {
+                "id": "1995",
+                "artdtsch": "Esskastanie",
+                "artbot": "NULL",
+                "gattungdeutsch": "NULL",
+                "strname": "NULL",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "NULL",
+                "standortnr": "osm_6057706993",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.335100825264945, 51.33522841133522]
+            },
+            "properties": {
+                "id": "id-59423",
+                "artdtsch": "Amberbaum",
+                "artbot": "Liquidambar styraciflua",
+                "gattungdeutsch": "Liquidambar",
+                "strname": "Siemeringstraße",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Lindenau",
+                "standortnr": "75076",
+                "wassermenge": "10",
+                "wassersumme": "400",
+                "anzahlg": "40"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.40890410854794, 51.34676147467502]
+            },
+            "properties": {
+                "id": "id-31222",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Mariannenstraße",
+                "pflanzjahr": "1997",
+                "standalter": "24",
+                "bezirk": "Volkmarsdorf",
+                "standortnr": "8347",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.377307870014212, 51.36291846421797]
+            },
+            "properties": {
+                "id": "1145",
+                "artdtsch": "Feld-Ahorn ''Huibers Elegant'",
+                "artbot": "Acer campestre 'Huibers Elegant'",
+                "gattungdeutsch": "Acer",
+                "strname": "Wilhelm-Sammet-Straße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Gohlis-Mitte",
+                "standortnr": "58667",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.37134158266572, 51.31601957437149]
+            },
+            "properties": {
+                "id": "id-59948",
+                "artdtsch": "Kegel-Linde",
+                "artbot": "Tilia flavescens 'Glenleven'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Kochstraße",
+                "pflanzjahr": "2019",
+                "standalter": "2",
+                "bezirk": "Südvorstadt",
+                "standortnr": "75713",
+                "wassermenge": "10",
+                "wassersumme": "30",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.345315395196613, 51.327060194703535]
+            },
+            "properties": {
+                "id": "id-8974",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Könneritzstraße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Schleußig",
+                "standortnr": "39572",
+                "wassermenge": "10",
+                "wassersumme": "90",
+                "anzahlg": "9"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.40535403398771, 51.347559583981166]
+            },
+            "properties": {
+                "id": "id-31236",
+                "artdtsch": "Amberbaum 'Paarl'",
+                "artbot": "Liquidambar styraciflua 'Paarl'",
+                "gattungdeutsch": "Liquidambar",
+                "strname": "Meißner Straße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Neustadt-Neuschönefeld",
+                "standortnr": "8197",
+                "wassermenge": "50",
+                "wassersumme": "135",
+                "anzahlg": "6"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.317487025779958, 51.33105206512521]
+            },
+            "properties": {
+                "id": "id-58747",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Lützner Straße",
+                "pflanzjahr": "2014",
+                "standalter": "7",
+                "bezirk": "Neulindenau",
+                "standortnr": "74479",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.315275814463323, 51.34584835598734]
+            },
+            "properties": {
+                "id": "1220",
+                "artdtsch": "Säulen-Eiche",
+                "artbot": "Quercus robur 'Fastigiata'",
+                "gattungdeutsch": "Quercus",
+                "strname": "Benediktusstraße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Leutzsch",
+                "standortnr": "76980",
+                "wassermenge": "25",
+                "wassersumme": "25",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.365387921189365, 51.332510181730434]
+            },
+            "properties": {
+                "id": "id-14464",
+                "artdtsch": "Platane",
+                "artbot": "Platanus x acerifolia",
+                "gattungdeutsch": "Platanus",
+                "strname": "Ferdinand-Rhode-Straße",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Zentrum-Süd",
+                "standortnr": "37246",
+                "wassermenge": "10",
+                "wassersumme": "20",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.37573437532464, 51.34286673502707]
+            },
+            "properties": {
+                "id": "id-53069",
+                "artdtsch": "Säulen-Eiche 'Fastigiata Koster'",
+                "artbot": "Quercus robur 'Fastigiata Koster'",
+                "gattungdeutsch": "Quercus",
+                "strname": "Katharinenstraße",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Zentrum",
+                "standortnr": "71040",
+                "wassermenge": "50",
+                "wassersumme": "90",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.343739169949925, 51.37544432615131]
+            },
+            "properties": {
+                "id": "id-44334",
+                "artdtsch": "Zierkirsche",
+                "artbot": "Prunus x schmittii",
+                "gattungdeutsch": "Prunus",
+                "strname": "Defoestraße",
+                "pflanzjahr": "2006",
+                "standalter": "15",
+                "bezirk": "Möckern",
+                "standortnr": "60670",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.379897623314967, 51.31015535468525]
+            },
+            "properties": {
+                "id": "id-19716",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Arno-Nitzsche-Straße",
+                "pflanzjahr": "2015",
+                "standalter": "6",
+                "bezirk": "Connewitz",
+                "standortnr": "31846",
+                "wassermenge": "10",
+                "wassersumme": "150",
+                "anzahlg": "15"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.345537770436374, 51.375375744655685]
+            },
+            "properties": {
+                "id": "id-44439",
+                "artdtsch": "Kaiser-Linde",
+                "artbot": "Tilia x vulgaris 'Pallida'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Max-Liebermann-Straße",
+                "pflanzjahr": "2006",
+                "standalter": "15",
+                "bezirk": "Möckern",
+                "standortnr": "59065",
+                "wassermenge": "50",
+                "wassersumme": "80",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.322581, 51.3239989]
+            },
+            "properties": {
+                "id": "1991",
+                "artdtsch": "Walnuss",
+                "artbot": "NULL",
+                "gattungdeutsch": "NULL",
+                "strname": "NULL",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "NULL",
+                "standortnr": "osm_6057706781",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.327205051712081, 51.314965296128065]
+            },
+            "properties": {
+                "id": "id-7086",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Windorfer Straße",
+                "pflanzjahr": "2003",
+                "standalter": "18",
+                "bezirk": "Kleinzschocher",
+                "standortnr": "41126",
+                "wassermenge": "50",
+                "wassersumme": "60",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.40160835154269, 51.33342437559445]
+            },
+            "properties": {
+                "id": "id-58786",
+                "artdtsch": "Ulme Rebona",
+                "artbot": "Ulmus 'Rebona'",
+                "gattungdeutsch": "Ulmus",
+                "strname": "Eilenburger Straße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "74533",
+                "wassermenge": "10",
+                "wassersumme": "40",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.397934702218107, 51.34728231418717]
+            },
+            "properties": {
+                "id": "id-30028",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Mariannenstraße",
+                "pflanzjahr": "1999",
+                "standalter": "22",
+                "bezirk": "Neustadt-Neuschönefeld",
+                "standortnr": "8206",
+                "wassermenge": "50",
+                "wassersumme": "80",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.36677847389117, 51.28694960787947]
+            },
+            "properties": {
+                "id": "id-745",
+                "artdtsch": "Straßen-Esche",
+                "artbot": "Fraxinus excelsior 'Westhof's Glorie'",
+                "gattungdeutsch": "Fraxinus",
+                "strname": "Koburger Straße",
+                "pflanzjahr": "1997",
+                "standalter": "24",
+                "bezirk": "Connewitz",
+                "standortnr": "35149",
+                "wassermenge": "5",
+                "wassersumme": "5",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.408766972767577, 51.34676878257361]
+            },
+            "properties": {
+                "id": "id-31221",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Mariannenstraße",
+                "pflanzjahr": "1997",
+                "standalter": "24",
+                "bezirk": "Volkmarsdorf",
+                "standortnr": "8346",
+                "wassermenge": "10",
+                "wassersumme": "60",
+                "anzahlg": "6"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.399986286648542, 51.32653608921546]
+            },
+            "properties": {
+                "id": "id-23285",
+                "artdtsch": "Platane",
+                "artbot": "Platanus x acerifolia",
+                "gattungdeutsch": "Platanus",
+                "strname": "Prager Straße",
+                "pflanzjahr": "2010",
+                "standalter": "11",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "21319",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.372122028798566, 51.34806511470163]
+            },
+            "properties": {
+                "id": "id-29085",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Parthenstraße",
+                "pflanzjahr": "2009",
+                "standalter": "12",
+                "bezirk": "Zentrum-Nord",
+                "standortnr": "12924",
+                "wassermenge": "50",
+                "wassersumme": "75",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.345465795085804, 51.32777413985809]
+            },
+            "properties": {
+                "id": "id-9037",
+                "artdtsch": "Linde",
+                "artbot": "Tilia species",
+                "gattungdeutsch": "Tilia",
+                "strname": "Holbeinstraße",
+                "pflanzjahr": "1905",
+                "standalter": "116",
+                "bezirk": "Schleußig",
+                "standortnr": "40597",
+                "wassermenge": "25",
+                "wassersumme": "25",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.378785369224401, 51.30986269614523]
+            },
+            "properties": {
+                "id": "id-19516",
+                "artdtsch": "Spitz-Ahorn",
+                "artbot": "Acer platanoides",
+                "gattungdeutsch": "Acer",
+                "strname": "Wiedebachstraße",
+                "pflanzjahr": "1992",
+                "standalter": "29",
+                "bezirk": "Connewitz",
+                "standortnr": "33509",
+                "wassermenge": "10",
+                "wassersumme": "20",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.369204607047134, 51.31061693289449]
+            },
+            "properties": {
+                "id": "id-8288",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Windscheidstraße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Connewitz",
+                "standortnr": "42619",
+                "wassermenge": "25",
+                "wassersumme": "50",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.3604490389447, 51.345576215458486]
+            },
+            "properties": {
+                "id": "id-15994",
+                "artdtsch": "Spitz-Ahorn",
+                "artbot": "Acer platanoides",
+                "gattungdeutsch": "Acer",
+                "strname": "Tschaikowskistraße",
+                "pflanzjahr": "1920",
+                "standalter": "101",
+                "bezirk": "Zentrum-Nordwest",
+                "standortnr": "54355",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.374313681312454, 51.36373439009163]
+            },
+            "properties": {
+                "id": "id-33159",
+                "artdtsch": "Winter-Linde 'Rancho'",
+                "artbot": "Tilia cordata 'Rancho'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Lützowstraße",
+                "pflanzjahr": "2007",
+                "standalter": "14",
+                "bezirk": "Gohlis-Mitte",
+                "standortnr": "53666",
+                "wassermenge": "25",
+                "wassersumme": "285",
+                "anzahlg": "27"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.306336608331717, 51.33062169295643]
+            },
+            "properties": {
+                "id": "id-58703",
+                "artdtsch": "Sumpf-Eiche",
+                "artbot": "Quercus palustris",
+                "gattungdeutsch": "Quercus",
+                "strname": "Hafenstraße",
+                "pflanzjahr": "2014",
+                "standalter": "7",
+                "bezirk": "Schönau",
+                "standortnr": "74422",
+                "wassermenge": "25",
+                "wassersumme": "105",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.36496933812902, 51.37052865757111]
+            },
+            "properties": {
+                "id": "id-17639",
+                "artdtsch": "Spitz-Ahorn 'Farlake's Green'",
+                "artbot": "Acer platanoides 'Farlake's Green'",
+                "gattungdeutsch": "Acer",
+                "strname": "Landsberger Straße",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Gohlis-Mitte",
+                "standortnr": "60023",
+                "wassermenge": "50",
+                "wassersumme": "235",
+                "anzahlg": "8"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.3223612, 51.3241]
+            },
+            "properties": {
+                "id": "1990",
+                "artdtsch": "Esskastanie",
+                "artbot": "NULL",
+                "gattungdeutsch": "NULL",
+                "strname": "NULL",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "NULL",
+                "standortnr": "osm_6057706780",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.345947986205204, 51.327801893031186]
+            },
+            "properties": {
+                "id": "id-8932",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Könneritzstraße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Schleußig",
+                "standortnr": "39601",
+                "wassermenge": "25",
+                "wassersumme": "25",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.378725258580154, 51.31012919337091]
+            },
+            "properties": {
+                "id": "id-19575",
+                "artdtsch": "Linde",
+                "artbot": "Tilia species",
+                "gattungdeutsch": "Tilia",
+                "strname": "Arno-Nitzsche-Straße",
+                "pflanzjahr": "1992",
+                "standalter": "29",
+                "bezirk": "Connewitz",
+                "standortnr": "31809",
+                "wassermenge": "5",
+                "wassersumme": "5",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.376567764781221, 51.36316594811259]
+            },
+            "properties": {
+                "id": "1159",
+                "artdtsch": "Feld-Ahorn ''Huibers Elegant'",
+                "artbot": "Acer campestre 'Huibers Elegant'",
+                "gattungdeutsch": "Acer",
+                "strname": "Wilhelm-Sammet-Straße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Gohlis-Mitte",
+                "standortnr": "77013",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.325596425825827, 51.31612809922856]
+            },
+            "properties": {
+                "id": "id-59479",
+                "artdtsch": "Säulen-Ulme",
+                "artbot": "Ulmus 'Columella'",
+                "gattungdeutsch": "Ulmus",
+                "strname": "Rolf-Axen-Straße",
+                "pflanzjahr": "2019",
+                "standalter": "2",
+                "bezirk": "Kleinzschocher",
+                "standortnr": "76162",
+                "wassermenge": "25",
+                "wassersumme": "25",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.376549137661394, 51.309850726393876]
+            },
+            "properties": {
+                "id": "id-19678",
+                "artdtsch": "Spitz-Ahorn Fairview",
+                "artbot": "Acer platanoides 'Fairview'",
+                "gattungdeutsch": "Acer",
+                "strname": "Bernhard-Göring-Straße",
+                "pflanzjahr": "2015",
+                "standalter": "6",
+                "bezirk": "Connewitz",
+                "standortnr": "30670",
+                "wassermenge": "10",
+                "wassersumme": "45",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.398800713963844, 51.33080295424573]
+            },
+            "properties": {
+                "id": "id-28312",
+                "artdtsch": "Zierkirsche",
+                "artbot": "Prunus x schmittii",
+                "gattungdeutsch": "Prunus",
+                "strname": "Stiftsstraße",
+                "pflanzjahr": "2001",
+                "standalter": "20",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "22480",
+                "wassermenge": "25",
+                "wassersumme": "35",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.375730848093387, 51.342933481657695]
+            },
+            "properties": {
+                "id": "id-53068",
+                "artdtsch": "Säulen-Eiche 'Fastigiata Koster'",
+                "artbot": "Quercus robur 'Fastigiata Koster'",
+                "gattungdeutsch": "Quercus",
+                "strname": "Katharinenstraße",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Zentrum",
+                "standortnr": "71039",
+                "wassermenge": "50",
+                "wassersumme": "80",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.372971500816085, 51.32212249008985]
+            },
+            "properties": {
+                "id": "id-22093",
+                "artdtsch": "Straßen-Robinie",
+                "artbot": "Robinia pseudoacacia 'Monophylla'",
+                "gattungdeutsch": "Robinia",
+                "strname": "Alfred-Kästner-Straße",
+                "pflanzjahr": "2004",
+                "standalter": "17",
+                "bezirk": "Südvorstadt",
+                "standortnr": "31279",
+                "wassermenge": "10",
+                "wassersumme": "80",
+                "anzahlg": "10"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.37199919680446, 51.30709512398856]
+            },
+            "properties": {
+                "id": "id-19434",
+                "artdtsch": "Feld-Ahorn 'Elsrijk'",
+                "artbot": "Acer campestre 'Elsrijk'",
+                "gattungdeutsch": "Acer",
+                "strname": "Mathildenstraße",
+                "pflanzjahr": "2007",
+                "standalter": "14",
+                "bezirk": "Connewitz",
+                "standortnr": "41642",
+                "wassermenge": "50",
+                "wassersumme": "60",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.37174153281643, 51.348018168755665]
+            },
+            "properties": {
+                "id": "id-29122",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Parthenstraße",
+                "pflanzjahr": "2011",
+                "standalter": "10",
+                "bezirk": "Zentrum-Nord",
+                "standortnr": "12944",
+                "wassermenge": "50",
+                "wassersumme": "75",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.346065164925086, 51.37535612982144]
+            },
+            "properties": {
+                "id": "id-44447",
+                "artdtsch": "Kaiser-Linde",
+                "artbot": "Tilia x vulgaris 'Pallida'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Max-Liebermann-Straße",
+                "pflanzjahr": "2006",
+                "standalter": "15",
+                "bezirk": "Möckern",
+                "standortnr": "59069",
+                "wassermenge": "10",
+                "wassersumme": "30",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.346197523506016, 51.375356071598496]
+            },
+            "properties": {
+                "id": "id-44448",
+                "artdtsch": "Kaiser-Linde",
+                "artbot": "Tilia x vulgaris 'Pallida'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Max-Liebermann-Straße",
+                "pflanzjahr": "2006",
+                "standalter": "15",
+                "bezirk": "Möckern",
+                "standortnr": "59070",
+                "wassermenge": "10",
+                "wassersumme": "30",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.363060148720006, 51.33842542090976]
+            },
+            "properties": {
+                "id": "id-14812",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Friedrich-Ebert-Straße",
+                "pflanzjahr": "2005",
+                "standalter": "16",
+                "bezirk": "Zentrum-West",
+                "standortnr": "35949",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.368545184613353, 51.317293437308315]
+            },
+            "properties": {
+                "id": "id-8446",
+                "artdtsch": "Kaiser-Linde",
+                "artbot": "Tilia x vulgaris 'Pallida'",
+                "gattungdeutsch": "Tilia",
+                "strname": "August-Bebel-Straße",
+                "pflanzjahr": "2009",
+                "standalter": "12",
+                "bezirk": "Südvorstadt",
+                "standortnr": "41741",
+                "wassermenge": "25",
+                "wassersumme": "95",
+                "anzahlg": "8"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.335034084233587, 51.335458130532075]
+            },
+            "properties": {
+                "id": "id-59424",
+                "artdtsch": "Amberbaum",
+                "artbot": "Liquidambar styraciflua",
+                "gattungdeutsch": "Liquidambar",
+                "strname": "Siemeringstraße",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Lindenau",
+                "standortnr": "75075",
+                "wassermenge": "10",
+                "wassersumme": "370",
+                "anzahlg": "37"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.342188526200419, 51.32076980708002]
+            },
+            "properties": {
+                "id": "id-8459",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Könneritzstraße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Schleußig",
+                "standortnr": "39441",
+                "wassermenge": "25",
+                "wassersumme": "90",
+                "anzahlg": "7"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.346122662661733, 51.32812559386681]
+            },
+            "properties": {
+                "id": "id-8925",
+                "artdtsch": "Hopfenbuche",
+                "artbot": "Ostrya carpinifolia",
+                "gattungdeutsch": "Ostrya",
+                "strname": "Könneritzstraße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Schleußig",
+                "standortnr": "39634",
+                "wassermenge": "50",
+                "wassersumme": "100",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.40009078656925, 51.32633325672992]
+            },
+            "properties": {
+                "id": "id-23292",
+                "artdtsch": "Platane",
+                "artbot": "Platanus x acerifolia",
+                "gattungdeutsch": "Platanus",
+                "strname": "Prager Straße",
+                "pflanzjahr": "2011",
+                "standalter": "10",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "21322",
+                "wassermenge": "10",
+                "wassersumme": "60",
+                "anzahlg": "6"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.302149723249116, 51.26968080681233]
+            },
+            "properties": {
+                "id": "id-498",
+                "artdtsch": "Linde",
+                "artbot": "Tilia species",
+                "gattungdeutsch": "Tilia",
+                "strname": "Knautnaundorfer Straße",
+                "pflanzjahr": "2003",
+                "standalter": "18",
+                "bezirk": "Knautkleeberg-Knauthain",
+                "standortnr": "45285",
+                "wassermenge": "50",
+                "wassersumme": "50",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.32506536000061, 51.3887518301242]
+            },
+            "properties": {
+                "id": "308",
+                "artdtsch": "Zierkirsche",
+                "artbot": "Prunus x schmittii",
+                "gattungdeutsch": "Prunus",
+                "strname": "Sandweg",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Lindenthal",
+                "standortnr": "62134",
+                "wassermenge": "25",
+                "wassersumme": "110",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.372672590399842, 51.317626750493865]
+            },
+            "properties": {
+                "id": "id-59910",
+                "artdtsch": "Französischer Ahorn",
+                "artbot": "Acer monspessulanum",
+                "gattungdeutsch": "Acer",
+                "strname": "Steinstraße",
+                "pflanzjahr": "2018",
+                "standalter": "3",
+                "bezirk": "Südvorstadt",
+                "standortnr": "75767",
+                "wassermenge": "25",
+                "wassersumme": "50",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.3821900950505, 51.30702500104777]
+            },
+            "properties": {
+                "id": "id-19601",
+                "artdtsch": "Spitz-Ahorn 'Farlake's Green'",
+                "artbot": "Acer platanoides 'Farlake's Green'",
+                "gattungdeutsch": "Acer",
+                "strname": "Meusdorfer Straße",
+                "pflanzjahr": "2005",
+                "standalter": "16",
+                "bezirk": "Connewitz",
+                "standortnr": "33560",
+                "wassermenge": "10",
+                "wassersumme": "310",
+                "anzahlg": "32"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.344204657556899, 51.375245503028935]
+            },
+            "properties": {
+                "id": "id-44326",
+                "artdtsch": "Gefülltblühende Rosskastanie",
+                "artbot": "Aesculus hippocastanum 'Baumannii'",
+                "gattungdeutsch": "Aesculus",
+                "strname": "Verlängerte Max-Liebermann-Straße",
+                "pflanzjahr": "2006",
+                "standalter": "15",
+                "bezirk": "Möckern",
+                "standortnr": "42725",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.445502384901154, 51.327802646212085]
+            },
+            "properties": {
+                "id": "id-27362",
+                "artdtsch": "Hainbuche",
+                "artbot": "Carpinus betulus",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Buchenweg",
+                "pflanzjahr": "1998",
+                "standalter": "23",
+                "bezirk": "Mölkau",
+                "standortnr": "17631",
+                "wassermenge": "50",
+                "wassersumme": "50",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.382106841596912, 51.30713889253276]
+            },
+            "properties": {
+                "id": "id-19595",
+                "artdtsch": "Spitz-Ahorn 'Farlake's Green'",
+                "artbot": "Acer platanoides 'Farlake's Green'",
+                "gattungdeutsch": "Acer",
+                "strname": "Meusdorfer Straße",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Connewitz",
+                "standortnr": "33569",
+                "wassermenge": "10",
+                "wassersumme": "135",
+                "anzahlg": "14"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.41897147006128, 51.34492513378636]
+            },
+            "properties": {
+                "id": "id-31103",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Eisenbahnstraße",
+                "pflanzjahr": "2001",
+                "standalter": "20",
+                "bezirk": "Volkmarsdorf",
+                "standortnr": "8934",
+                "wassermenge": "50",
+                "wassersumme": "400",
+                "anzahlg": "8"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.345121269866103, 51.32624344422145]
+            },
+            "properties": {
+                "id": "id-8991",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Könneritzstraße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Schleußig",
+                "standortnr": "39586",
+                "wassermenge": "50",
+                "wassersumme": "245",
+                "anzahlg": "15"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.397784042674816, 51.3473710640938]
+            },
+            "properties": {
+                "id": "1383",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Mariannenstraße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Neustadt-Neuschönefeld",
+                "standortnr": "8211",
+                "wassermenge": "50",
+                "wassersumme": "80",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.345265699297661, 51.327082991932045]
+            },
+            "properties": {
+                "id": "id-8968",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Brockhausstraße",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "Schleußig",
+                "standortnr": "39569",
+                "wassermenge": "10",
+                "wassersumme": "20",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.306435911782797, 51.33056371723009]
+            },
+            "properties": {
+                "id": "id-58704",
+                "artdtsch": "Sumpf-Eiche",
+                "artbot": "Quercus palustris",
+                "gattungdeutsch": "Quercus",
+                "strname": "Hafenstraße",
+                "pflanzjahr": "2014",
+                "standalter": "7",
+                "bezirk": "Schönau",
+                "standortnr": "74423",
+                "wassermenge": "25",
+                "wassersumme": "105",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.307945742760406, 51.329741937042336]
+            },
+            "properties": {
+                "id": "id-59739",
+                "artdtsch": "Nelken-Kirsche",
+                "artbot": "Prunus serrulata 'Kanzan'",
+                "gattungdeutsch": "Prunus",
+                "strname": "Hafenstraße",
+                "pflanzjahr": "2018",
+                "standalter": "3",
+                "bezirk": "Schönau",
+                "standortnr": "75500",
+                "wassermenge": "50",
+                "wassersumme": "100",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.317613889653831, 51.33109229808509]
+            },
+            "properties": {
+                "id": "id-58748",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Lützner Straße",
+                "pflanzjahr": "2014",
+                "standalter": "7",
+                "bezirk": "Neulindenau",
+                "standortnr": "74478",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.341819608259225, 51.33586892440374]
+            },
+            "properties": {
+                "id": "id-13468",
+                "artdtsch": "Platane",
+                "artbot": "Platanus x acerifolia",
+                "gattungdeutsch": "Platanus",
+                "strname": "Bowmanstraße",
+                "pflanzjahr": "2008",
+                "standalter": "13",
+                "bezirk": "Altlindenau",
+                "standortnr": "44362",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.346334747656478, 51.32851004320412]
+            },
+            "properties": {
+                "id": "id-9108",
+                "artdtsch": "Baumhasel",
+                "artbot": "Corylus colurna",
+                "gattungdeutsch": "Corylus",
+                "strname": "Könneritzstraße",
+                "pflanzjahr": "1995",
+                "standalter": "26",
+                "bezirk": "Schleußig",
+                "standortnr": "39628",
+                "wassermenge": "25",
+                "wassersumme": "25",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.40044670648387, 51.334492076672]
+            },
+            "properties": {
+                "id": "id-28461",
+                "artdtsch": "Gefülltblühende Rosskastanie",
+                "artbot": "Aesculus hippocastanum 'Baumannii'",
+                "gattungdeutsch": "Aesculus",
+                "strname": "Reichpietschstraße",
+                "pflanzjahr": "1999",
+                "standalter": "22",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "22193",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.401212305116765, 51.33434169700646]
+            },
+            "properties": {
+                "id": "id-28468",
+                "artdtsch": "Gefülltblühende Rosskastanie",
+                "artbot": "Aesculus hippocastanum 'Baumannii'",
+                "gattungdeutsch": "Aesculus",
+                "strname": "Reichpietschstraße",
+                "pflanzjahr": "2005",
+                "standalter": "16",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "22198",
+                "wassermenge": "10",
+                "wassersumme": "40",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.382092283920066, 51.30698881561313]
+            },
+            "properties": {
+                "id": "id-19600",
+                "artdtsch": "Spitz-Ahorn 'Farlake's Green'",
+                "artbot": "Acer platanoides 'Farlake's Green'",
+                "gattungdeutsch": "Acer",
+                "strname": "Meusdorfer Straße",
+                "pflanzjahr": "2010",
+                "standalter": "11",
+                "bezirk": "Connewitz",
+                "standortnr": "33559",
+                "wassermenge": "10",
+                "wassersumme": "135",
+                "anzahlg": "14"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.267719119678436, 51.30512207023654]
+            },
+            "properties": {
+                "id": "id-1078",
+                "artdtsch": "Walnuss 'Wunder von Monrepos'",
+                "artbot": "Juglans regia 'Wunder von Monrepos'",
+                "gattungdeutsch": "Juglans",
+                "strname": "Miltitzer Allee",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Lausen-Grünau",
+                "standortnr": "48593",
+                "wassermenge": "50",
+                "wassersumme": "75",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.417792343438824, 51.32345891756828]
+            },
+            "properties": {
+                "id": "id-25944",
+                "artdtsch": "Chinesische Wildbirne 'Chanticleer'",
+                "artbot": "Pyrus calleryana 'Chanticleer'",
+                "gattungdeutsch": "Pyrus",
+                "strname": "Papiermühlstraße",
+                "pflanzjahr": "2001",
+                "standalter": "20",
+                "bezirk": "Stötteritz",
+                "standortnr": "23885",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.341908141703776, 51.335946844978125]
+            },
+            "properties": {
+                "id": "id-13467",
+                "artdtsch": "Platane",
+                "artbot": "Platanus x acerifolia",
+                "gattungdeutsch": "Platanus",
+                "strname": "Bowmanstraße",
+                "pflanzjahr": "2008",
+                "standalter": "13",
+                "bezirk": "Altlindenau",
+                "standortnr": "44361",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.369255891893934, 51.310375245311825]
+            },
+            "properties": {
+                "id": "id-6992",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Windscheidstraße",
+                "pflanzjahr": "1995",
+                "standalter": "26",
+                "bezirk": "Connewitz",
+                "standortnr": "42622",
+                "wassermenge": "50",
+                "wassersumme": "100",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.37163479252835, 51.30715916331154]
+            },
+            "properties": {
+                "id": "id-19417",
+                "artdtsch": "Feld-Ahorn 'Elsrijk'",
+                "artbot": "Acer campestre 'Elsrijk'",
+                "gattungdeutsch": "Acer",
+                "strname": "Mathildenstraße",
+                "pflanzjahr": "2007",
+                "standalter": "14",
+                "bezirk": "Connewitz",
+                "standortnr": "41625",
+                "wassermenge": "25",
+                "wassersumme": "30",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.371310380368781, 51.31902199541044]
+            },
+            "properties": {
+                "id": "id-59932",
+                "artdtsch": "Blumen-Esche",
+                "artbot": "Fraxinus ornus",
+                "gattungdeutsch": "Fraxinus",
+                "strname": "Kochstraße",
+                "pflanzjahr": "2018",
+                "standalter": "3",
+                "bezirk": "Südvorstadt",
+                "standortnr": "75692",
+                "wassermenge": "10",
+                "wassersumme": "45",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.414596741049342, 51.35427847801777]
+            },
+            "properties": {
+                "id": "id-35106",
+                "artdtsch": "Feld-Ahorn 'Elsrijk'",
+                "artbot": "Acer campestre 'Elsrijk'",
+                "gattungdeutsch": "Acer",
+                "strname": "Kohlweg",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Schönefeld-Abtnaundorf",
+                "standortnr": "11447",
+                "wassermenge": "50",
+                "wassersumme": "160",
+                "anzahlg": "7"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.375932451298617, 51.36338969329243]
+            },
+            "properties": {
+                "id": "1161",
+                "artdtsch": "Feld-Ahorn ''Huibers Elegant'",
+                "artbot": "Acer campestre 'Huibers Elegant'",
+                "gattungdeutsch": "Acer",
+                "strname": "Wilhelm-Sammet-Straße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Gohlis-Mitte",
+                "standortnr": "77011",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.398902363034376, 51.33737767711019]
+            },
+            "properties": {
+                "id": "id-28718",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Breitkopfstraße",
+                "pflanzjahr": "1999",
+                "standalter": "22",
+                "bezirk": "Reudnitz-Thonberg",
+                "standortnr": "21878",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.267295448458645, 51.305191147371644]
+            },
+            "properties": {
+                "id": "id-636",
+                "artdtsch": "Platane",
+                "artbot": "Platanus x acerifolia",
+                "gattungdeutsch": "Platanus",
+                "strname": "Miltitzer Allee",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Lausen-Grünau",
+                "standortnr": "49290",
+                "wassermenge": "50",
+                "wassersumme": "75",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.344112664213384, 51.33105867233664]
+            },
+            "properties": {
+                "id": "id-13188",
+                "artdtsch": "Hänge-Silber-Linde",
+                "artbot": "Tilia tomentosa 'Petiolaris'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Forststraße",
+                "pflanzjahr": "2018",
+                "standalter": "3",
+                "bezirk": "Plagwitz",
+                "standortnr": "40346",
+                "wassermenge": "10",
+                "wassersumme": "30",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.371834373801862, 51.31765973775423]
+            },
+            "properties": {
+                "id": "id-59913",
+                "artdtsch": "Französischer Ahorn",
+                "artbot": "Acer monspessulanum",
+                "gattungdeutsch": "Acer",
+                "strname": "Steinstraße",
+                "pflanzjahr": "2018",
+                "standalter": "3",
+                "bezirk": "Südvorstadt",
+                "standortnr": "75764",
+                "wassermenge": "25",
+                "wassersumme": "65",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.34236421008605, 51.32657769798888]
+            },
+            "properties": {
+                "id": "id-9007",
+                "artdtsch": "Kegel-Linde",
+                "artbot": "Tilia flavescens 'Glenleven'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Holbeinstraße",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Schleußig",
+                "standortnr": "40629",
+                "wassermenge": "50",
+                "wassersumme": "595",
+                "anzahlg": "16"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.371547311169637, 51.33513820228684]
+            },
+            "properties": {
+                "id": "id-14711",
+                "artdtsch": "Platane",
+                "artbot": "Platanus x acerifolia",
+                "gattungdeutsch": "Platanus",
+                "strname": "Martin-Luther-Ring",
+                "pflanzjahr": "1997",
+                "standalter": "24",
+                "bezirk": "Zentrum-Süd",
+                "standortnr": "189",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.405559651649067, 51.34754768176729]
+            },
+            "properties": {
+                "id": "id-31258",
+                "artdtsch": "Chinesische Wildbirne 'Chanticleer'",
+                "artbot": "Pyrus calleryana 'Chanticleer'",
+                "gattungdeutsch": "Pyrus",
+                "strname": "Meißner Straße",
+                "pflanzjahr": "2002",
+                "standalter": "19",
+                "bezirk": "Neustadt-Neuschönefeld",
+                "standortnr": "8198",
+                "wassermenge": "25",
+                "wassersumme": "95",
+                "anzahlg": "7"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.343772257914267, 51.37537672195166]
+            },
+            "properties": {
+                "id": "id-44332",
+                "artdtsch": "Zierkirsche",
+                "artbot": "Prunus x schmittii",
+                "gattungdeutsch": "Prunus",
+                "strname": "Defoestraße",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Möckern",
+                "standortnr": "60669",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.41480142192541, 51.32178324272554]
+            },
+            "properties": {
+                "id": "id-25728",
+                "artdtsch": "Apfel-Dorn",
+                "artbot": "Crataegus x lavallei",
+                "gattungdeutsch": "Crataegus",
+                "strname": "Weißestraße",
+                "pflanzjahr": "2012",
+                "standalter": "9",
+                "bezirk": "Stötteritz",
+                "standortnr": "25309",
+                "wassermenge": "50",
+                "wassersumme": "80",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.426725612062786, 51.30467229355877]
+            },
+            "properties": {
+                "id": "138",
+                "artdtsch": "Gefülltblühende Vogel-Kirsche",
+                "artbot": "Prunus avium 'Plena'",
+                "gattungdeutsch": "Prunus",
+                "strname": "Bockstraße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Probstheida",
+                "standortnr": "26156",
+                "wassermenge": "25",
+                "wassersumme": "65",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.372787135921847, 51.350248773652446]
+            },
+            "properties": {
+                "id": "id-29323",
+                "artdtsch": "Platane",
+                "artbot": "Platanus x acerifolia",
+                "gattungdeutsch": "Platanus",
+                "strname": "Pfaffendorfer Straße",
+                "pflanzjahr": "2012",
+                "standalter": "9",
+                "bezirk": "Zentrum-Nord",
+                "standortnr": "13167",
+                "wassermenge": "50",
+                "wassersumme": "75",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.404520721964587, 51.346315232427465]
+            },
+            "properties": {
+                "id": "id-31172",
+                "artdtsch": "Gleditschie 'Sunburst'",
+                "artbot": "Gleditsia triacanthos 'Sunburst'",
+                "gattungdeutsch": "Gleditsia",
+                "strname": "Ludwigstraße",
+                "pflanzjahr": "1990",
+                "standalter": "31",
+                "bezirk": "Neustadt-Neuschönefeld",
+                "standortnr": "8437",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.400558743024165, 51.34383006994263]
+            },
+            "properties": {
+                "id": "id-29838",
+                "artdtsch": "Säulen-Dorn",
+                "artbot": "Crataegus monogyna 'Stricta'",
+                "gattungdeutsch": "Crataegus",
+                "strname": "Elsastraße",
+                "pflanzjahr": "2012",
+                "standalter": "9",
+                "bezirk": "Neustadt-Neuschönefeld",
+                "standortnr": "5340",
+                "wassermenge": "10",
+                "wassersumme": "35",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.375625467894873, 51.34273450968875]
+            },
+            "properties": {
+                "id": "id-53072",
+                "artdtsch": "Säulen-Eiche 'Fastigiata Koster'",
+                "artbot": "Quercus robur 'Fastigiata Koster'",
+                "gattungdeutsch": "Quercus",
+                "strname": "Katharinenstraße",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Zentrum",
+                "standortnr": "71043",
+                "wassermenge": "25",
+                "wassersumme": "30",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.3222813, 51.3236238]
+            },
+            "properties": {
+                "id": "2004",
+                "artdtsch": "Kirsche",
+                "artbot": "NULL",
+                "gattungdeutsch": "NULL",
+                "strname": "NULL",
+                "pflanzjahr": "2016",
+                "standalter": "5",
+                "bezirk": "NULL",
+                "standortnr": "osm_6057707003",
+                "wassermenge": "50",
+                "wassersumme": "70",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.378189965293952, 51.310300772367185]
+            },
+            "properties": {
+                "id": "id-19548",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Arno-Nitzsche-Straße",
+                "pflanzjahr": "2008",
+                "standalter": "13",
+                "bezirk": "Connewitz",
+                "standortnr": "31823",
+                "wassermenge": "25",
+                "wassersumme": "95",
+                "anzahlg": "8"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.36617086908825, 51.31443001031216]
+            },
+            "properties": {
+                "id": "id-8297",
+                "artdtsch": "Platane",
+                "artbot": "Platanus x acerifolia",
+                "gattungdeutsch": "Platanus",
+                "strname": "Richard-Lehmann-Straße",
+                "pflanzjahr": "2015",
+                "standalter": "6",
+                "bezirk": "Connewitz",
+                "standortnr": "30737",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.375667808529904, 51.363480177866734]
+            },
+            "properties": {
+                "id": "1162",
+                "artdtsch": "Feld-Ahorn ''Huibers Elegant'",
+                "artbot": "Acer campestre 'Huibers Elegant'",
+                "gattungdeutsch": "Acer",
+                "strname": "Wilhelm-Sammet-Straße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Gohlis-Mitte",
+                "standortnr": "77010",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.342886910624548, 51.32543058362926]
+            },
+            "properties": {
+                "id": "id-8821",
+                "artdtsch": "Straßen-Robinie",
+                "artbot": "Robinia pseudoacacia 'Monophylla'",
+                "gattungdeutsch": "Robinia",
+                "strname": "Brockhausstraße",
+                "pflanzjahr": "2005",
+                "standalter": "16",
+                "bezirk": "Schleußig",
+                "standortnr": "40860",
+                "wassermenge": "50",
+                "wassersumme": "125",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.397946591109008, 51.34735129256504]
+            },
+            "properties": {
+                "id": "id-30044",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Mariannenstraße",
+                "pflanzjahr": "1999",
+                "standalter": "22",
+                "bezirk": "Neustadt-Neuschönefeld",
+                "standortnr": "8212",
+                "wassermenge": "50",
+                "wassersumme": "80",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.38588039816837, 51.363289419995006]
+            },
+            "properties": {
+                "id": "id-33254",
+                "artdtsch": "Spitz-Ahorn 'Farlake's Green'",
+                "artbot": "Acer platanoides 'Farlake's Green'",
+                "gattungdeutsch": "Acer",
+                "strname": "Wittenberger Straße",
+                "pflanzjahr": "1999",
+                "standalter": "22",
+                "bezirk": "Eutritzsch",
+                "standortnr": "2961",
+                "wassermenge": "50",
+                "wassersumme": "50",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.340681956541095, 51.32301712514104]
+            },
+            "properties": {
+                "id": "id-8733",
+                "artdtsch": "Straßen-Robinie",
+                "artbot": "Robinia pseudoacacia 'Monophylla'",
+                "gattungdeutsch": "Robinia",
+                "strname": "Brockhausstraße",
+                "pflanzjahr": "2005",
+                "standalter": "16",
+                "bezirk": "Schleußig",
+                "standortnr": "40783",
+                "wassermenge": "25",
+                "wassersumme": "40",
+                "anzahlg": "3"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.345669810823816, 51.37537621945898]
+            },
+            "properties": {
+                "id": "id-44440",
+                "artdtsch": "Kaiser-Linde",
+                "artbot": "Tilia x vulgaris 'Pallida'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Max-Liebermann-Straße",
+                "pflanzjahr": "2006",
+                "standalter": "15",
+                "bezirk": "Möckern",
+                "standortnr": "59066",
+                "wassermenge": "50",
+                "wassersumme": "90",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.376561359913643, 51.310247639127766]
+            },
+            "properties": {
+                "id": "id-19671",
+                "artdtsch": "Spitz-Ahorn Fairview",
+                "artbot": "Acer platanoides 'Fairview'",
+                "gattungdeutsch": "Acer",
+                "strname": "Bernhard-Göring-Straße",
+                "pflanzjahr": "2015",
+                "standalter": "6",
+                "bezirk": "Connewitz",
+                "standortnr": "30665",
+                "wassermenge": "10",
+                "wassersumme": "25",
+                "anzahlg": "4"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.267458507369067, 51.30509125108377]
+            },
+            "properties": {
+                "id": "id-969",
+                "artdtsch": "Haus-Apfel 'Gravensteiner'",
+                "artbot": "Malus domestica 'Gravensteiner'",
+                "gattungdeutsch": "Malus",
+                "strname": "Miltitzer Allee",
+                "pflanzjahr": "2017",
+                "standalter": "4",
+                "bezirk": "Lausen-Grünau",
+                "standortnr": "49285",
+                "wassermenge": "50",
+                "wassersumme": "75",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.378303358043732, 51.31029027104866]
+            },
+            "properties": {
+                "id": "id-19529",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Arno-Nitzsche-Straße",
+                "pflanzjahr": "2004",
+                "standalter": "17",
+                "bezirk": "Connewitz",
+                "standortnr": "31824",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.371844119887593, 51.348147917270644]
+            },
+            "properties": {
+                "id": "id-29080",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Parthenstraße",
+                "pflanzjahr": "2015",
+                "standalter": "6",
+                "bezirk": "Zentrum-Nord",
+                "standortnr": "12927",
+                "wassermenge": "50",
+                "wassersumme": "75",
+                "anzahlg": "2"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.375077593559935, 51.34390305371986]
+            },
+            "properties": {
+                "id": "id-56538",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Richard-Wagner-Straße",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Zentrum",
+                "standortnr": "73386",
+                "wassermenge": "10",
+                "wassersumme": "60",
+                "anzahlg": "6"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.343792733795029, 51.375306043497865]
+            },
+            "properties": {
+                "id": "id-44330",
+                "artdtsch": "Zierkirsche",
+                "artbot": "Prunus x schmittii",
+                "gattungdeutsch": "Prunus",
+                "strname": "Defoestraße",
+                "pflanzjahr": "2006",
+                "standalter": "15",
+                "bezirk": "Möckern",
+                "standortnr": "60668",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.408645434699363, 51.34677454682092]
+            },
+            "properties": {
+                "id": "id-31220",
+                "artdtsch": "Säulen-Hainbuche 'Frans Fontaine'",
+                "artbot": "Carpinus betulus 'Frans Fontaine'",
+                "gattungdeutsch": "Carpinus",
+                "strname": "Mariannenstraße",
+                "pflanzjahr": "1997",
+                "standalter": "24",
+                "bezirk": "Volkmarsdorf",
+                "standortnr": "8345",
+                "wassermenge": "10",
+                "wassersumme": "90",
+                "anzahlg": "9"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.345802748724495, 51.375376084873636]
+            },
+            "properties": {
+                "id": "id-44443",
+                "artdtsch": "Kaiser-Linde",
+                "artbot": "Tilia x vulgaris 'Pallida'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Max-Liebermann-Straße",
+                "pflanzjahr": "2006",
+                "standalter": "15",
+                "bezirk": "Möckern",
+                "standortnr": "59067",
+                "wassermenge": "50",
+                "wassersumme": "90",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.415772636750813, 51.324054447959426]
+            },
+            "properties": {
+                "id": "id-25910",
+                "artdtsch": "Chinesische Wildbirne 'Chanticleer'",
+                "artbot": "Pyrus calleryana 'Chanticleer'",
+                "gattungdeutsch": "Pyrus",
+                "strname": "Schwarzackerstraße",
+                "pflanzjahr": "2001",
+                "standalter": "20",
+                "bezirk": "Stötteritz",
+                "standortnr": "26172",
+                "wassermenge": "10",
+                "wassersumme": "50",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.323958570406795, 51.32580671522305]
+            },
+            "properties": {
+                "id": "id-56920",
+                "artdtsch": "Zerr-Eiche",
+                "artbot": "Quercus cerris",
+                "gattungdeutsch": "Quercus",
+                "strname": "Markranstädter Straße",
+                "pflanzjahr": "2013",
+                "standalter": "8",
+                "bezirk": "Plagwitz",
+                "standortnr": "73654",
+                "wassermenge": "50",
+                "wassersumme": "135",
+                "anzahlg": "5"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.377125134997373, 51.362981106473434]
+            },
+            "properties": {
+                "id": "1146",
+                "artdtsch": "Feld-Ahorn ''Huibers Elegant'",
+                "artbot": "Acer campestre 'Huibers Elegant'",
+                "gattungdeutsch": "Acer",
+                "strname": "Wilhelm-Sammet-Straße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Gohlis-Mitte",
+                "standortnr": "58668",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.41124715954585, 51.34670394099906]
+            },
+            "properties": {
+                "id": "id-31514",
+                "artdtsch": "Amberbaum 'Paarl'",
+                "artbot": "Liquidambar styraciflua 'Paarl'",
+                "gattungdeutsch": "Liquidambar",
+                "strname": "Idastraße",
+                "pflanzjahr": "2015",
+                "standalter": "6",
+                "bezirk": "Volkmarsdorf",
+                "standortnr": "5687",
+                "wassermenge": "50",
+                "wassersumme": "200",
+                "anzahlg": "6"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.375361602786876, 51.36358394072302]
+            },
+            "properties": {
+                "id": "1163",
+                "artdtsch": "Feld-Ahorn ''Huibers Elegant'",
+                "artbot": "Acer campestre 'Huibers Elegant'",
+                "gattungdeutsch": "Acer",
+                "strname": "Wilhelm-Sammet-Straße",
+                "pflanzjahr": "2020",
+                "standalter": "1",
+                "bezirk": "Gohlis-Mitte",
+                "standortnr": "77009",
+                "wassermenge": "10",
+                "wassersumme": "10",
+                "anzahlg": "1"
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.302293889523622, 51.26974322328064]
+            },
+            "properties": {
+                "id": "id-500",
+                "artdtsch": "Stadt-Linde",
+                "artbot": "Tilia cordata 'Greenspire'",
+                "gattungdeutsch": "Tilia",
+                "strname": "Knautnaundorfer Straße",
+                "pflanzjahr": "2010",
+                "standalter": "11",
+                "bezirk": "Knautkleeberg-Knauthain",
+                "standortnr": "45284",
+                "wassermenge": "50",
+                "wassersumme": "150",
+                "anzahlg": "3"
+            }
+        }
+    ]
+ }
