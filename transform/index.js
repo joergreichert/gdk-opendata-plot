@@ -31,4 +31,4 @@ function transform(year) {
 }
 
 const args = process.argv;
-transform(args.length > 2 ? args[2] : 2023);
+transform(args.length > 2 ? args[2] : 2024);

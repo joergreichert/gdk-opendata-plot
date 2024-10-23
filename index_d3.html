@@ -227,7 +227,7 @@
 
 
         // read in json
-        const data = Promise.all([d3.json("data/bezirksgrenzen.geojson"), d3.csv("data/wateredTreesSum.csv")])
+        const data = Promise.all([d3.json("data/bezirksgrenzen.geojson"), d3.csv("data/2024/wateredTreesSum.csv")])
 
         const loadBezirke = function (geojson) {
             console.log("Leipziger Bezirke:", geojson);
