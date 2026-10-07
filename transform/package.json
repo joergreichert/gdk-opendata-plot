@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "node ./index.js 2025"
+    "start": "node ./index.js 2026"
   },
   "author": "Joerg Reichert",
   "license": "MIT",
   "dependencies": {
-    "@turf/circle": "^6.5.0"
+    "@turf/circle": "^7.4.0"
   }
 }

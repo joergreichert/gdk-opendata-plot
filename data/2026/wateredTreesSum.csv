@@ -1,0 +1,525 @@
+"id","lat","lng","art_dtsch","art_bot","gattungdeutsch","strname","pflanzjahr","standalter","bezirk","standortnr","wassermenge","wassersumme","anzahlg"
+6912002,"51.36123","12.3826","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Wilhelminenstraße",2013,13,"Eutritzsch","4031",10,70,7
+6915595,"51.32077","12.34219","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Könneritzstraße",2016,10,"Schleußig","39441",40,40,1
+6915635,"51.32519","12.34456","Hopfenbuche","Ostrya carpinifolia","Ostrya","Könneritzstraße",2016,10,"Schleußig","39531",60,140,4
+6913602,"51.31906","12.33726","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Antonienstraße",2014,12,"Plagwitz","39325",60,100,2
+6916147,"51.32285","12.32114","Haus-Apfel 'Cox Orange'","Malus domestica 'Cox Orange'","Malus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42215",100,346,5
+6915641,"51.32642","12.34498","Hopfenbuche","Ostrya carpinifolia","Ostrya","Könneritzstraße",2016,10,"Schleußig","39552",50,340,7
+6919661,"51.32166","12.32093","Ess-Kastanie","Castanea sativa","Castanea","Gleis-Grün-Zug Bahnhof Plagwitz",2020,6,"Plagwitz","G42192",100,340,5
+6966230,"51.30739","12.4126","Rhododendron","Rhododendron species","Rhododendron","Südfriedhof",NULL,NULL,"Probstheida","139024",20,190,16
+6923791,"51.33997","12.36811","Säulen-Magnolie","Magnolia kobus 'Isis'","Magnolia","Thomasiusstraße",2024,2,"Zentrum-West","146840",80,80,1
+6909882,"51.32582","12.27624","Nelken-Kirsche","Prunus serrulata 'Kanzan'","Prunus","Mühlhäuser Ring",2014,12,"Schönau","74226",40,200,7
+6911230,"51.37328","12.41103","Chinesische Wildbirne 'Chanticleer'","Pyrus calleryana 'Chanticleer'","Pyrus","Mockauer Straße",2013,13,"Mockau-Süd","10388",75,115,2
+6963348,"51.35657","12.45607","Baumhasel","Corylus colurna","Corylus","Goldsternstraße 023, 025 und Hainbuchenstraße 013 (011297)",NULL,NULL,"Paunsdorf","115073",21,21,1
+6913394,"51.34047","12.36092","Säulen-Hainbuche 'Frans Fontaine'","Carpinus betulus 'Frans Fontaine'","Carpinus","Carl-Maria-von-Weber-Straße (Offenlegung Elstermühlgraben)",2015,11,"Zentrum-West","G33766",10,80,8
+6913605,"51.31929","12.33585","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Antonienstraße",2014,12,"Plagwitz","39339",100,100,1
+6916589,"51.3129","12.28852","Platane","Platanus x acerifolia","Platanus","Ratzelstraße",2019,7,"Grünau-Siedlung","76226",100,100,1
+6908749,"51.34802","12.37174","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Parthenstraße",2011,15,"Zentrum-Nord","12944",50,50,1
+6921150,"51.3376","12.40852","Brabanter Silber-Linde","Tilia tomentosa 'Brabant'","Tilia","Ramdohrscher Park",2021,5,"Anger-Crottendorf","G37016",35,60,2
+6911220,"51.36896","12.40674","Chinesische Wildbirne 'Chanticleer'","Pyrus calleryana 'Chanticleer'","Pyrus","Mockauer Straße",2013,13,"Mockau-Süd","10294",50,110,3
+6919785,"51.33023","12.36823","Platane","Platanus x acerifolia","Platanus","Grassistraße",2017,9,"Zentrum-Süd","37037",100,100,1
+6990596,"51.30625","12.39822","Spitz-Ahorn","Acer platanoides","Acer","An der Märchenwiese (östlicher Teil)",2026,0,"Marienbrunn","G25576",20,40,2
+6916700,"51.34748","12.3978","Robinie 'Sandraudiga'","Robinia pseudoacacia 'Sandraudiga'","Robinia","Rosa-Luxemburg-Straße",2018,8,"Neustadt-Neuschönefeld","9173",10,30,3
+6876359,"51.26824","12.29317","Rotblühende Rosskastanie 'Briotii'","Aesculus x carnea 'Briotii'","Aesculus","Am Klucksgraben",1999,27,"Knautkleeberg-Knauthain","51673",60,120,2
+6916662,"51.34684","12.39762","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Bussestraße",2020,6,"Neustadt-Neuschönefeld","77069",25,25,1
+6916138,"51.32194","12.32109","Kultur-Birne 'Conference'","Pyrus communis 'Conference'","Pyrus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42198",100,446,7
+6907304,"51.32905","12.30755","Vogel-Kirsche","Prunus avium","Prunus","Lindenauer Hafen",2014,12,"Schönau","G20518",80,400,6
+6858109,"51.30096","12.38411","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Bornaische Straße",1993,33,"Connewitz","33202",120,1150,13
+6919784,"51.32952","12.36852","Platane","Platanus x acerifolia","Platanus","Grassistraße",2017,9,"Zentrum-Süd","37009",150,550,4
+6906500,"51.32917","12.30821","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20513",80,495,10
+6963347,"51.35653","12.45626","Baumhasel","Corylus colurna","Corylus","Goldsternstraße 023, 025 und Hainbuchenstraße 013 (011297)",NULL,NULL,"Paunsdorf","115071",21,21,1
+6912194,"51.34655","12.40738","Baumhasel","Corylus colurna","Corylus","Hildegardstraße",2012,14,"Volkmarsdorf","5625",60,60,1
+6920678,"51.33938","12.48374","Purpur-Erle","Alnus x spaethii","Alnus","Wohngebiet ""Am Gaswerksweg"" 1. BA (B-Plan E-161.1 Wohngebiet ""Am Gaswerksweg I. BA"")",2021,5,"Engelsdorf","82970",24,32,2
+6907760,"51.32914","12.30817","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20514",80,470,9
+6911259,"51.30118","12.38404","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Bornaische Straße",2013,13,"Connewitz","33199",120,1160,14
+6913830,"51.32925","12.3088","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2020,6,"Schönau","G20485",100,500,7
+6901751,"51.36631","12.37917","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Coppistraße",2009,17,"Gohlis-Mitte","58933",20,20,1
+6942857,"51.3565","12.45598","Baumhasel","Corylus colurna","Corylus","Goldsternstraße 023, 025 und Hainbuchenstraße 013 (011297)",NULL,NULL,"Paunsdorf","115075",21,21,1
+6913157,"51.35428","12.4146","Feld-Ahorn 'Elsrijk'","Acer campestre 'Elsrijk'","Acer","Kohlweg",2013,13,"Schönefeld-Abtnaundorf","11447",20,40,2
+6910113,"51.33019","12.30444","Trauben-Kirsche","Prunus padus","Prunus","Lindenauer Hafen",2014,12,"Schönau","G20640",39,155,5
+6918263,"51.32723","12.27655","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76332",100,300,3
+6970822,"51.30969","12.41009","Säulen-Kirsche","Prunus serrulata 'Amanogawa'","Prunus","Südfriedhof",NULL,NULL,"Probstheida","143165",10,10,1
+6914260,"51.30629","12.39882","Spitz-Ahorn","Acer platanoides","Acer","An der Märchenwiese (östlicher Teil)",2020,6,"Marienbrunn","G52657",20,160,12
+6925362,"51.36629","12.37927","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Coppistraße",2025,1,"Gohlis-Mitte","58932",20,20,1
+6925342,"51.33451","12.3216","Säulen-Hainbuche 'Frans Fontaine'","Carpinus betulus 'Frans Fontaine'","Carpinus","Demmeringstraße",2022,4,"Altlindenau","73687",10,50,5
+6924939,"51.344","12.31825","Säulen-Tulpenbaum","Liriodendron tulipifera 'Fastigiatum'","Liriodendron","Pufendorfstraße",2021,5,"Leutzsch","77005",39,52,2
+6911432,"51.32337","12.32352","Feld-Ahorn","Acer campestre","Acer","Weg 5202",2013,13,"Plagwitz","73662",40,40,1
+6924937,"51.34351","12.31918","Säulen-Tulpenbaum","Liriodendron tulipifera 'Fastigiatum'","Liriodendron","Pufendorfstraße",2021,5,"Altlindenau","77002",60,215,6
+6914262,"51.3063","12.39912","Spitz-Ahorn","Acer platanoides","Acer","An der Märchenwiese (östlicher Teil)",2020,6,"Marienbrunn","G52659",60,270,6
+6911428,"51.32326","12.32448","Hainbuche","Carpinus betulus","Carpinus","Weg 5202",2013,13,"Plagwitz","73658",50,60,2
+6902188,"51.37465","12.38806","Gemeine Esche","Fraxinus excelsior","Fraxinus","Magnusstraße",2009,17,"Eutritzsch","5189",400,1500,6
+6916812,"51.3121","12.4657","Brabanter Silber-Linde","Tilia tomentosa 'Brabant'","Tilia","Hauptstraße",2016,10,"Holzhausen","74974",25,305,14
+6925205,"51.33988","12.3181","Ungarische Silber-Linde","Tilia tomentosa 'Szeleste'","Tilia","Merseburger Straße",2022,4,"Altlindenau","43699",20,40,2
+6919646,"51.32226","12.32122","Walnuss","Juglans regia","Juglans","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42168",100,316,4
+6915486,"51.32209","12.33862","Kegel-Linde","Tilia flavescens 'Glenleven'","Tilia","Holbeinstraße",2017,9,"Schleußig","40457",120,670,9
+6886810,"51.33395","12.32777","Trauben-Kirsche","Prunus padus","Prunus","Henriettenpark",2002,24,"Lindenau","G1325",80,400,5
+6916598,"51.31122","12.28005","Platane","Platanus x acerifolia","Platanus","Ratzelstraße",2019,7,"Grünau-Siedlung","76239",100,600,6
+6925712,"51.34464","12.32417","Säulen-Eiche 'Fastigiata Koster'","Quercus robur 'Fastigiata Koster'","Quercus","Paul-Küstner-Straße",2024,2,"Altlindenau","133938",50,100,3
+6916150,"51.32299","12.32119","Haus-Apfel  'Roter Eiserapfel'","Malus domestica 'Roter Eiserapfel'","Malus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42217",100,306,6
+6912688,"51.33022","12.30729","Brabanter Silber-Linde","Tilia tomentosa 'Brabant'","Tilia","Hafenstraße",2014,12,"Schönau","74429",160,620,5
+6921212,"51.29886","12.38608","Japanischer Schnurbaum","Sophora japonica","Sophora","Rembrandtplatz",2021,5,"Lößnig","G32400",40,60,2
+6918790,"51.36856","12.40681","Säulen-Eiche","Quercus robur 'Fastigiata'","Quercus","Parkplatz 1201",2016,10,"Mockau-Süd","68382",50,190,5
+6919567,"51.30927","12.42686","Vogel-Kirsche","Prunus avium","Prunus","Park der Freundschaft (Etzoldsche Sandgrube)",2016,10,"Probstheida","G37249",10,10,1
+6916596,"51.31131","12.28043","Platane","Platanus x acerifolia","Platanus","Ratzelstraße",2019,7,"Grünau-Siedlung","76237",100,600,6
+6907454,"51.37777","12.44644","Scharlach-Eiche","Quercus coccinea","Quercus","Eichbergstraße",2013,13,"Thekla","73463",300,500,2
+6916209,"51.3446","12.31849","Hainbuche","Carpinus betulus","Carpinus","Spielplatz zwischen Georg-Schwarz-Straße und Pufendorfstraße (B-Plan 69.3 ""Rosenmüllerstraße"")",2017,9,"Leutzsch","G43656",80,340,6
+6911430,"51.32334","12.3238","Feld-Ahorn","Acer campestre","Acer","Weg 5202",2013,13,"Plagwitz","73660",50,60,2
+6925028,"51.30628","12.39952","Spitz-Ahorn","Acer platanoides","Acer","An der Märchenwiese (östlicher Teil)",2024,2,"Marienbrunn","G25671",40,170,5
+6912753,"51.30334","12.3938","Baumhasel","Corylus colurna","Corylus","Probstheidaer Straße",2011,15,"Lößnig","32863",20,20,1
+6920083,"51.37053","12.36497","Spitz-Ahorn 'Farlake´s Green'","Acer platanoides 'Farlake´s Green'","Acer","Landsberger Straße",2017,9,"Gohlis-Mitte","60023",90,612,7
+6900965,"51.3288","12.41906","Strauch - Rosskastanie","Aesculus parviflora","Aesculus","Ostfriedhof",2008,18,"Anger-Crottendorf","G43733",60,110,2
+6985031,"51.30283","12.44031","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Franzosenallee",2025,1,"Probstheida","168766",60,60,1
+6924598,"51.30723","12.29453","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Rapsweg",2022,4,"Großzschocher","51613",130,395,4
+6907320,"51.33037","12.30532","Zerr-Eiche","Quercus cerris","Quercus","Lindenauer Hafen",2026,0,"Schönau","G20559",80,260,4
+6924909,"51.33035","12.343","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Forststraße",2021,5,"Plagwitz","40342",25,45,2
+6916699,"51.34744","12.39768","Robinie 'Sandraudiga'","Robinia pseudoacacia 'Sandraudiga'","Robinia","Rosa-Luxemburg-Straße",2018,8,"Neustadt-Neuschönefeld","9172",80,140,5
+6920296,"51.32911","12.30809","Zerr-Eiche","Quercus cerris","Quercus","Lindenauer Hafen",2022,4,"Schönau","G20515",100,700,9
+6907313,"51.3297","12.30644","Vogel-Kirsche","Prunus avium","Prunus","Lindenauer Hafen",2014,12,"Schönau","G20539",90,410,5
+6911261,"51.30103","12.38409","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Bornaische Straße",2013,13,"Connewitz","33201",120,1180,14
+6926011,"51.34022","12.36755","Säulen-Magnolie","Magnolia kobus 'Isis'","Magnolia","Thomasiusstraße",2024,2,"Zentrum-West","146838",80,160,2
+6913653,"51.34698","12.31152","Trauben-Eiche","Quercus petraea","Quercus","Benediktusstraße",2011,15,"Leutzsch","71638",60,200,4
+6911434,"51.3234","12.32324","Feld-Ahorn","Acer campestre","Acer","Weg 5202",2013,13,"Plagwitz","73664",50,50,1
+6913600,"51.31887","12.33802","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Antonienstraße",2014,12,"Plagwitz","39317",100,100,1
+6919829,"51.3182","12.37138","Hopfenbuche","Ostrya carpinifolia","Ostrya","Kochstraße",2018,8,"Südvorstadt","75701",10,25,3
+6918944,"51.34739","12.3977","Säulen-Hainbuche 'Frans Fontaine'","Carpinus betulus 'Frans Fontaine'","Carpinus","Mariannenstraße",2020,6,"Neustadt-Neuschönefeld","8210",10,30,3
+6911431,"51.32335","12.32366","Feld-Ahorn","Acer campestre","Acer","Weg 5202",2013,13,"Plagwitz","73661",60,60,1
+6916265,"51.29838","12.40565","Amerikanischer Zürgelbaum","Celtis occidentalis","Celtis","Park Lößnig/Dölitz, Erholungspark",2020,6,"Lößnig","G34333",90,150,2
+6918335,"51.3466","12.40739","Hopfenbuche","Ostrya carpinifolia","Ostrya","Hildegardstraße",2020,6,"Volkmarsdorf","5626",82,82,1
+6888203,"51.33835","12.33134","Winter-Linde 'Rancho'","Tilia cordata 'Rancho'","Tilia","Roßmarktstraße",2005,21,"Altlindenau","56574",40,110,3
+6977108,"51.32976","12.30634","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2025,1,"Schönau","G20542",80,330,5
+6920169,"51.34517","12.3669","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Gustav-Adolf-Straße",2018,8,"Zentrum-Nordwest","75535",50,70,2
+6910868,"51.34799","12.37183","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Parthenstraße",2015,11,"Zentrum-Nord","12943",85,105,2
+6915490,"51.32028","12.3381","Kegel-Linde","Tilia flavescens 'Glenleven'","Tilia","Holbeinstraße",2017,9,"Schleußig","40482",70,70,1
+6916253,"51.3633","12.38608","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Wittenberger Straße",2018,8,"Eutritzsch","2950",28,180,17
+6919819,"51.31917","12.37132","Blumen-Esche","Fraxinus ornus","Fraxinus","Kochstraße",2018,8,"Südvorstadt","75691",75,763,24
+6912755,"51.30338","12.39426","Baumhasel","Corylus colurna","Corylus","Probstheidaer Straße",2011,15,"Lößnig","32869",20,20,1
+6919662,"51.32174","12.32097","Haus-Pflaume 'Bühler Frühzwetschge'","Prunus domestica 'Bühler Frühzwetschge'","Prunus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42194",100,440,6
+6911520,"51.33328","12.32383","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Lützner Straße",2014,12,"Lindenau","74430",220,220,1
+6913599,"51.31884","12.33813","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Antonienstraße",2014,12,"Plagwitz","39316",60,60,1
+6821688,"51.33415","12.40223","Berg-Ahorn","Acer pseudoplatanus","Acer","Reichpietschstraße",1960,66,"Reudnitz-Thonberg","22205",12,364,50
+6823312,"51.34638","12.43597","Spitz-Ahorn","Acer platanoides","Acer","Ostheimstraße",1960,66,"Sellerhausen-Stünz","23308",66,132,2
+6941491,"51.3074","12.41251","Gewöhnliche Eibe","Taxus baccata","Taxus","Südfriedhof",NULL,NULL,"Probstheida","140081",50,600,17
+6984239,"51.322984699999999","12.321183400000001",NULL,NULL,NULL,NULL,2016,10,"Plagwitz","osm_6058038169",80,116,2
+6911573,"51.32588","12.27596","Feld-Ahorn 'Elsrijk'","Acer campestre 'Elsrijk'","Acer","Mühlhäuser Ring",2014,12,"Schönau","74228",40,220,8
+6906503,"51.32939","12.30809","Winter-Linde","Tilia cordata","Tilia","Lindenauer Hafen",2015,11,"Schönau","G20522",60,280,5
+6909700,"51.32823","12.33138","Rot-Eiche","Quercus rubra","Quercus","Stadtteilpark Plagwitz",2011,15,"Plagwitz","G30",45,90,2
+6918259,"51.32716","12.27588","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76328",100,400,4
+6919818,"51.31936","12.37134","Blumen-Esche","Fraxinus ornus","Fraxinus","Kochstraße",2019,7,"Südvorstadt","75690",25,50,2
+6920251,"51.36849","12.40667","Säulen-Eiche","Quercus robur 'Fastigiata'","Quercus","Parkplatz 1201",2016,10,"Mockau-Süd","74944",50,190,6
+6919513,"51.3343","12.35594","Säulen-Eiche","Quercus robur 'Fastigiata'","Quercus","Sebastian-Bach-Straße",2018,8,"Zentrum-West","75759",50,67,5
+6915662,"51.32533","12.34464","Hopfenbuche","Ostrya carpinifolia","Ostrya","Könneritzstraße",2016,10,"Schleußig","39599",120,130,2
+6913603,"51.31908","12.33716","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Antonienstraße",2014,12,"Plagwitz","39326",100,100,1
+6916588,"51.31293","12.28871","Platane","Platanus x acerifolia","Platanus","Ratzelstraße",2019,7,"Grünau-Siedlung","76225",100,100,1
+6909208,"51.35777","12.35847","Sand-Birke","Betula pendula","Betula","Schillerhain",2015,11,"Gohlis-Süd","G38660",20,20,1
+6909049,"51.37525","12.32053","Platane","Platanus x acerifolia","Platanus","Georg-Schumann-Straße",2015,11,"Wahren","52437",10,40,4
+6912679,"51.33102","12.30566","Sumpf-Eiche","Quercus palustris","Quercus","Hafenstraße",2014,12,"Schönau","74418",80,460,7
+6920297,"51.33033","12.30538","Zerr-Eiche","Quercus cerris","Quercus","Lindenauer Hafen",2022,4,"Schönau","G20558",80,260,4
+6912902,"51.34656","12.40922","Baumhasel","Corylus colurna","Corylus","Elisabethstraße",2014,12,"Volkmarsdorf","9745",80,80,1
+6910080,"51.32974","12.30638","Speierling","Sorbus domestica","Sorbus","Lindenauer Hafen",2014,12,"Schönau","G20541",80,140,2
+6916587,"51.31297","12.28891","Platane","Platanus x acerifolia","Platanus","Ratzelstraße",2019,7,"Grünau-Siedlung","76224",100,100,1
+6912299,"51.34174","12.40599","Kaiser-Linde","Tilia x vulgaris 'Pallida'","Tilia","Hermann-Liebmann-Straße",2011,15,"Neustadt-Neuschönefeld","9041",40,680,17
+6916688,"51.34722","12.39906","Säulen-Hainbuche 'Frans Fontaine'","Carpinus betulus 'Frans Fontaine'","Carpinus","Mariannenstraße",2018,8,"Neustadt-Neuschönefeld","8217",80,200,3
+6910583,"51.35448","12.40833","Winter-Linde 'Roelvo'","Tilia cordata 'Roelvo'","Tilia","Heinkstraße",2013,13,"Schönefeld-Abtnaundorf","6938",24,98,6
+6906502,"51.32945","12.30819","Winter-Linde","Tilia cordata","Tilia","Lindenauer Hafen",2015,11,"Schönau","G20521",60,280,5
+6912898,"51.34655","12.40938","Baumhasel","Corylus colurna","Corylus","Elisabethstraße",2014,12,"Volkmarsdorf","9739",80,80,1
+6985180,"51.30734","12.41252","Rhododendron","Rhododendron species","Rhododendron","Südfriedhof",NULL,NULL,"Probstheida","168651",20,230,14
+6912193,"51.34632","12.40736","Baumhasel","Corylus colurna","Corylus","Hildegardstraße",2012,14,"Volkmarsdorf","5622",63,63,1
+6984683,"51.33187","12.39437","Platane","Platanus x acerifolia","Platanus","Johannisallee",2025,1,"Zentrum-Südost","22307",30,75,6
+6917268,"51.33106","12.34411","Hänge-Silber-Linde","Tilia tomentosa 'Petiolaris'","Tilia","Forststraße",2018,8,"Plagwitz","40346",20,20,1
+6990652,"51.31607","12.40503","Berg-Ahorn 'Leopoldii'","Acer pseudoplatanus 'Leopoldii'","Acer","Wilhelm-Külz-Park",2026,0,"Probstheida","G11459",10,10,1
+6889261,"51.31112","12.40801","Rotdorn","Crataegus laevigata 'Paul's Scarlet'","Crataegus","Südfriedhof",2005,21,"Probstheida","G43154",20,190,13
+6924599,"51.30717","12.29456","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Rapsweg",2022,4,"Großzschocher","118826",130,420,4
+6919817,"51.31951","12.37135","Blumen-Esche","Fraxinus ornus","Fraxinus","Kochstraße",2019,7,"Südvorstadt","75689",62,750,24
+6926314,"51.35693","12.2626","Purpur-Erle","Alnus x spaethii","Alnus","Arthur-Heidrich-Platz",2021,5,"Burghausen-Rückmarsdorf","G39827",50,310,10
+6918249,"51.32704","12.27416","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76318",100,500,5
+6907181,"51.3389","12.39895","Rotdorn","Crataegus laevigata 'Paul's Scarlet'","Crataegus","Stephaniplatz",2013,13,"Reudnitz-Thonberg","G1841",104,104,1
+6861254,"51.35688","12.4727","Baumhasel","Corylus colurna","Corylus","Bisamstraße",1993,33,"Heiterblick","50831",75,135,2
+6914278,"51.32899","12.36299","Stiel-Eiche","Quercus robur","Quercus","Clara-Zetkin-Park (mit Scheibenholz)",2016,10,"Zentrum-Süd","G1357",40,320,8
+6910091,"51.33048","12.30512","Eingriffliger Weißdorn","Crataegus monogyna","Crataegus","Lindenauer Hafen",2014,12,"Schönau","G20562",80,140,2
+6915596,"51.32036","12.34197","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Könneritzstraße",2016,10,"Schleußig","39447",100,100,1
+6919458,"51.31677","12.32561","Fächerblattbaum","Ginkgo biloba 'Princeton Sentry'","Ginkgo","Gießerstraße",2019,7,"Kleinzschocher","76154",50,635,14
+6924613,"51.32427","12.29371","Säulen-Tulpenbaum","Liriodendron tulipifera 'Fastigiatum'","Liriodendron","Weißdornstraße",2021,5,"Grünau-Ost","85561",150,150,1
+6911495,"51.33379","12.40235","Rot-Eiche","Quercus rubra","Quercus","Lene-Voigt-Park",2014,12,"Reudnitz-Thonberg","G6826",15,434,51
+6916139,"51.32196","12.32116","Kultur-Birne 'Petersbirne'","Pyrus communis 'Petersbirne'","Pyrus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42199",100,466,6
+6919780,"51.3219","12.36579","Woll-Apfel","Malus tschonoskii","Malus","Fockestraße",2019,7,"Südvorstadt","41504",10,20,2
+6934315,"51.33966","12.31865","Ungarische Silber-Linde","Tilia tomentosa 'Szeleste'","Tilia","Merseburger Straße",2026,0,"Altlindenau","43753",40,40,1
+6907322,"51.3304","12.30525","Vogel-Kirsche","Prunus avium","Prunus","Lindenauer Hafen",2014,12,"Schönau","G20561",90,290,4
+6916145,"51.32273","12.3211","Haus-Apfel 'Rote Sternrenette'","Malus domestica 'Rote Sternrenette'","Malus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42213",100,346,5
+6914652,"51.33582","12.36209","Holländische Linde","Tilia x vulgaris","Tilia","Johannapark",2016,10,"Zentrum-West","37766",70,100,2
+6918262,"51.32721","12.27637","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76331",100,400,4
+6912526,"51.34175","12.35787","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Jahnallee",2015,11,"Zentrum-West","35890",16,184,20
+6909883,"51.32581","12.27614","Nelken-Kirsche","Prunus serrulata 'Kanzan'","Prunus","Mühlhäuser Ring",2014,12,"Schönau","74227",80,440,7
+6911216,"51.3706","12.40866","Kaiser-Linde","Tilia x vulgaris 'Pallida'","Tilia","Gontardweg",2013,13,"Mockau-Süd","2110",100,511,20
+6916591,"51.31279","12.28794","Platane","Platanus x acerifolia","Platanus","Ratzelstraße",2019,7,"Grünau-Siedlung","76229",100,100,1
+6916210,"51.34454","12.31852","Walnuss","Juglans regia","Juglans","Spielplatz zwischen Georg-Schwarz-Straße und Pufendorfstraße (B-Plan 69.3 ""Rosenmüllerstraße"")",2017,9,"Leutzsch","G43657",80,340,6
+6923700,"51.34411","12.32508","Säulen-Eiche 'Fastigiata Koster'","Quercus robur 'Fastigiata Koster'","Quercus","Paul-Küstner-Straße",2024,2,"Altlindenau","133933",75,290,5
+6907759,"51.32915","12.30826","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20512",80,460,8
+6915627,"51.3251","12.34428","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Könneritzstraße",2016,10,"Schleußig","39518",80,80,1
+6915493,"51.32282","12.33891","Kegel-Linde","Tilia flavescens 'Glenleven'","Tilia","Holbeinstraße",2017,9,"Schleußig","40510",110,110,1
+6977105,"51.32213","12.32093","Haus-Apfel 'Weißer Winter-Calville'","Malus domestica 'Weißer Winter-Calville'","Malus","Gleis-Grün-Zug Bahnhof Plagwitz",2025,1,"Plagwitz","G42203",55,55,1
+6902611,"51.347","12.39753","Zierkirsche","Prunus x schmittii","Prunus","Bussestraße",2008,18,"Neustadt-Neuschönefeld","9563",10,10,1
+6915683,"51.32002","12.33838","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Oeserstraße",2020,6,"Schleußig","40674",100,100,1
+6920148,"51.36307","12.37687","Feld-Ahorn ''Huibers Elegant'","Acer campestre 'Huibers Elegant'","Acer","Wilhelm-Sammet-Straße",2020,6,"Gohlis-Mitte","75904",5,13,3
+6924616,"51.32404","12.29382","Säulen-Tulpenbaum","Liriodendron tulipifera 'Fastigiatum'","Liriodendron","Weißdornstraße",2021,5,"Grünau-Ost","85564",100,100,1
+6921825,"51.33235","12.35324","Holländische Linde","Tilia x vulgaris","Tilia","Clara-Zetkin-Park (mit Scheibenholz)",2022,4,"Zentrum-West","37504",2,2,1
+6906493,"51.32918","12.30832","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20509",80,540,10
+6891022,"51.33372","12.39709","Gefülltblühende Rosskastanie","Aesculus hippocastanum 'Baumannii'","Aesculus","Johannisallee",2003,23,"Reudnitz-Thonberg","22376",40,40,1
+6912765,"51.30348","12.39362","Baumhasel","Corylus colurna","Corylus","Probstheidaer Straße",2011,15,"Marienbrunn","32894",20,20,1
+6922632,"51.34445","12.32449","Säulen-Eiche 'Fastigiata Koster'","Quercus robur 'Fastigiata Koster'","Quercus","Paul-Küstner-Straße",2024,2,"Altlindenau","133936",50,100,3
+6907753,"51.3293","12.30833","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20495",80,460,8
+6907326,"51.33058","12.30495","Vogel-Kirsche","Prunus avium","Prunus","Lindenauer Hafen",2014,12,"Schönau","G20567",80,140,2
+6907316,"51.33008","12.3058","Vogel-Kirsche","Prunus avium","Prunus","Lindenauer Hafen",2014,12,"Schönau","G20546",80,340,5
+6963349,"51.35653","12.45602","Baumhasel","Corylus colurna","Corylus","Goldsternstraße 023, 025 und Hainbuchenstraße 013 (011297)",NULL,NULL,"Paunsdorf","115074",21,21,1
+6907321,"51.33045","12.30531","Winter-Linde","Tilia cordata","Tilia","Lindenauer Hafen",2014,12,"Schönau","G20560",13,26,2
+6879023,"51.33606","12.40605","Säulen-Ahorn","Acer platanoides 'Columnare'","Acer","Kippenbergstraße",2000,26,"Reudnitz-Thonberg","21960",10,10,1
+6920782,"51.35322","12.36806","Feld-Ahorn","Acer campestre","Acer","Kickerlingsberg/Springerstraße",2022,4,"Zentrum-Nordwest","G2019",10,10,1
+6910079,"51.32967","12.3065","Eingriffliger Weißdorn","Crataegus monogyna","Crataegus","Lindenauer Hafen",2014,12,"Schönau","G20537",80,320,5
+6919668,"51.32266","12.32135","Walnuss","Juglans regia","Juglans","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42211",100,296,5
+6966225,"51.30732","12.41249","Schwarz-Kiefer","Pinus nigra","Pinus","Südfriedhof",NULL,NULL,"Probstheida","139010",10,120,12
+6915495,"51.3226","12.33883","Kegel-Linde","Tilia flavescens 'Glenleven'","Tilia","Holbeinstraße",2017,9,"Schleußig","40513",40,100,3
+6883644,"51.33484","12.35714","Chinesische Wildbirne 'Chanticleer'","Pyrus calleryana 'Chanticleer'","Pyrus","Sebastian-Bach-Straße",1998,28,"Zentrum-West","38611",40,220,6
+6911099,"51.34839","12.40147","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Schulze-Delitzsch-Straße",2014,12,"Neustadt-Neuschönefeld","8060",70,300,8
+6925185,"51.32391","12.2924","Ess-Kastanie","Castanea sativa","Castanea","Parkplatz 6104",2021,5,"Grünau-Ost","53307",150,150,1
+6916215,"51.3448","12.31834","Sand-Birke","Betula pendula","Betula","Spielplatz zwischen Georg-Schwarz-Straße und Pufendorfstraße (B-Plan 69.3 ""Rosenmüllerstraße"")",2017,9,"Leutzsch","G43665",40,40,1
+6985179,"51.30734","12.4125","Rhododendron","Rhododendron species","Rhododendron","Südfriedhof",NULL,NULL,"Probstheida","168650",20,40,2
+6889467,"51.31408","12.42189","Kaiser-Linde","Tilia x vulgaris 'Pallida'","Tilia","Naunhofer Straße",2005,21,"Stötteritz","24429",30,50,3
+6918926,"51.31394","12.42227","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Kommandant-Prendel-Allee",2016,10,"Stötteritz","26003",30,30,1
+6916594,"51.31196","12.28375","Platane","Platanus x acerifolia","Platanus","Ratzelstraße",2019,7,"Grünau-Siedlung","76232",150,650,6
+6910105,"51.33025","12.30464","Trauben-Kirsche","Prunus padus","Prunus","Lindenauer Hafen",2014,12,"Schönau","G20620",13,26,2
+6915133,"51.38875","12.32506","Zierkirsche","Prunus x schmittii","Prunus","Sandweg",2020,6,"Lindenthal","62134",150,150,1
+6918250,"51.32705","12.27434","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76319",100,500,5
+6922629,"51.34394","12.32537","Säulen-Eiche 'Fastigiata Koster'","Quercus robur 'Fastigiata Koster'","Quercus","Paul-Küstner-Straße",2024,2,"Altlindenau","133932",75,290,5
+6907756,"51.32917","12.30868","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20501",80,500,8
+6918945,"51.34738","12.39781","Säulen-Hainbuche 'Frans Fontaine'","Carpinus betulus 'Frans Fontaine'","Carpinus","Mariannenstraße",2020,6,"Neustadt-Neuschönefeld","8211",70,120,6
+6906482,"51.32937","12.30844","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20493",80,460,8
+6922888,"51.32106","12.27647","Zerr-Eiche","Quercus cerris","Quercus","Kiewer Straße",2021,5,"Grünau-Nord","47485",150,450,3
+6865210,"51.32977","12.40483","Kegelförmiger Spitz-Ahorn","Acer platanoides 'Emerald Queen'","Acer","Riebeckstraße",1996,30,"Reudnitz-Thonberg","22052",30,98,4
+6909137,"51.33442","12.32864","Kugel-Spitz-Ahorn","Acer platanoides 'Globosum'","Acer","Henriettenpark",2015,11,"Lindenau","G1318",50,80,2
+6890186,"51.38868","12.32503","Zierkirsche","Prunus x schmittii","Prunus","Sandweg",2003,23,"Lindenthal","62135",150,150,1
+6915700,"51.34388","12.36772","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Ranstädter Steinweg",2020,6,"Zentrum-Nordwest","445",100,100,1
+6919497,"51.33596","12.36123","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Hillerstraße",2018,8,"Zentrum-West","75684",100,270,3
+6925962,"51.32122","12.27636","Zerr-Eiche","Quercus cerris","Quercus","Kiewer Straße",2021,5,"Grünau-Nord","47487",150,450,3
+6918358,"51.35962","12.41348","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Leostraße",2019,7,"Schönefeld-Abtnaundorf","10129",60,60,1
+6916146,"51.32279","12.32112","Haus-Apfel 'Cox Orange'","Malus domestica 'Cox Orange'","Malus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42214",100,346,5
+6915488,"51.32051","12.33815","Kegel-Linde","Tilia flavescens 'Glenleven'","Tilia","Holbeinstraße",2017,9,"Schleußig","40479",70,100,2
+6920144,"51.36255","12.37803","Feld-Ahorn ''Huibers Elegant'","Acer campestre 'Huibers Elegant'","Acer","Wilhelm-Sammet-Straße",2020,6,"Gohlis-Mitte","58648",10,10,1
+6921346,"51.3241","12.29349","Ess-Kastanie","Castanea sativa","Castanea","Parkplatz 6104",2021,5,"Grünau-Ost","53310",150,150,1
+6922886,"51.32038","12.27689","Zerr-Eiche","Quercus cerris","Quercus","Kiewer Straße",2021,5,"Grünau-Nord","47459",150,450,3
+6917206,"51.34682","12.31187","Säulen-Eiche","Quercus robur 'Fastigiata'","Quercus","Benediktusstraße",2020,6,"Leutzsch","76993",80,290,5
+6907318,"51.33019","12.30562","Eingriffliger Weißdorn","Crataegus monogyna","Crataegus","Lindenauer Hafen",2014,12,"Schönau","G20556",80,260,4
+6916597,"51.31126","12.28024","Platane","Platanus x acerifolia","Platanus","Ratzelstraße",2019,7,"Grünau-Siedlung","76238",100,600,6
+6879038,"51.34729","12.39778","Säulen-Hainbuche 'Frans Fontaine'","Carpinus betulus 'Frans Fontaine'","Carpinus","Mariannenstraße",1999,27,"Neustadt-Neuschönefeld","8205",10,30,3
+6924534,"51.341","12.41302","Säulen-Eiche 'Fastigiata Koster'","Quercus robur 'Fastigiata Koster'","Quercus","Bernhardstraße",2021,5,"Anger-Crottendorf","84356",30,30,1
+6906483,"51.32932","12.30846","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20497",80,460,8
+6916375,"51.33908","12.39843","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Crusiusstraße",2018,8,"Reudnitz-Thonberg","21825",100,670,9
+6985125,"51.30742","12.41248","Rhododendron","Rhododendron species","Rhododendron","Südfriedhof",NULL,NULL,"Probstheida","168596",20,260,17
+6919657,"51.32156","12.32097","Echte Quitte","Cydonia oblonga","Cydonia","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42188",80,90,2
+6916143,"51.32252","12.32126","Essbare Eberesche","Sorbus aucuparia 'Edulis'","Sorbus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42207",100,346,5
+6923389,"51.30335","12.39218","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Probstheidaer Straße",2021,5,"Marienbrunn","71055",35,70,4
+6925711,"51.34454","12.32433","Säulen-Eiche 'Fastigiata Koster'","Quercus robur 'Fastigiata Koster'","Quercus","Paul-Küstner-Straße",2024,2,"Altlindenau","133937",50,100,3
+6893390,"51.34782","12.39923","Chinesische Wildbirne 'Chanticleer'","Pyrus calleryana 'Chanticleer'","Pyrus","Meißner Straße",2002,24,"Neustadt-Neuschönefeld","8108",40,40,1
+6985124,"51.30742","12.41245","Rhododendron","Rhododendron species","Rhododendron","Südfriedhof",NULL,NULL,"Probstheida","168595",20,240,16
+6913607,"51.31939","12.33503","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Antonienstraße",2014,12,"Plagwitz","39346",100,100,1
+6984253,"51.321442400000002","12.320929599999999",NULL,NULL,NULL,NULL,2016,10,"Plagwitz","osm_6058038300",10,10,1
+6921376,"51.32437","12.29367","Säulen-Tulpenbaum","Liriodendron tulipifera 'Fastigiatum'","Liriodendron","Weißdornstraße",2021,5,"Grünau-Ost","85560",150,150,1
+6907306,"51.32919","12.30731","Eingriffliger Weißdorn","Crataegus monogyna","Crataegus","Lindenauer Hafen",2014,12,"Schönau","G20525",80,340,5
+6911218,"51.37038","12.40844","Winter-Linde 'Roelvo'","Tilia cordata 'Roelvo'","Tilia","Gontardweg",2013,13,"Mockau-Süd","2113",40,40,1
+6985481,"51.30733","12.4128","Rhododendron","Rhododendron species","Rhododendron","Südfriedhof",NULL,NULL,"Probstheida","168749",20,220,15
+6917695,"51.3455","12.40754","Säulen-Hainbuche 'Frans Fontaine'","Carpinus betulus 'Frans Fontaine'","Carpinus","Eisenbahnstraße",2020,6,"Volkmarsdorf","8826",83,83,1
+6907755,"51.32924","12.30868","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20499",80,500,8
+6918264,"51.32726","12.27672","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76333",100,300,3
+6919658,"51.3214","12.3209","Speierling","Sorbus domestica","Sorbus","Gleis-Grün-Zug Bahnhof Plagwitz",2020,6,"Plagwitz","G42189",10,10,1
+6919660,"51.32162","12.32085","Haus-Apfel  'Weißer Winter-Calville'","Malus domestica 'Weißer Winter-Calville'","Malus","Gleis-Grün-Zug Bahnhof Plagwitz",2020,6,"Plagwitz","G42191",100,580,8
+6924303,"51.31725","12.40541","Ulme 'New Horizon'","Ulmus 'New Horizon'","Ulmus","Wilhelm-Külz-Park",2021,5,"Probstheida","G10952",60,100,2
+6918254,"51.32708","12.27502","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76323",100,500,5
+6912683,"51.33062","12.30634","Sumpf-Eiche","Quercus palustris","Quercus","Hafenstraße",2014,12,"Schönau","74422",80,870,12
+6926068,"51.33253","12.32404","Schmalkronige Mehlbeere","Sorbus intermedia 'Brouwers'","Sorbus","Jordanstraße",2026,0,"Lindenau","148198",45,45,1
+6906480,"51.32939","12.30849","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20491",80,440,7
+6918946,"51.34741","12.39776","Säulen-Hainbuche 'Frans Fontaine'","Carpinus betulus 'Frans Fontaine'","Carpinus","Mariannenstraße",2020,6,"Neustadt-Neuschönefeld","8216",30,60,4
+6900933,"51.32174","12.36579","Thüringische Säulen-Eberesche","Sorbus x thuringiaca 'Fastigiata'","Sorbus","Fockestraße",2006,20,"Südvorstadt","41483",10,10,1
+6918966,"51.33281","12.40652","Kegelförmiger Spitz-Ahorn","Acer platanoides 'Emerald Queen'","Acer","Riebeckstraße",2020,6,"Reudnitz-Thonberg","22123",100,355,6
+6919975,"51.36548","12.3751","Spitz-Ahorn 'Allershausen'","Acer platanoides 'Allershausen'","Acer","Daumierstraße",2019,7,"Gohlis-Mitte","76291",40,100,3
+6906486,"51.32925","12.30824","Vogel-Kirsche","Prunus avium","Prunus","Lindenauer Hafen",2015,11,"Schönau","G20506",80,380,6
+6918968,"51.34733","12.39738","Robinie 'Sandraudiga'","Robinia pseudoacacia 'Sandraudiga'","Robinia","Rosa-Luxemburg-Straße",2018,8,"Neustadt-Neuschönefeld","9170",45,159,7
+6990713,"51.368692730930235","12.406484115828533",NULL,NULL,NULL,"Mockauer Straße",2026,0,"Mockau-Süd","osm_friedi_parklet",20,103,9
+6911221,"51.36902","12.4068","Chinesische Wildbirne 'Chanticleer'","Pyrus calleryana 'Chanticleer'","Pyrus","Mockauer Straße",2013,13,"Mockau-Süd","10295",50,110,3
+6920155,"51.36316","12.37659","Feld-Ahorn ''Huibers Elegant'","Acer campestre 'Huibers Elegant'","Acer","Wilhelm-Sammet-Straße",2020,6,"Gohlis-Mitte","77013",8,40,7
+6916593,"51.31199","12.28393","Platane","Platanus x acerifolia","Platanus","Ratzelstraße",2019,7,"Grünau-Siedlung","76231",150,650,6
+6922227,"51.33494","12.35732","Säulen-Eiche","Quercus robur 'Fastigiata'","Quercus","Sebastian-Bach-Straße",2023,3,"Zentrum-West","38610",40,200,6
+6913606,"51.31932","12.33566","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Antonienstraße",2014,12,"Plagwitz","39341",100,100,1
+6912300,"51.34179","12.40597","Kaiser-Linde","Tilia x vulgaris 'Pallida'","Tilia","Hermann-Liebmann-Straße",2011,15,"Neustadt-Neuschönefeld","9042",40,720,18
+6917359,"51.33388","12.33577","Amberbaum","Liquidambar styraciflua","Liquidambar","Siemeringstraße",2017,9,"Lindenau","75083",60,180,3
+6882790,"51.33951","12.48186","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Opalstraße",2000,26,"Engelsdorf","19851",20,80,5
+6919663,"51.32177","12.32103","Haus-Pflaume 'Ontariopflaume'","Prunus domestica 'Ontariopflaume'","Prunus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42195",100,440,6
+6920675,"51.3393","12.48356","Zerr-Eiche","Quercus cerris","Quercus","Wohngebiet ""Am Gaswerksweg"" 1. BA (B-Plan E-161.1 Wohngebiet ""Am Gaswerksweg I. BA"")",2021,5,"Engelsdorf","79637",32,96,4
+6925377,"51.32471","12.3421","Gleditschie 'Skyline'","Gleditsia triacanthos 'Skyline'","Gleditsia","Brockhausstraße",2024,2,"Schleußig","40841",15,15,1
+6916344,"51.31135","12.28061","Platane","Platanus x acerifolia","Platanus","Ratzelstraße",2019,7,"Grünau-Siedlung","76236",100,600,6
+6907305,"51.32917","12.30735","Eingriffliger Weißdorn","Crataegus monogyna","Crataegus","Lindenauer Hafen",2014,12,"Schönau","G20519",80,340,5
+6990714,"51.37057706788852","12.408348512344986",NULL,NULL,NULL,"Gontardweg",2026,0,"Mockau-Süd","osm_hefespitze_parklet",20,73,6
+6924934,"51.35522","12.26475","Trauben-Eiche","Quercus petraea","Quercus","Parkplatz 7501",2021,5,"Burghausen-Rückmarsdorf","74290",50,400,9
+6919666,"51.32266","12.32154","Walnuss","Juglans regia","Juglans","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42209",100,416,6
+6911506,"51.33105","12.31749","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Lützner Straße",2014,12,"Neulindenau","74479",60,60,1
+6915444,"51.32446","12.34181","Straßen-Robinie","Robinia pseudoacacia 'Monophylla'","Robinia","Brockhausstraße",2019,7,"Schleußig","40845",40,160,5
+6906848,"51.33141","12.37382","Platane","Platanus x acerifolia","Platanus","Karl-Liebknecht-Straße",2015,11,"Zentrum-Süd","34274",80,120,2
+6907751,"51.32942","12.30856","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20490",80,460,7
+6916264,"51.29814","12.40555","Silber-Linde","Tilia tomentosa","Tilia","Park Lößnig/Dölitz, Erholungspark",2020,6,"Lößnig","G34316",90,150,2
+6942854,"51.35644","12.4563","Linde","Tilia species","Tilia","Goldsternstraße 023, 025 und Hainbuchenstraße 013 (011297)",NULL,NULL,"Paunsdorf","115066",14,14,1
+6916701,"51.34752","12.39789","Robinie 'Sandraudiga'","Robinia pseudoacacia 'Sandraudiga'","Robinia","Rosa-Luxemburg-Straße",2018,8,"Neustadt-Neuschönefeld","9174",10,30,3
+6907315,"51.33004","12.30586","Vogel-Kirsche","Prunus avium","Prunus","Lindenauer Hafen",2014,12,"Schönau","G20544",90,440,5
+6907752,"51.32934","12.30838","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20494",80,460,8
+6906481,"51.32934","12.30854","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20492",80,400,7
+6922895,"51.32054","12.27678","Zerr-Eiche","Quercus cerris","Quercus","Kiewer Straße",2021,5,"Grünau-Nord","85429",150,450,3
+6906501,"51.3295","12.3083","Winter-Linde","Tilia cordata","Tilia","Lindenauer Hafen",2015,11,"Schönau","G20520",60,280,5
+6915673,"51.3459","12.36959","Trauben-Eiche","Quercus petraea","Quercus","Lortzingstraße",2017,9,"Zentrum-Nordwest","75183",12,60,9
+6915443,"51.3249","12.34226","Straßen-Robinie","Robinia pseudoacacia 'Monophylla'","Robinia","Brockhausstraße",2018,8,"Schleußig","40839",30,30,1
+6876360,"51.26832","12.29313","Rotblühende Rosskastanie 'Briotii'","Aesculus x carnea 'Briotii'","Aesculus","Am Klucksgraben",1999,27,"Knautkleeberg-Knauthain","51674",60,120,2
+6916342,"51.31192","12.28358","Platane","Platanus x acerifolia","Platanus","Ratzelstraße",2019,7,"Grünau-Siedlung","76233",150,650,6
+6911219,"51.37036","12.4082","Winter-Linde 'Roelvo'","Tilia cordata 'Roelvo'","Tilia","Gontardweg",2013,13,"Mockau-Süd","2116",50,90,2
+6925401,"51.34735","12.39795","Sorte Gemeiner Fliede","Syringa vulgaris 'Mme Florentine Stepman'","Syringa","Mariannenstraße",2023,3,"Neustadt-Neuschönefeld","8212",10,40,4
+6914219,"51.3578","12.35844","Sand-Birke","Betula pendula","Betula","Schillerhain",2016,10,"Gohlis-Süd","G38658",20,20,1
+6921270,"51.31862","12.32316","Säulen-Ulme","Ulmus 'Columella'","Ulmus","Rolf-Axen-Straße",2021,5,"Kleinzschocher","76569",40,170,5
+6916137,"51.32216","12.32118","Kirsche","Prunus species","Prunus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42186",100,410,5
+6911370,"51.30323","12.39239","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Probstheidaer Straße",2015,11,"Lößnig","32847",70,70,1
+6998735,"51.30345","12.3933","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Probstheidaer Straße",2026,0,"Marienbrunn","32890",15,40,3
+6918969,"51.34735","12.39746","Robinie 'Sandraudiga'","Robinia pseudoacacia 'Sandraudiga'","Robinia","Rosa-Luxemburg-Straße",2018,8,"Neustadt-Neuschönefeld","9171",50,90,5
+6913604,"51.31927","12.33607","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Antonienstraße",2014,12,"Plagwitz","39336",100,100,1
+6919367,"51.35389","12.46176","Rot-Esche Summit","Fraxinus pennsylvanica 'Summit'","Fraxinus","Schlehenweg",2020,6,"Paunsdorf","50369",90,1080,51
+6985788,"51.35532","12.26483","Scharlach-Eiche","Quercus coccinea","Quercus","Parkplatz 7501",2025,1,"Burghausen-Rückmarsdorf","168908",40,300,8
+6916133,"51.32219","12.32142","Süßkirsche 'Hedelfinger Riesenkirsche'","Prunus avium 'Hedelfinger Riesenkirsche'","Prunus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42181",100,466,6
+6984233,"51.2848","12.3365167","Gemeine Esche","Fraxinus excelsior","Fraxinus","Lauerscher Weg",2024,2,"Großzschocher","osm_cossi_2",80,80,1
+6990593,"51.32912","12.30829","Südlicher Zürgelbaum","Celtis australis","Celtis","Lindenauer Hafen",2026,0,"Schönau","G20511",80,420,7
+6922887,"51.32046","12.27683","Zerr-Eiche","Quercus cerris","Quercus","Kiewer Straße",2021,5,"Grünau-Nord","47460",150,450,3
+6921748,"51.34387","12.31872","Säulen-Tulpenbaum","Liriodendron tulipifera 'Fastigiatum'","Liriodendron","Pufendorfstraße",2021,5,"Leutzsch","77004",60,295,10
+6922889,"51.32114","12.27642","Zerr-Eiche","Quercus cerris","Quercus","Kiewer Straße",2021,5,"Grünau-Nord","47486",150,450,3
+6916266,"51.29884","12.40631","Hopfenbuche","Ostrya carpinifolia","Ostrya","Park Lößnig/Dölitz, Erholungspark",2018,8,"Lößnig","G34361",60,120,2
+6916149,"51.32292","12.32117","Haus-Apfel  'Roter Eiserapfel'","Malus domestica 'Roter Eiserapfel'","Malus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42216",100,306,5
+6984225,"51.322354","12.371113","Kirsche","Prunus species","Prunus","Alfred-Kästner-Str.",2022,4,"Südvorstadt","osm_kaestner_kirsche_21",20,30,2
+6919667,"51.32258","12.32147","Walnuss","Juglans regia","Juglans","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42210",80,301,5
+6918256,"51.32711","12.27537","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76325",100,500,5
+6995643,"51.31978","12.3701","Dreispitz-Ahorn","Acer buergerianum","Acer","Scharnhorststraße",2026,0,"Südvorstadt","174689",50,200,4
+6907754,"51.3293","12.3084","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20496",80,460,8
+6889793,"51.34902","12.42608","Rotbuche","Fagus sylvatica","Fagus","Louis-Fürnberg-Straße 002 (002788)",2005,21,"Sellerhausen-Stünz","112965",15,15,1
+6918606,"51.36077","12.39188","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Dessauer Straße",2016,10,"Eutritzsch","3415",30,629,31
+6919000,"51.32181","12.41582","Apfel-Dorn","Crataegus x lavallei","Crataegus","Weißestraße",2016,10,"Stötteritz","25341",60,1021,21
+6917798,"51.35293","12.4146","Feld-Ahorn 'Elsrijk'","Acer campestre 'Elsrijk'","Acer","Kohlweg",2016,10,"Schönefeld-Abtnaundorf","74792",50,50,1
+6916151,"51.32278","12.32134","Feld-Ahorn","Acer campestre","Acer","Gleis-Grün-Zug Bahnhof Plagwitz",2020,6,"Plagwitz","G47636",80,276,5
+6912685,"51.3305","12.30653","Sumpf-Eiche","Quercus palustris","Quercus","Hafenstraße",2014,12,"Schönau","74424",80,480,11
+6915439,"51.3213","12.3396","Straßen-Robinie","Robinia pseudoacacia 'Monophylla'","Robinia","Brockhausstraße",2018,8,"Schleußig","40729",70,70,1
+6984234,"51.28485","12.3364","Gemeine Esche","Fraxinus excelsior","Fraxinus","Lauerscher Weg",2024,2,"Großzschocher","osm_cossi_3",80,80,1
+6906478,"51.32933","12.30871","Vogel-Kirsche","Prunus avium","Prunus","Lindenauer Hafen",2015,11,"Schönau","G20487",80,460,7
+6917462,"51.3268","12.37204","Säulen-Eiche 'Fastigiata Koster'","Quercus robur 'Fastigiata Koster'","Quercus","Braustraße",2016,10,"Zentrum-Süd","74853",90,90,1
+6906490,"51.32921","12.30836","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20507",80,520,9
+6879039,"51.34728","12.39794","Säulen-Hainbuche 'Frans Fontaine'","Carpinus betulus 'Frans Fontaine'","Carpinus","Mariannenstraße",1999,27,"Neustadt-Neuschönefeld","8206",10,31,4
+6921345,"51.32392","12.29256","Ess-Kastanie","Castanea sativa","Castanea","Parkplatz 6104",2021,5,"Grünau-Ost","53309",150,150,1
+6926241,"51.37079","12.40832","Woll-Apfel","Malus tschonoskii","Malus","Mockauer Straße",2021,5,"Mockau-Süd","10340",40,195,12
+6922631,"51.34433","12.32469","Säulen-Eiche 'Fastigiata Koster'","Quercus robur 'Fastigiata Koster'","Quercus","Paul-Küstner-Straße",2024,2,"Altlindenau","133935",75,225,4
+6984232,"51.2849167","12.33665","Gemeine Esche","Fraxinus excelsior","Fraxinus","Lauerscher Weg",2024,2,"Großzschocher","osm_cossi_1
+",80,80,1
+6915137,"51.38864","12.32512","Zierkirsche","Prunus x schmittii","Prunus","Sandweg",2020,6,"Lindenthal","62151",150,150,1
+6925569,"51.36452","12.3653","Hopfenbuche","Ostrya carpinifolia","Ostrya","Cöthner Straße",2023,3,"Gohlis-Süd","88605",100,730,13
+6924938,"51.34382","12.31888","Säulen-Tulpenbaum","Liriodendron tulipifera 'Fastigiatum'","Liriodendron","Pufendorfstraße",2021,5,"Leutzsch","77003",100,304,9
+6906484,"51.32929","12.30855","Vogel-Kirsche","Prunus avium","Prunus","Lindenauer Hafen",2015,11,"Schönau","G20498",80,460,8
+6910075,"51.32929","12.30714","Speierling","Sorbus domestica","Sorbus","Lindenauer Hafen",2014,12,"Schönau","G20528",60,60,1
+6915663,"51.3278","12.34595","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Könneritzstraße",2016,10,"Schleußig","39601",32,127,7
+6934038,"51.33559","12.36661","Götterbaum","Ailanthus altissima","Ailanthus","Johannapark",1920,106,"Zentrum-West","G4009",17,27,2
+6909881,"51.32584","12.27633","Nelken-Kirsche","Prunus serrulata 'Kanzan'","Prunus","Mühlhäuser Ring",2014,12,"Schönau","74225",40,200,7
+6914760,"51.35853","12.41785","Linde","Tilia species","Tilia","Gorkistraße 025 (016951)",2018,8,"Schönefeld-Ost","117993",50,55,2
+6916343,"51.31189","12.2834","Platane","Platanus x acerifolia","Platanus","Ratzelstraße",2019,7,"Grünau-Siedlung","76234",150,650,6
+6916586,"51.31303","12.28929","Platane","Platanus x acerifolia","Platanus","Ratzelstraße",2019,7,"Grünau-Siedlung","76222",100,100,1
+6920145,"51.36282","12.37753","Feld-Ahorn ''Huibers Elegant'","Acer campestre 'Huibers Elegant'","Acer","Wilhelm-Sammet-Straße",2020,6,"Gohlis-Mitte","58666",4,4,1
+6916595,"51.31185","12.28322","Platane","Platanus x acerifolia","Platanus","Ratzelstraße",2019,7,"Grünau-Siedlung","76235",150,650,6
+6915485,"51.32216","12.33865","Kegel-Linde","Tilia flavescens 'Glenleven'","Tilia","Holbeinstraße",2017,9,"Schleußig","40456",76,286,5
+6926010,"51.34011","12.36779","Säulen-Magnolie","Magnolia kobus 'Isis'","Magnolia","Thomasiusstraße",2024,2,"Zentrum-West","146839",80,160,2
+6918247,"51.32702","12.27384","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76316",100,500,5
+6907319,"51.33026","12.3055","Vogel-Kirsche","Prunus avium","Prunus","Lindenauer Hafen",2014,12,"Schönau","G20557",80,200,3
+6913831,"51.32911","12.30861","Vogel-Kirsche","Prunus avium","Prunus","Lindenauer Hafen",2020,6,"Schönau","G20505",80,560,8
+6985480,"51.30734","12.41274","Rhododendron","Rhododendron species","Rhododendron","Südfriedhof",NULL,NULL,"Probstheida","168748",30,270,16
+6916136,"51.3222","12.32133","Süßkirsche 'Burlat'","Prunus avium 'Burlat'","Prunus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42184",100,466,6
+6870584,"51.32182","12.4162","Rotdorn","Crataegus laevigata 'Paul's Scarlet'","Crataegus","Weißestraße",2000,26,"Stötteritz","25337",7,14,2
+6907328,"51.33064","12.30485","Apfel-Dorn","Crataegus x lavallei","Crataegus","Lindenauer Hafen",2026,0,"Schönau","G20569",60,60,1
+6918252,"51.32706","12.27467","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76321",100,500,5
+6908450,"51.33543","12.36138","Holländische Linde","Tilia x vulgaris","Tilia","Johannapark",2011,15,"Zentrum-West","37729",80,90,2
+6985787,"51.35513","12.26482","Kobushi-Magnolie","Magnolia kobus","Magnolia","Parkplatz 7501",2025,1,"Burghausen-Rückmarsdorf","168907",40,80,2
+6924302,"51.31763","12.40584","Gemeine Esche","Fraxinus excelsior","Fraxinus","Wilhelm-Külz-Park",2021,5,"Probstheida","G10928",20,110,9
+6910087,"51.33011","12.30574","Eingriffliger Weißdorn","Crataegus monogyna","Crataegus","Lindenauer Hafen",2014,12,"Schönau","G20552",90,410,5
+6917367,"51.34658","12.31597","Säulen-Eiche 'Fastigiata Koster'","Quercus robur 'Fastigiata Koster'","Quercus","Weinbergstraße",2019,7,"Leutzsch","75863",50,200,7
+6918253,"51.32707","12.27486","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76322",100,500,5
+6890230,"51.33195","12.32993","Apfel-Dorn","Crataegus x lavallei","Crataegus","Aurelienstraße",2004,22,"Lindenau","44366",6,6,1
+6907308,"51.32926","12.3072","Vogel-Kirsche","Prunus avium","Prunus","Lindenauer Hafen",2014,12,"Schönau","G20527",80,330,5
+6925626,"51.3674","12.37858","Tulpenbaum","Liriodendron tulipifera","Liriodendron","Krokerstraße",2024,2,"Gohlis-Mitte","133820",40,70,2
+6910551,"51.32136","12.36897","Kaiser-Linde","Tilia x vulgaris 'Pallida'","Tilia","August-Bebel-Straße",2013,13,"Südvorstadt","41859",20,20,1
+6924614,"51.32414","12.29377","Säulen-Tulpenbaum","Liriodendron tulipifera 'Fastigiatum'","Liriodendron","Weißdornstraße",2021,5,"Grünau-Ost","85562",100,100,1
+6916144,"51.32267","12.3211","Haus-Apfel 'Rote Sternrenette'","Malus domestica 'Rote Sternrenette'","Malus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42212",100,346,5
+6919535,"51.33375","12.40203","Späte Trauben-Kirsche","Prunus serotina","Prunus","Lene-Voigt-Park",2020,6,"Reudnitz-Thonberg","G6831",20,442,51
+6917252,"51.34157","12.3368","Blumen-Esche","Fraxinus ornus","Fraxinus","Erich-Köhn-Straße",2019,7,"Altlindenau","54978",30,665,29
+6984231,"51.321391200000001","12.320893699999999",NULL,NULL,NULL,NULL,2016,10,"Plagwitz","osm_6058038301",80,100,3
+6919510,"51.33467","12.35662","Säulen-Eiche","Quercus robur 'Fastigiata'","Quercus","Sebastian-Bach-Straße",2018,8,"Zentrum-West","75756",100,100,1
+6907757,"51.3292","12.30863","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20502",80,440,7
+6916378,"51.33916","12.3989","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Dresdner Straße",2018,8,"Reudnitz-Thonberg","5938",100,214,3
+6963351,"51.35641","12.45592","Baumhasel","Corylus colurna","Corylus","Goldsternstraße 023, 025 und Hainbuchenstraße 013 (011297)",NULL,NULL,"Paunsdorf","115077",30,30,1
+6920147,"51.36298","12.37713","Feld-Ahorn ''Huibers Elegant'","Acer campestre 'Huibers Elegant'","Acer","Wilhelm-Sammet-Straße",2020,6,"Gohlis-Mitte","58668",5,9,2
+6910092,"51.33051","12.30508","Eingriffliger Weißdorn","Crataegus monogyna","Crataegus","Lindenauer Hafen",2014,12,"Schönau","G20563",80,140,2
+6910078,"51.32964","12.30654","Eingriffliger Weißdorn","Crataegus monogyna","Crataegus","Lindenauer Hafen",2014,12,"Schönau","G20536",80,320,5
+6906479,"51.32938","12.30861","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20488",80,380,6
+6906485,"51.32918","12.30858","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20503",80,500,8
+6918992,"51.33409","12.39638","Brabanter Silber-Linde","Tilia tomentosa 'Brabant'","Tilia","Teubnerstraße",2019,7,"Reudnitz-Thonberg","75088",100,285,5
+6907307,"51.32922","12.30726","Eingriffliger Weißdorn","Crataegus monogyna","Crataegus","Lindenauer Hafen",2014,12,"Schönau","G20526",80,340,5
+6918255,"51.3271","12.27518","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76324",100,500,5
+6916684,"51.34499","12.40005","Gefülltblühende Rosskastanie","Aesculus hippocastanum 'Baumannii'","Aesculus","Lorenzstraße",2018,8,"Neustadt-Neuschönefeld","41589",80,560,12
+6920674,"51.33936","12.48364","Gleditschie 'Skyline'","Gleditsia triacanthos 'Skyline'","Gleditsia","Wohngebiet ""Am Gaswerksweg"" 1. BA (B-Plan E-161.1 Wohngebiet ""Am Gaswerksweg I. BA"")",2021,5,"Engelsdorf","79636",10,10,1
+6920170,"51.34506","12.36658","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Gustav-Adolf-Straße",2018,8,"Zentrum-Nordwest","75536",50,50,1
+6921130,"51.34175","12.35714","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Jahnallee",2021,5,"Zentrum-West","35879",16,56,6
+6918920,"51.31402","12.42212","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Kommandant-Prendel-Allee",2018,8,"Stötteritz","25991",45,275,11
+6907302,"51.32896","12.30771","Speierling","Sorbus domestica","Sorbus","Lindenauer Hafen",2014,12,"Schönau","G20516",80,400,6
+6907303,"51.329","12.30764","Speierling","Sorbus domestica","Sorbus","Lindenauer Hafen",2014,12,"Schönau","G20517",80,400,6
+6919614,"51.30948","12.42512","Trauben-Eiche","Quercus petraea","Quercus","Park der Freundschaft (Etzoldsche Sandgrube)",2020,6,"Probstheida","G53209",30,30,1
+6916376,"51.33895","12.39839","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Crusiusstraße",2018,8,"Reudnitz-Thonberg","21827",100,670,8
+6912768,"51.30352","12.39425","Baumhasel","Corylus colurna","Corylus","Probstheidaer Straße",2011,15,"Marienbrunn","32902",20,20,1
+6924615,"51.32409","12.2938","Säulen-Tulpenbaum","Liriodendron tulipifera 'Fastigiatum'","Liriodendron","Weißdornstraße",2021,5,"Grünau-Ost","85563",100,100,1
+6911433,"51.32338","12.32338","Feld-Ahorn","Acer campestre","Acer","Weg 5202",2013,13,"Plagwitz","73663",60,60,1
+6912003,"51.36125","12.38368","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Wilhelminenstraße",2013,13,"Eutritzsch","4042",10,70,7
+6917256,"51.31994","12.33462","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Erich-Zeigner-Allee",2017,9,"Plagwitz","40042",100,100,1
+6896774,"51.31181","12.41845","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Kommandant-Prendel-Allee",2025,1,"Stötteritz","25893",10,10,1
+6907180,"51.33859","12.39861","Rotdorn","Crataegus laevigata 'Paul's Scarlet'","Crataegus","Stephaniplatz",2013,13,"Reudnitz-Thonberg","G1840",100,280,3
+6910090,"51.33016","12.30566","Eingriffliger Weißdorn","Crataegus monogyna","Crataegus","Lindenauer Hafen",2014,12,"Schönau","G20555",90,320,4
+6925757,"51.34369","12.3255","Winter-Linde 'Rancho'","Tilia cordata 'Rancho'","Tilia","Hempelstraße",2023,3,"Altlindenau","132662",65,215,4
+6907750,"51.32943","12.30862","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20489",80,460,7
+6918260,"51.32718","12.27603","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76329",100,400,4
+6921186,"51.3249","12.32258","Bienenbaum","Tetradium daniellii","Tetradium","Gleis-Grün-Zug Bahnhof Plagwitz",2022,4,"Plagwitz","136768",45,135,3
+6916663,"51.34684","12.39751","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Bussestraße",2020,6,"Neustadt-Neuschönefeld","77070",30,50,2
+6917244,"51.34158","12.33701","Blumen-Esche","Fraxinus ornus","Fraxinus","Erich-Köhn-Straße",2019,7,"Altlindenau","54959",30,430,24
+6908493,"51.35862","12.41784","Linde","Tilia species","Tilia","Gorkistraße 025 (016951)",2015,11,"Schönefeld-Ost","117994",60,60,1
+6827581,"51.3341","12.39777","Rosskastanie","Aesculus hippocastanum","Aesculus","Eilenburger Straße",1970,56,"Reudnitz-Thonberg","22422",50,120,3
+6912303,"51.34217","12.40584","Nelken-Kirsche","Prunus serrulata 'Kanzan'","Prunus","Hermann-Liebmann-Straße",2011,15,"Neustadt-Neuschönefeld","71315",40,720,18
+6910737,"51.34176","12.40588","Amberbaum","Liquidambar styraciflua","Liquidambar","Hermann-Liebmann-Straße",2011,15,"Neustadt-Neuschönefeld","9046",40,680,17
+6916213,"51.34471","12.31821","Berg-Ahorn","Acer pseudoplatanus","Acer","Spielplatz zwischen Georg-Schwarz-Straße und Pufendorfstraße (B-Plan 69.3 ""Rosenmüllerstraße"")",2017,9,"Leutzsch","G43661",40,140,5
+6914034,"51.33568","12.29969","Gleditschie","Gleditsia triacanthos","Gleditsia","Lindenauer Hafen-Nord, Grün-/Wegeverbindung von Hafentor bis Lyoner Straße (B-Plan 359 ""Lindenauer H",2019,7,"Schönau","G53724",27,49,2
+6908664,"51.33565","12.36178","Holländische Linde","Tilia x vulgaris","Tilia","Johannapark",2013,13,"Zentrum-West","37770",80,100,2
+6911427,"51.32324","12.32458","Hainbuche","Carpinus betulus","Carpinus","Weg 5202",2013,13,"Plagwitz","73657",60,70,2
+6913156,"51.35436","12.4146","Feld-Ahorn 'Elsrijk'","Acer campestre 'Elsrijk'","Acer","Kohlweg",2013,13,"Schönefeld-Abtnaundorf","11446",20,40,2
+6918261,"51.3272","12.27619","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76330",100,400,4
+6920146,"51.36292","12.3773","Feld-Ahorn ''Huibers Elegant'","Acer campestre 'Huibers Elegant'","Acer","Wilhelm-Sammet-Straße",2020,6,"Gohlis-Mitte","58667",4,4,1
+6923261,"51.32986","12.41035","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Holsteinstraße",2021,5,"Reudnitz-Thonberg","20376",4,4,1
+6920084,"51.37035","12.36483","Spitz-Ahorn","Acer platanoides","Acer","Landsberger Straße",2017,9,"Gohlis-Mitte","60038",95,625,7
+6909879,"51.32588","12.2766","Nelken-Kirsche","Prunus serrulata 'Kanzan'","Prunus","Mühlhäuser Ring",2014,12,"Schönau","74223",80,440,7
+6923015,"51.3324","12.32425","Schmalkronige Mehlbeere","Sorbus intermedia 'Brouwers'","Sorbus","Jordanstraße",2026,0,"Lindenau","148197",30,30,1
+6908915,"51.33339","12.4044","Zerr-Eiche","Quercus cerris","Quercus","Lene-Voigt-Park",2015,11,"Reudnitz-Thonberg","G32616",4,4,1
+6821689,"51.33412","12.40238","Berg-Ahorn","Acer pseudoplatanus","Acer","Reichpietschstraße",1960,66,"Reudnitz-Thonberg","22206",10,143,18
+6923933,"51.33935","12.48369","Purpur-Erle","Alnus x spaethii","Alnus","Wohngebiet ""Am Gaswerksweg"" 1. BA (B-Plan E-161.1 Wohngebiet ""Am Gaswerksweg I. BA"")",2021,5,"Engelsdorf","79635",24,32,2
+6919664,"51.3218","12.32097","Haus-Pflaume 'Hauszwetschge'","Prunus domestica 'Hauszwetschge'","Prunus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42196",100,360,5
+6918258,"51.32714","12.27569","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76327",100,400,4
+6916698,"51.34729","12.3973","Robinie 'Sandraudiga'","Robinia pseudoacacia 'Sandraudiga'","Robinia","Rosa-Luxemburg-Straße",2018,8,"Neustadt-Neuschönefeld","9169",30,60,4
+6916590,"51.31286","12.28833","Platane","Platanus x acerifolia","Platanus","Ratzelstraße",2019,7,"Grünau-Siedlung","76227",100,100,1
+6901750,"51.36625","12.37956","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Coppistraße",2009,17,"Gohlis-Mitte","58929",20,40,2
+6893931,"51.32412","12.41574","Chinesische Wildbirne 'Chanticleer'","Pyrus calleryana 'Chanticleer'","Pyrus","Schwarzackerstraße",2001,25,"Stötteritz","26173",30,160,8
+6912418,"51.33398","12.32766","Trauben-Kirsche","Prunus padus","Prunus","Henriettenpark",2012,14,"Lindenau","G3533",60,180,3
+6916683,"51.31563","12.42507","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Kommandant-Prendel-Allee",2016,10,"Stötteritz","26027",60,90,2
+6921216,"51.29833","12.38561","Zerr-Eiche","Quercus cerris","Quercus","Rembrandtplatz",2021,5,"Lößnig","G32485",30,50,2
+6851044,"51.32183","12.36579","Eberesche","Sorbus aucuparia","Sorbus","Fockestraße",1988,38,"Südvorstadt","41482",17,17,1
+6926411,"51.30362","12.39677","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Probstheidaer Straße",2021,5,"Marienbrunn","32978",20,345,22
+6925041,"51.32221","12.32123","Süßkirsche 'Große Schwarze Knorpel '","Prunus avium 'Große Schwarze Knorpel'","Prunus","Gleis-Grün-Zug Bahnhof Plagwitz",2024,2,"Plagwitz","G42185",80,135,2
+6919877,"51.3204","12.38015","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Kurt-Eisner-Straße",2020,6,"Südvorstadt","31522",10,20,2
+6915666,"51.32798","12.34581","Hopfenbuche","Ostrya carpinifolia","Ostrya","Könneritzstraße",2016,10,"Schleußig","39624",18,81,5
+6915591,"51.32027","12.34168","Hopfenbuche","Ostrya carpinifolia","Ostrya","Könneritzstraße",2017,9,"Schleußig","39422",50,50,1
+6911262,"51.30089","12.38413","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Bornaische Straße",2013,13,"Connewitz","33203",30,30,1
+6915636,"51.3249","12.34442","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Könneritzstraße",2016,10,"Schleußig","39535",110,110,1
+6925737,"51.33881","12.39835","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Crusiusstraße",2023,3,"Reudnitz-Thonberg","21829",40,40,1
+6963350,"51.35645","12.45595","Baumhasel","Corylus colurna","Corylus","Goldsternstraße 023, 025 und Hainbuchenstraße 013 (011297)",NULL,NULL,"Paunsdorf","115076",21,21,1
+6911429,"51.32332","12.32394","Feld-Ahorn","Acer campestre","Acer","Weg 5202",2013,13,"Plagwitz","73659",50,100,2
+6986529,"51.35682","12.26537","Kaiser-Linde","Tilia x vulgaris 'Pallida'","Tilia","Am Dorfplatz (Burghausen)",2023,3,"Burghausen-Rückmarsdorf","57999",40,40,1
+6941496,"51.30739","12.4124","Douglasie","Pseudotsuga menziesii","Pseudotsuga","Südfriedhof",NULL,NULL,"Probstheida","140095",10,150,15
+6985785,"51.35509","12.26488","Kobushi-Magnolie","Magnolia kobus","Magnolia","Parkplatz 7501",2025,1,"Burghausen-Rückmarsdorf","168905",40,40,1
+6821687,"51.33418","12.40207","Berg-Ahorn","Acer pseudoplatanus","Acer","Reichpietschstraße",1960,66,"Reudnitz-Thonberg","22204",12,356,50
+6925339,"51.34796","12.37192","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Parthenstraße",2022,4,"Zentrum-Nord","12942",100,100,1
+6918334,"51.34639","12.40737","Hopfenbuche","Ostrya carpinifolia","Ostrya","Hildegardstraße",2020,6,"Volkmarsdorf","5623",83,83,1
+6917797,"51.35302","12.4146","Feld-Ahorn 'Elsrijk'","Acer campestre 'Elsrijk'","Acer","Kohlweg",2016,10,"Schönefeld-Abtnaundorf","74791",50,175,4
+6907179,"51.33865","12.39867","Silber-Pappel","Populus alba","Populus","Stephaniplatz",2013,13,"Reudnitz-Thonberg","G1839",100,100,1
+6916140,"51.32196","12.32097","Haus-Apfel 'Topaz'","Malus domestica 'Topaz'","Malus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42201",100,386,5
+6918605,"51.36074","12.39193","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Dessauer Straße",2016,10,"Eutritzsch","3400",25,85,4
+6910552,"51.32185","12.36919","Kaiser-Linde","Tilia x vulgaris 'Pallida'","Tilia","August-Bebel-Straße",2013,13,"Südvorstadt","41869",13,13,1
+6915701,"51.34384","12.36749","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Ranstädter Steinweg",2019,7,"Zentrum-Nordwest","446",150,375,4
+6909878,"51.3259","12.2767","Nelken-Kirsche","Prunus serrulata 'Kanzan'","Prunus","Mühlhäuser Ring",2014,12,"Schönau","74222",40,200,7
+6919916,"51.30816","12.3798","Amberbaum","Liquidambar styraciflua","Liquidambar","Pfeffingerstraße",2018,8,"Connewitz","75524",100,430,5
+6916174,"51.33362","12.32748","Pflaumenblättriger Weißdorn 'Splendens'","Crataegus persimilis 'Splendens'","Crataegus","Henriettenpark",2018,8,"Lindenau","G15867",80,320,4
+6903034,"51.34379","12.36727","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Ranstädter Steinweg",2006,20,"Zentrum-Nordwest","447",60,60,1
+6889493,"51.30667","12.29485","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Rapsweg",2004,22,"Großzschocher","51612",180,505,5
+6921741,"51.35508","12.26471","Trauben-Eiche","Quercus petraea","Quercus","Parkplatz 7501",2021,5,"Burghausen-Rückmarsdorf","86699",50,400,9
+6918266,"51.32731","12.27707","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76335",100,300,3
+6912684,"51.33056","12.30644","Sumpf-Eiche","Quercus palustris","Quercus","Hafenstraße",2014,12,"Schönau","74423",50,360,9
+6907758,"51.3292","12.30827","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20508",80,460,8
+6922038,"51.30569","12.29393","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Rapsweg",2022,4,"Großzschocher","51605",180,310,2
+6906509,"51.32933","12.30798","Winter-Linde","Tilia cordata","Tilia","Lindenauer Hafen",2015,11,"Schönau","G20523",60,280,5
+6919665,"51.3226","12.32171","Mispel","Mespilus germanica","Mespilus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42208",100,389,7
+6920237,"51.36267","12.385","Säulen-Hainbuche 'Frans Fontaine'","Carpinus betulus 'Frans Fontaine'","Carpinus","Magdalenenstraße",2019,7,"Eutritzsch","4003",16,44,4
+6918248,"51.32703","12.27399","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76317",100,500,5
+6923937,"51.33928","12.48348","Zerr-Eiche","Quercus cerris","Quercus","Wohngebiet ""Am Gaswerksweg"" 1. BA (B-Plan E-161.1 Wohngebiet ""Am Gaswerksweg I. BA"")",2021,5,"Engelsdorf","82971",32,96,4
+6912766,"51.30349","12.39378","Baumhasel","Corylus colurna","Corylus","Probstheidaer Straße",2011,15,"Marienbrunn","32896",20,125,8
+6916592,"51.31203","12.28411","Platane","Platanus x acerifolia","Platanus","Ratzelstraße",2019,7,"Grünau-Siedlung","76230",150,650,6
+6924820,"51.32923","12.30774","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Lindenauer Hafen",2023,3,"Schönau","124852",60,280,5
+6984209,"51.321428800000000","12.321114000000000",NULL,NULL,NULL,NULL,2016,10,"Plagwitz","osm_6058038334",10,10,1
+6909947,"51.32278","12.26591","Platane","Platanus x acerifolia","Platanus","WG Grünau WK 7-Plovdiver Straße nördlich Max-Klinger-Gymnasium",2011,15,"Grünau-Nord","G2004",88,131,3
+6925328,"51.32137","12.33964","Gleditschie 'Skyline'","Gleditsia triacanthos 'Skyline'","Gleditsia","Brockhausstraße",2021,5,"Schleußig","40728",70,70,1
+6924600,"51.31822","12.32342","Säulen-Ulme","Ulmus 'Columella'","Ulmus","Rolf-Axen-Straße",2021,5,"Kleinzschocher","44454",24,24,1
+6927038,"51.36865","12.40672","Robinie","Robinia pseudoacacia","Robinia","Parkplatz 1201",1910,116,"Mockau-Süd","68384",50,50,1
+6919943,"51.30902","12.3791","Hopfenbuche","Ostrya carpinifolia","Ostrya","Stockartstraße",2018,8,"Connewitz","75532",10,50,5
+6925733,"51.31415","12.42232","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Kommandant-Prendel-Allee",2023,3,"Stötteritz","25989",20,20,1
+6917353,"51.33504","12.33514","Amberbaum","Liquidambar styraciflua","Liquidambar","Siemeringstraße",2017,9,"Lindenau","75077",60,110,3
+6921184,"51.32198","12.32105","Kultur-Birne 'Clapps Liebling'","Pyrus communis 'Clapps Liebling'","Pyrus","Gleis-Grün-Zug Bahnhof Plagwitz",2022,4,"Plagwitz","G42200",100,180,2
+6918956,"51.32514","12.44949","Feld-Ahorn 'Elsrijk'","Acer campestre 'Elsrijk'","Acer","Obernaundorfer Straße",2020,6,"Mölkau","17615",20,390,24
+6911369,"51.30322","12.39229","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Probstheidaer Straße",2015,11,"Lößnig","32846",70,70,1
+6911187,"51.35549","12.26312","Hänge-Weide","Salix alba 'Tristis'","Salix","Spielplatz Bienitzstraße/Schkeuditzer Straße",2013,13,"Burghausen-Rückmarsdorf","G8909",40,300,8
+6912302,"51.3419","12.40595","Kaiser-Linde","Tilia x vulgaris 'Pallida'","Tilia","Hermann-Liebmann-Straße",2011,15,"Neustadt-Neuschönefeld","9044",40,760,19
+6909880,"51.32586","12.27643","Nelken-Kirsche","Prunus serrulata 'Kanzan'","Prunus","Mühlhäuser Ring",2014,12,"Schönau","74224",80,440,7
+6918257,"51.32712","12.27553","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76326",100,400,4
+6915489,"51.32041","12.33813","Kegel-Linde","Tilia flavescens 'Glenleven'","Tilia","Holbeinstraße",2017,9,"Schleußig","40480",40,70,2
+6908917,"51.33383","12.40233","Kolchischer Ahorn 'Rubrum'","Acer cappadocicum 'Rubrum'","Acer","Lene-Voigt-Park",2015,11,"Reudnitz-Thonberg","G32620",15,429,51
+6977104,"51.32171","12.32088","Haus-Apfel 'Cox Orange'","Malus domestica 'Cox Orange'","Malus","Gleis-Grün-Zug Bahnhof Plagwitz",2025,1,"Plagwitz","G42193",50,60,2
+6870585,"51.32182","12.4161","Rotdorn","Crataegus laevigata 'Paul's Scarlet'","Crataegus","Weißestraße",2000,26,"Stötteritz","25338",7,7,1
+6920488,"51.34366","12.32584","Säulen-Ulme","Ulmus 'Columella'","Ulmus","Paul-Küstner-Straße",2024,2,"Altlindenau","133931",75,175,3
+6911217,"51.37039","12.40852","Winter-Linde 'Roelvo'","Tilia cordata 'Roelvo'","Tilia","Gontardweg",2013,13,"Mockau-Süd","2112",40,40,1
+6925327,"51.32149","12.33972","Gleditschie 'Skyline'","Gleditsia triacanthos 'Skyline'","Gleditsia","Brockhausstraße",2021,5,"Schleußig","40726",70,70,1
+6915597,"51.3203","12.34193","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Könneritzstraße",2016,10,"Schleußig","39448",100,100,1
+6916687,"51.34732","12.3975","Säulen-Hainbuche 'Frans Fontaine'","Carpinus betulus 'Frans Fontaine'","Carpinus","Mariannenstraße",2018,8,"Neustadt-Neuschönefeld","8204",50,120,6
+6907324,"51.33053","12.30504","Eingriffliger Weißdorn","Crataegus monogyna","Crataegus","Lindenauer Hafen",2014,12,"Schönau","G20565",80,140,2
+6909207,"51.35779","12.35853","Sand-Birke","Betula pendula","Betula","Schillerhain",2015,11,"Gohlis-Süd","G38659",30,30,1
+6912767,"51.30351","12.39409","Baumhasel","Corylus colurna","Corylus","Probstheidaer Straße",2011,15,"Marienbrunn","32900",20,125,8
+6910738,"51.34188","12.40585","Amberbaum","Liquidambar styraciflua","Liquidambar","Hermann-Liebmann-Straße",2011,15,"Neustadt-Neuschönefeld","9047",40,600,15
+6985250,"51.30734","12.41267","Rhododendron","Rhododendron species","Rhododendron","Südfriedhof",NULL,NULL,"Probstheida","168721",20,230,15
+6918251,"51.32706","12.27451","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76320",100,500,5
+6919517,"51.3328","12.35334","Säulen-Eiche","Quercus robur 'Fastigiata'","Quercus","Sebastian-Bach-Straße",2018,8,"Zentrum-West","75763",5,5,1
+6916134,"51.32215","12.32136","Süßkirsche 'Hedelfinger Riesenkirsche'","Prunus avium 'Hedelfinger Riesenkirsche'","Prunus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42182",100,466,7
+6910089,"51.33014","12.3057","Eingriffliger Weißdorn","Crataegus monogyna","Crataegus","Lindenauer Hafen",2014,12,"Schönau","G20554",90,410,5
+6923210,"51.37073","12.40864","Kaiser-Linde","Tilia x vulgaris 'Pallida'","Tilia","Gontardweg",2022,4,"Mockau-Süd","2111",20,30,2
+6918967,"51.33271","12.40646","Kegelförmiger Spitz-Ahorn","Acer platanoides 'Emerald Queen'","Acer","Riebeckstraße",2020,6,"Reudnitz-Thonberg","22124",100,355,6
+6985789,"51.35513","12.26533","Brabanter Silber-Linde","Tilia tomentosa 'Brabant'","Tilia","Parkplatz 7501",2025,1,"Burghausen-Rückmarsdorf","168909",40,40,1
+6919830,"51.31806","12.37138","Hopfenbuche","Ostrya carpinifolia","Ostrya","Kochstraße",2018,8,"Südvorstadt","75702",10,20,2
+6865182,"51.3342","12.40193","Gefülltblühende Rosskastanie","Aesculus hippocastanum 'Baumannii'","Aesculus","Reichpietschstraße",1999,27,"Reudnitz-Thonberg","22203",15,425,52
+6911260,"51.30111","12.38406","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Bornaische Straße",2013,13,"Connewitz","33200",120,1180,14
+6916141,"51.322","12.32094","Haus-Apfel 'Topaz'","Malus domestica 'Topaz'","Malus","Gleis-Grün-Zug Bahnhof Plagwitz",2020,6,"Plagwitz","G42202",100,356,5
+6915487,"51.32068","12.33819","Kegel-Linde","Tilia flavescens 'Glenleven'","Tilia","Holbeinstraße",2017,9,"Schleußig","40476",100,100,1
+6907761,"51.32927","12.30788","Winter-Linde","Tilia cordata","Tilia","Lindenauer Hafen",2015,11,"Schönau","G20524",60,280,5
+6909048,"51.37522","12.32067","Platane","Platanus x acerifolia","Platanus","Georg-Schumann-Straße",2015,11,"Wahren","52436",10,40,4
+6924603,"51.31755","12.32428","Säulen-Ulme","Ulmus 'Columella'","Ulmus","Rolf-Axen-Straße",2021,5,"Kleinzschocher","76560",24,24,1
+6918265,"51.32728","12.2769","Stiel-Eiche","Quercus robur","Quercus","Lyoner Straße",2019,7,"Schönau","76334",100,300,3
+6916135,"51.32216","12.32126","Süßkirsche 'Burlat'","Prunus avium 'Burlat'","Prunus","Gleis-Grün-Zug Bahnhof Plagwitz",2016,10,"Plagwitz","G42183",100,466,6
+6912304,"51.34228","12.40583","Nelken-Kirsche","Prunus serrulata 'Kanzan'","Prunus","Hermann-Liebmann-Straße",2011,15,"Neustadt-Neuschönefeld","71316",40,640,16
+6924916,"51.33212","12.34723","Platane","Platanus x acerifolia","Platanus","Karl-Heine-Straße",2021,5,"Plagwitz","39954",30,50,2
+6990592,"51.32917","12.30838","Südlicher Zürgelbaum","Celtis australis","Celtis","Lindenauer Hafen",2026,0,"Schönau","G20510",80,560,9
+6920489,"51.34422","12.32489","Säulen-Eiche 'Fastigiata Koster'","Quercus robur 'Fastigiata Koster'","Quercus","Paul-Küstner-Straße",2024,2,"Altlindenau","133934",75,300,4
+6915494,"51.32276","12.33888","Kegel-Linde","Tilia flavescens 'Glenleven'","Tilia","Holbeinstraße",2017,9,"Schleußig","40511",110,110,1
+6910869,"51.34815","12.37184","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Parthenstraße",2015,11,"Zentrum-Nord","12927",55,95,3
+6907749,"51.32927","12.30876","Schwedische Mehlbeere","Sorbus intermedia","Sorbus","Lindenauer Hafen",2015,11,"Schönau","G20486",100,500,7
+6912301,"51.34186","12.40595","Kaiser-Linde","Tilia x vulgaris 'Pallida'","Tilia","Hermann-Liebmann-Straße",2011,15,"Neustadt-Neuschönefeld","9043",40,680,17
+6918901,"51.32978","12.41029","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Holsteinstraße",2019,7,"Reudnitz-Thonberg","20377",4,4,1
+6913601,"51.31904","12.33736","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Antonienstraße",2014,12,"Plagwitz","39324",90,100,2
+6994483,"51.2992","12.40049","Hänge-Weide","Salix alba 'Tristis'","Salix","Park Lößnig/Dölitz, Erholungspark",2026,0,"Lößnig","172800",60,60,1
+6922890,"51.32171","12.276","Zerr-Eiche","Quercus cerris","Quercus","Kiewer Straße",2021,5,"Grünau-Nord","47493",150,300,2
+6913397,"51.34061","12.36119","Säulen-Hainbuche 'Frans Fontaine'","Carpinus betulus 'Frans Fontaine'","Carpinus","Carl-Maria-von-Weber-Straße (Offenlegung Elstermühlgraben)",2015,11,"Zentrum-West","G33769",10,100,10
+6916142,"51.32223","12.32096","Haus-Apfel 'Jacob Lebel'","Malus domestica 'Jacob Lebel'","Malus","Gleis-Grün-Zug Bahnhof Plagwitz",2020,6,"Plagwitz","G42205",100,446,6
+6924353,"51.32176","12.33989","Gleditschie 'Skyline'","Gleditsia triacanthos 'Skyline'","Gleditsia","Brockhausstraße",2021,5,"Schleußig","40722",70,70,1
+6879061,"51.31536","12.30017","Schwarz-Kiefer","Pinus nigra","Pinus","Ringstraße",2000,26,"Grünau-Mitte","75126",220,4210,28
+6917463,"51.3268","12.37249","Säulen-Eiche 'Fastigiata Koster'","Quercus robur 'Fastigiata Koster'","Quercus","Braustraße",2016,10,"Zentrum-Süd","74854",110,310,4
+6825957,"51.35311","12.36816","Ulme","Ulmus species","Ulmus","Kickerlingsberg/Springerstraße",1960,66,"Zentrum-Nordwest","G47474",30,30,1
+6908661,"51.33539","12.3613","Holländische Linde","Tilia x vulgaris","Tilia","Johannapark",2011,15,"Zentrum-West","37730",80,90,2
+6900848,"51.33377","12.4021","Gemeine Esche","Fraxinus excelsior","Fraxinus","Lene-Voigt-Park",2006,20,"Reudnitz-Thonberg","G152",5,5,1
+6916686,"51.3467","12.39737","Stadt-Linde","Tilia cordata 'Greenspire'","Tilia","Ludwigstraße",2020,6,"Neustadt-Neuschönefeld","77072",60,85,3
